@@ -1,0 +1,43 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/local/python/adventofcode2022/day05_SupplyStacks/aoc22_day05_code_part1.py
+
+Crates: Loaded 9 columns of crates
+->        [F] [Q]         [Q]<-
+->[B]     [Q] [V] [D]     [S]<-
+->[S] [P] [T] [R] [M]     [D]<-
+->[J] [V] [W] [M] [F]     [J]     [J]<-
+->[Z] [G] [S] [W] [N] [D] [R]     [T]<-
+->[V] [M] [B] [G] [S] [C] [T] [V] [S]<-
+->[D] [S] [L] [J] [L] [G] [G] [F] [R]<-
+->[G] [Z] [C] [H] [C] [R] [H] [P] [D]<-
+-> 1   2   3   4   5   6   7   8   9<-
+
+Processing 502 Instructions
+
+Crates: Final state
+->                        [M]<-
+->                        [J]<-
+->                        [R]<-
+->                        [S]<-
+->                        [P]<-
+->                        [R]<-
+->                        [V]<-
+->                        [D]<-
+->                        [B]<-
+->                        [L]<-
+->                        [S]<-
+->                        [F]<-
+->                        [D]<-
+->                        [J]<-
+->[W]                     [H]     [S]<-
+->[Q]         [T]         [G] [P] [Q]<-
+->[F]         [G]         [M] [D] [C]<-
+->[C]         [T]         [B] [M] [R]<-
+->[D]         [V]         [G] [F] [G]<-
+->[S]         [R]         [S] [Q] [G]<-
+->[V]         [D]         [Z] [S] [N]<-
+->[J] [C] [Z] [V] [H] [T] [J] [W] [L]<-
+-> 1   2   3   4   5   6   7   8   9<-
+
+Result - Top crates : WCZTHTMPS
+
+Process finished with exit code 0

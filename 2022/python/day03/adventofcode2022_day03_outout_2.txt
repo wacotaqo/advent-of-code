@@ -1,0 +1,204 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/local/python/adventofcode2022/day03/day03_code_part2.py
+1: Group racksacks: ['tdltdtmhlRNCBcwmHr', 'WDzDPnvvGnsWLWpGJJHRzCCRZNBRrRwMNwHH', 'DsDsQnJDnWsJnJvrQDPJddgShFQhjljqhggbdbbt']
+1: Group badge = r, prio = 18
+2: Group racksacks: ['LqvbLLTdvlfdqTLtbvDSRHPhHmRSnndHnHRM', 'jswsGgzwsNgNWNwGJzVrgSHnhHHDmShmmGShnMDPRn', 'JMNWzVwMpjpLpTfTLLTf']
+2: Group badge = M, prio = 39
+3: Group racksacks: ['HnQBjMjPQmRMmJCmBPGSFTSVWcNNGQQGGGTV', 'dgstqdtsbwrzddvrvdwqzhrWSFllDSWGDWFGDNsDDWSTHT', 'gpqZwwzHZhwzMJBmfZnnJLCL']
+3: Group badge = H, prio = 34
+4: Group racksacks: ['PJHbTPCmLdTtLtRtBvzBrWffft', 'hnpTqhMncpFDppDqqNVFVvWzvNWNvfBfzs', 'GwZccTpgnDSDDZQdCZbbClbCmm']
+4: Group badge = T, prio = 46
+5: Group racksacks: ['bnZnRZZZRlpGBbfRJjBbMfhCHwfsHShschMsHCww', 'LqVtqVmtLQvVqqLTFFvLDMhDMpMhwMSLDhsDCH', 'mFQWtNggVQQgmdgpJGpnnZJjbWGBRZ']
+5: Group badge = p, prio = 16
+6: Group racksacks: ['GsdGrGqvLZqWvWWdrPLdfvsvSJDDcQQhcTbFbTcCJLSJShcJ', 'wmBlnjwjgHSSDQjfDDfF', 'wggpmwmwNnMlHRpttRHmlPfWzdGvvvzrZWVvMrPvvZ']
+6: Group badge = f, prio = 6
+7: Group racksacks: ['jvlvTvTvTvcqTdZrdnGlVfNgspslpfGGnM', 'BWQhQzQwmhwWHbWCSRMRgjpjVDDRgDgVffgV', 'zLHQSBWmLcjdPjLLLZ']
+7: Group badge = j, prio = 10
+8: Group racksacks: ['BjjLnRzBnRmTSTBhpBmCjnLqNPGGVNZgNgLGddZVNVdf', 'wDDJJQJlJtHrlwFFPNGGfZbbbglgfPSf', 'tFQssvcDJtJcFcvwHtBmnSCvRmzzhpSCWvmC']
+8: Group badge = S, prio = 45
+9: Group racksacks: ['GvPVvVHPgzPMcFvDHssdpCpsnpHnsj', 'gmhmSRZBJTTTmSBZhhrqSBLRCnsBjjnbjBdbdbbdnbjwwBsj', 'WlrgrRgJSgZSJJJTZRtvVzvGtfzcVFcMzlGM']
+9: Group badge = g, prio = 7
+10: Group racksacks: ['QSZwwsBZZwjsndFsMPHLzTLLLz', 'tpJfgHghmvqpNWrrTMrMMRzPrMPJ', 'ghgghmlvmgNWgmWwBQcbGGSclGHjjb']
+10: Group badge = H, prio = 34
+11: Group racksacks: ['lhlnWGGFWZhDfgFfWDfrhgrRwcccqcZQBQMwcqJMTMRMqJ', 'jVdpSLPVSjtNdjdPtptzLNPPzcBzwCQrCcTBTRqwwqMCJTcC', 'PNHdpPLHtHtjdLghnHWvrvnFlFnf']
+11: Group badge = r, prio = 18
+12: Group racksacks: ['qttvqPdCtLrqRgfpgpMgSfSWvM', 'TJccnTDjjDlDhSpfHdhpTpZf', 'wldwmJdwmsstCsLzBsBCGP']
+12: Group badge = d, prio = 4
+13: Group racksacks: ['ddpCGpGpnndnpWqdVVpDGfDGFzSsFSZzBJShJsVtTstssrsr', 'jbvPLwFjztJBtvJz', 'wjggcgPFLlLwPFNwHmNPQqDRQfCRGCGqnpcRqQnn']
+13: Group badge = F, prio = 32
+14: Group racksacks: ['PmmGhLLcgZbPQnqH', 'DlVsvvrvvvrsDJLRDvvCHbpBqpnbQnggbWZbggVW', 'vJRTSSRJClCCDwTJRfSfCsGzMLmGmzmjGcfmdFNNNtfh']
+14: Group badge = L, prio = 38
+15: Group racksacks: ['vcmmMvfctfjLjvvRbLdHSnQSgQFnghSgQQSSjT', 'WzVbszVNHnTsQFgZ', 'pVlGlzrbDNrDrPpJNNJpVdBDvLdqvvvqqdBqcfvLdq']
+15: Group badge = b, prio = 2
+16: Group racksacks: ['gfzgzPDVZQDDSqBdtFfdFdvqBB', 'MrwmTcJJsMwNmJdvFqdFGGtvvsGt', 'HMmTTwcJqcrTHrjjczhZQgzghgQHhnhhHh']
+16: Group badge = q, prio = 17
+17: Group racksacks: ['BffBVgjPwPPPJwBBVJfDDsgrdZdcZqlcSnSncRNzHzZljNqq', 'CmWFbCmFvMtLLQCTbbbLtRqdSZHcdnqqNqNTRlnqNH', 'MpthtSMvFbvWPVDrsDgpPggD']
+17: Group badge = S, prio = 45
+18: Group racksacks: ['VVRntNwmlvhGccPNfS', 'QZcgZppdrZQTzrBgCbrbdQrBvjLssPjSssMsfSLhTPPGvLTP', 'ZZcpJZHpgCgpppdrJRtVJFqVFVDRWJmtVq']
+18: Group badge = c, prio = 3
+19: Group racksacks: ['dpdhtpjHtnpFRHdjRnwspMQmqpqqmVqmTVJQMmff', 'gSCcBCBCcgwDBLSvcLQQVTMmfmMJDqfTrrVV', 'gSwPzLBbNCbFnHHjhthh']
+19: Group badge = w, prio = 23
+20: Group racksacks: ['dLNrRmqLqRgCNNrCJrSqqSQgjDWnGpGjDjspnlslGHnnjsQj', 'vVTzZFVttVBMFbFfffVVmVtHWpDspjHWWWbGjjjDsjWllW', 'hwFFwztTzvZmBzVfqhSSNPRPPCRPRJCr']
+20: Group badge = m, prio = 13
+21: Group racksacks: ['BjfcmzCCTtNBNjcTDWwzPzDMMQPDPMws', 'lGpJFHnlSlnZbGnQQSBLwSPPLMsDQh', 'JFHHpbnZbGbZgvTmqfNgqCcvjB']
+21: Group badge = B, prio = 28
+22: Group racksacks: ['ShhpqjhhVZmHhSJSSnLzdNRNTjLwNTNTzv', 'QffRWRrMGwLfgNcNgc', 'GQrQDPRBlGlsGrWtrtPDPbWpqhZqSqJJpHZSVhVhhmmBZF']
+22: Group badge = R, prio = 44
+23: Group racksacks: ['ZlVVDTtTrzFDrFfB', 'NNGbJNNNNmpWBNbNWmjMfdjmFfPdqFMrMj', 'NQvRNvSRHSQBgRGQJJQQHTtcVLlVcTwVTllnRsttZs']
+23: Group badge = B, prio = 28
+24: Group racksacks: ['fjsDhJsVDcVJVljFDqLqFlnnCFbzbCCCZCzCtCZrnCCM', 'HwQNrHWNPGPHMZCvMCbzzvHZ', 'dBWwWPPGrGwBlcjDlcjcjldL']
+24: Group badge = r, prio = 18
+25: Group racksacks: ['NCLMHJZqCHHHMFlNBZtTZRvtStZdcRbc', 'wDrnpbswVgsrsWmGpDpfpBQtRSTmdvBjTjtBScctRm', 'gwzgbGDgpgFJMzlzPJCC']
+25: Group badge = b, prio = 2
+26: Group racksacks: ['SpnfPVqFnGfPGggqfGbjZZrtWrlRlbHpZjRZ', 'mmJmdJBsBJsDwhJBQhTZtzdRltrrRlrtHjjl', 'NBscQhmsmmQLLwLmhhwmcSSGfnfSFCSMCPfHCMqG']
+26: Group badge = H, prio = 34
+27: Group racksacks: ['hvVnPwZwVzQrhrVhPPPrpQVDBgMMlSTLZsgdDTSTdsssLd', 'RvFCqCGfbFCRbRmSBMMsLBgdFDSgdL', 'cRGjRWbWjvtPvrQcnr']
+27: Group badge = v, prio = 22
+28: Group racksacks: ['LzLNzhpcRRcTmNDzRhTPDjMvMnVlMgjngSMrMzrQQr', 'tfbWfWcWddFcGFwfswFFFCrjjvlVbrQjSglSQMjgvlgl', 'FHWGCHCCGcwfswqHdHqwwmPqRJDpZZNRJPRPPTTJNR']
+28: Group badge = c, prio = 3
+29: Group racksacks: ['gLHLLhTjZVMwMRSZZS', 'GdqdtlPvnQPPnsRw', 'tNNGvdtbdmJmHRTRJrFr']
+29: Group badge = R, prio = 44
+30: Group racksacks: ['QjjdjGDvdjwpZsssvsPZFZll', 'mTWWMWzbPHmZwHHw', 'JwTbtBztMVLDSpjVtc']
+30: Group badge = w, prio = 23
+31: Group racksacks: ['SZSBWtBSwnTDFSDD', 'CsrJWmmPrPQmpzsPmssssvnTFhvTnPhnFDFfDFnwqF', 'CCCCzprgrJJCgmVcpJmWLQZddHlGbMbdZMbtZNNcHHBt']
+31: Group badge = W, prio = 49
+32: Group racksacks: ['fgqqrZLqZqFzFFWzZzgPPbnMNNNvQnpQnQbNbpcHNP', 'SdwdmwCClCCwldhRSmsvpbncjQbNNQMtjQnMvS', 'mDlwhMRlCwDCTVwVJRdGgfzLLzzGzGFWqGqfGD']
+32: Group badge = M, prio = 39
+33: Group racksacks: ['CnVvCqvnRqHVqnWcMFnLmLnMMm', 'ZrdzbzbrdwtQdSfdcmmFMBWFNFWLwNNp', 'QFrQtJDdSZdDVHlVCPssJRll']
+33: Group badge = F, prio = 32
+34: Group racksacks: ['qMpGGmVNHMGVjRJJGfRgQtjQ', 'flsTZCwDwWcZZPCrPZZWgLLjdJJQSJTQFSgQJJRt', 'ZcChshwZCDvlCZCsPHMHzqNzBmMfmBBMfh']
+34: Group badge = f, prio = 6
+35: Group racksacks: ['wCtZtzCnPldZSdZp', 'VMspbMHspbshbPBLFsdcsLBdLs', 'pRrQHpNbQbrqRqJfnwfwzR']
+35: Group badge = p, prio = 16
+36: Group racksacks: ['DPPcDlPwNdNRJsccpgvwBBvqGGQtqrCjwr', 'fMSVrMWmLZqHQgLggCHH', 'mZZWVTbTWWfnMWrbmznfZfsPNcdsdpRcNJplbJNcNRNl']
+36: Group badge = r, prio = 18
+37: Group racksacks: ['ztlNSLhplhBHwwBBMBtv', 'DnVVfcGbVnGRZGgvPMpHBpCmJMDP', 'GnZdZZnbdpVcQjQQFjjqrlNWlrsNrFNLLsWqSF']
+37: Group badge = p, prio = 16
+38: Group racksacks: ['bJQgDRfjDbJbRMTgSSPzPHCNhzQHHszz', 'wmnwFmDcwFGvpvwGnSWPNPWzPHhhcWSCNz', 'GpDtmvrdGvvBmZrLTjZRTqTjblbMfL']
+38: Group badge = D, prio = 30
+39: Group racksacks: ['gBhZmtHhhhwTJqwDFqGGqPWqDb', 'rRLRVTrjCrCVdFjMbvGPPGDPvW', 'LSsVdrRNRCCffCSllQNBTNgNlmhHBJ']
+39: Group badge = T, prio = 46
+40: Group racksacks: ['lCzCCDMDlzzlZtttWDnDCZPbVGLhSmSLGbSgGPgVZm', 'sBcNsqTQwRQRrBgbgSbPTLVSnLmV', 'wcqrjQsBBjdCzjdnCv']
+40: Group badge = n, prio = 14
+41: Group racksacks: ['ZgHVtMQVVgvQjjtzdzfdFHppfmzwpz', 'CsBrBLLJSrsRCvnGvfRdvF', 'DbBJTJDLrJDqqqrrhJsJqVWthWlZZlZjMPZltvtMjZ']
+41: Group badge = v, prio = 22
+42: Group racksacks: ['bsHlrwlnwwQJsqmJnqsPSLzTLpPGPSgPPPWmLT', 'fdvBtpMDfpCCfBcCcCBtDfFSgTMTGSTRPLgPWGzGgVgLVz', 'NDcjcDZjBCdvvjdvhlbJnprjnnbhwrqn']
+42: Group badge = p, prio = 16
+43: Group racksacks: ['zRpLMMqjgMggqLDqDRVGNGdhGtvGGnvGnrznGB', 'VScbcZPJZWZlZbbHSJQJGtrGvtmdBBGmdGBrdn', 'cbPsZcPCcWfCZPcPQslljpDqwfqVgRLMTRjwVqLM']
+43: Group badge = V, prio = 48
+44: Group racksacks: ['QtRWhjtsbttQtnbbQvsrRBfDNdMGBLZLVVNVGNLGWd', 'JwllwllJmCwzPFSJzwwTBZLDLdBBBPLZZBVTTL', 'ZwFSSmpwzScFSmggHQjbQvjvscQbrtnjbs']
+44: Group badge = Z, prio = 52
+45: Group racksacks: ['WMLWnSHSMnHjPVMVMVVJGM', 'zQzRcmttdftrtrdZZRzDtPZppphsVbjGbQbJTTsCbsjppG', 'dmrDtqfzrmZtqDvdfmZmtdqzLNlgnwgWLNvwFWgWWPNFSFNN']
+45: Group badge = P, prio = 42
+46: Group racksacks: ['hvSrMwqljjBHvqhHsHshqnrZcCCpfCZZCCZZCcCfCZ', 'QDVTRFWlmDnpLnnPTPCZ', 'DVQVtmQRWRRGFVRWVvlwdShBvvSqvtjMdd']
+46: Group badge = l, prio = 12
+47: Group racksacks: ['pnMQbbnDQMNMDQsnTplNTDvqPGHZGcvqmCqvmqZqmlqP', 'dwJdBBwdJJwLJBLSRJczWmHPzqWzzHGmvPRHGG', 'LrdFgSSLBsDMFFcbQb']
+47: Group badge = c, prio = 3
+48: Group racksacks: ['NSnwvSPPVNnPTLVpRvVvRnqhhQQzHhLbzlqcqHzmHHqh', 'DFMMfBffgZJtFsJgwdDHGHHzzmqhhHQzDQGhcH', 'dMrZMMgFfFtZJZfBWMfVPNwPpNwPVSNVjjVWpN']
+48: Group badge = w, prio = 23
+49: Group racksacks: ['dNlLSvLSdNlhphlhlWfVFFbZHqjjHHvqFZQHCQ', 'BcrTcJfRMRmrcbqcQgcHVCVF', 'fBzTJJRmfPPmnppdNwhllwlz']
+49: Group badge = f, prio = 6
+50: Group racksacks: ['GqfSSmPSFwSCmFBwfQfQBfGnggLrhTrJBDDnrddsJDdLTL', 'cHHvVtptbzbrTQJTggnTQv', 'QRVbbQWbpZbVQVGfRmwfFwmjflPP']
+50: Group badge = Q, prio = 43
+51: Group racksacks: ['zzBQJmzQPPlddpJWlzzfdpfjvLvgmvFggMFGDVvLGHVFvvtM', 'CCSTrCncrhcCcwhRnCqCttFDvMFvtWtVHvFhvLVv', 'wCTNCSRnbnpWzlBpJspN']
+51: Group badge = W, prio = 49
+52: Group racksacks: ['PTzTPlrrfrbzmftTTrrjPMsNNFZQgQHVgMtNVFMgFF', 'DpGBcpvdZhccdGJhqDBphZhdVRQVQQVsqFwMRwFgFNHMHwQQ', 'SGcLGpdGnBhDJppSDZlPTTmLrmbTLTmrZL']
+52: Group badge = Z, prio = 52
+53: Group racksacks: ['PzmhTqSzdDGcDhzdJDPBmJnrdVppNVVtgttMVrNnMMnV', 'blbQbWLvlWffCjlGCWwsnLpnpMggnpspnsrg', 'fQRbCZRfFZvZRQHRvHjmGmTFPcBmDhBGTzmGqS']
+53: Group badge = G, prio = 33
+54: Group racksacks: ['JJVJfgJfVDdfDDcpTBgdwQMQZQRZQZwmlmWwQGcm', 'ttzzjjzSqPzqtqzFrPvzwNwMlMRNnnwnllSmmmQG', 'FCvvChhsRVhhJBdB']
+54: Group badge = R, prio = 44
+55: Group racksacks: ['rbQZdRzBFTBzZZcclntHnlfJlrNgngfS', 'PPqGjpPGqpmDmDwqPDVnlNpnJfnnnglJCHlNfC', 'MMhhjMwwPvZNZTvLTZdL']
+55: Group badge = N, prio = 40
+56: Group racksacks: ['ZZGgVgwfQNVNLfZsPqRsVTDspTpsqs', 'jdjdSbmMdMBSvMgBcWpsRpTWDHWTvRPs', 'httmBMhbBBjCdzShfGzJlnQLlgGGZwww']
+56: Group badge = g, prio = 7
+57: Group racksacks: ['gLSLMCbVSGRPdTwtjtVfdt', 'TpzJpFFqmzpscslBtddjlwjjDhhldhvP', 'WpsTmJpHssqnHMGLnGSgbH']
+57: Group badge = T, prio = 46
+58: Group racksacks: ['RRBCpJJplCchWJJHCHCvjdpMzFzrNvVgFrrMzz', 'btLLPGSQctnZnPwwSjgZjjjNNrvMvVrrjV', 'tmLPGmnbnsLLwqQPSwqGbwDfHlHWBWlCsffshDCBfWcJ']
+58: Group badge = c, prio = 3
+59: Group racksacks: ['GhDFZFGZzzbCdZbZVlfv', 'bPNWSbSJSWSJPBBLLqClCltlwlNmllwvCQfC', 'PgPLqgqpWcWJJcnqJccccGrjbHhDRGMDGTDbpRhbFF']
+59: Group badge = b, prio = 2
+60: Group racksacks: ['VJRffrVJvDzcRcFFbpSlQLHlvtlstbbt', 'NmNqPhPqPZhsQLQwSRpH', 'dWRnRdBmMBWgjCgVGjFcCDzf']
+60: Group badge = R, prio = 44
+61: Group racksacks: ['nhhQFDmVmDGhmFpgCgBpcpHqncCt', 'fLLZbljhjjscCggBCLCL', 'PhMRhNWddWNjfRdPRfWNfVmvQFVQzVMJJDJGrmQGrQ']
+61: Group badge = h, prio = 8
+62: Group racksacks: ['PNQtsHvZtsQgQLPsPtHZbfzRffRzMMqRqpzbfqng', 'jDwCmhrDlhBhBldrzJMmfFFbSfFnqpFb', 'jdljDrDrTBBnGVNcGcQLQLQPQL']
+62: Group badge = n, prio = 14
+63: Group racksacks: ['MjzrjZvWQRHtjQdS', 'JFJlDJbcbvtRQmQbQQdf', 'JqNDBVNpqCBqDBCBVDcNVBqNMWgGZTPZgCrPzzvghPwrwZgG']
+63: Group badge = v, prio = 22
+64: Group racksacks: ['gzggttLNDFztFCNWzrLttmFddSjsdJsgZVSsJjwjgbgZVG', 'pPPcqpnqHMpcRbhhMMpThvnwZSjZvdwZvwdZSBvGZSGVZZ', 'ThcPlHbbPHRnlRTHnMhpfltrNLWzCWWCztzffQLLDmDN']
+64: Group badge = b, prio = 2
+65: Group racksacks: ['SlNJRpCGTmdFFDcbqJZFFJ', 'wwnWPHgsLPlVVfssLcZcjjzrDqcFzcgchZ', 'WVvQHQPfLwSGSvCRlNSd']
+65: Group badge = l, prio = 12
+66: Group racksacks: ['wWnWcpWDcwHcRdJQTdmNsT', 'hprqBSvZNjFdFjsq', 'fSfpvhLBfltMCLzWzC']
+66: Group badge = p, prio = 16
+67: Group racksacks: ['fdPfPwPmdmLZfNWjWszQNjjN', 'MBRSBBRBChMRQWhlmVWNsmzm', 'FvRcSrcRrtvrRrvrrrmcwGwLnTHHqGtwZwHdGPHP']
+67: Group badge = m, prio = 13
+68: Group racksacks: ['tFPlJcDJdvLZvFlcvlHtQRthbgQjrhsgQgNr', 'qCnpGMnTTVwCCMnqwWfpChQHRbrgQjsQmmfrrHgHrH', 'GMnTSBnVTnBGbLlDDvFBLDbF']
+68: Group badge = b, prio = 2
+69: Group racksacks: ['rJhPGdLSWnnrdqLhPPWGjcZZffjcgNdgNgRcNfwf', 'mHsDTQlsQBvWspTHzpmCTpcZgwZjZfZNRFwRjRRNMHjZ', 'vCzDDQsDDvbllWTllCDCCTSLbqSPVqSnJLGSqrPLtVnP']
+69: Group badge = W, prio = 49
+70: Group racksacks: ['sSRdHHHSRhjShVHWVFJdQPNFpGCrQCCfflqlPvfN', 'gLztmctMwnBtTzMppBCCrGfQlQQqBN', 'bbbncfzLmmmnnZLgHZWjhsjVJjHRVSdR']
+70: Group badge = f, prio = 6
+71: Group racksacks: ['bRgwCHfgfCCttRbdRLHzzGDnDnLBhmBGzvmFZD', 'rssprQlqlTQGNPcJGVsTBDmWzBnPnhWBvZZDBvDm', 'MQQTJTNGNcqrNwMwwHRdRbdgbj']
+71: Group badge = G, prio = 33
+72: Group racksacks: ['sBnnsDLDBCsLTngnZLcdmppCdmpRJwJJQdMRMP', 'NlrTblbNNbwRPpjjbPdJ', 'GlztrhvfGqltqzWrcZgFZVSWWSTSncnL']
+72: Group badge = T, prio = 46
+73: Group racksacks: ['FLJqLFRjzFqzJddlLfNNCjPrGSHCPHNVNVSH', 'TWTpngssgcPgNGPc', 'pGMDZpnZBMDsTTTnTsQWWZTRlbvdfZlLflZzJfdqvdRbqf']
+73: Group badge = G, prio = 33
+74: Group racksacks: ['ClsJpCgsppMbFFFbHp', 'PvQRPqQPvRdwLNZLZqqwGPPPNTbjMcFcfHjHcMNfBNHrcDDM', 'GLRnzqzdRqwdZnLLPqqZdQGsVtsnlWCVVWsgtWSSVVhFWt']
+74: Group badge = F, prio = 32
+75: Group racksacks: ['LNLSJjQDLlzRGwTTzQfT', 'WbZqchqMZqZWbmdZbhTrvPmGvwfHRHGTHRwH', 'dcfChsWWZgbfWdhCbgDNFBBDjFNBjjVNpD']
+75: Group badge = f, prio = 6
+76: Group racksacks: ['HjCLsHJHCjnNVHdCnHtJdtQQgQDhFGFDLcwFDBFMMDBT', 'vWrSWSbSrRqmzlWlQgRQQTcRMgMTMFwT', 'bzrpWWzbqrpnZsJwZVpC']
+76: Group badge = w, prio = 23
+77: Group racksacks: ['FhlfrNdTrtFdtrrrfcZBMdpZcHHHZMcccv', 'PmbjVDjwQbbjjVpDDvpzBZSSMsvG', 'jmbVjPVWqVmgJgjmmPPQjmqlCMlftnftnNlTTLLfNfrJtN']
+77: Group badge = M, prio = 39
+78: Group racksacks: ['PwMWzqwWbFwznqNQQhffQjJfnhfJ', 'mmdpgmttDrpgpdmZdHmgNsQVZvJNMQvVJffsZVQf', 'pdcBrMgDgcgrrHPcFSFzzqzFFbPS']
+78: Group badge = M, prio = 39
+79: Group racksacks: ['QRJJtSfJtQtjQRnSnNssTNdgsgdwddRWcm', 'qHMDhPBqbqZVzbddTcVwSmNWNVcc', 'BFCZbqPbHBPMhCljvQSvGCCpnj']
+79: Group badge = S, prio = 45
+80: Group racksacks: ['HSzHNHlNHmBSHSBFrFFgBHVVqbQLTTcLtqDsDTBTDcDp', 'CWQZGCWfMZGqbTbtpLsbWp', 'GwjhPCRZPQPPCPwmzSNzzzmwzlzSgH']
+80: Group badge = Q, prio = 43
+81: Group racksacks: ['GgTvJbpJGvPVHZZZLW', 'cwWdnwmWnfwZDBHHNzZBVf', 'nhjjmshdwmSjsnmwrrQrtbtbgTTgrWth']
+81: Group badge = W, prio = 49
+82: Group racksacks: ['lFBTtcnlcFlppVpttcFZVhTTDDLCHDSDCjDCMSLZDWdDDSjD', 'mrfsgMfRRwwPffJfbdDdgWGLGLSDjSSWdC', 'MmfNPwPzMzlhlFlplV']
+82: Group badge = M, prio = 39
+83: Group racksacks: ['pRVgVsRzdDVJJJRttZTnnLrGsrGssG', 'BjMvMBWmjWNWSWrLGZPTHLSLTrZr', 'LLMWQjfvmljLBRVJfbChfVgJRz']
+83: Group badge = L, prio = 38
+84: Group racksacks: ['RPDsdnVrVnVzScStjpFSjV', 'BTLBhMMBpSMsMjZz', 'hwbBgTsbBbGrGHvGrvDnPH']
+84: Group badge = s, prio = 19
+85: Group racksacks: ['nzwgtSFRqhDphDwB', 'CmWCrrmrVPGCDTbpvvvhsZDG', 'VdNrlWHpmQzSMgJFdRFz']
+85: Group badge = p, prio = 16
+86: Group racksacks: ['jrhZtczchvvFCTmCDlDMrMDT', 'bHbLnbbwLnWQpLQgQVpQCTDqdmwqmDqCdDCSlmdd', 'sgVgglblptsfFthtvR']
+86: Group badge = l, prio = 12
+87: Group racksacks: ['LctzWvrzTWsvWBfvBzdJQSdQhQQfpDJJmmDD', 'lMRwjlwlLnZwLHLggQDRGphdFDJQdSdJJQ', 'CjPZCVCjgPwgWqWLqzzcWsVq']
+87: Group badge = L, prio = 38
+88: Group racksacks: ['JNWHsPNsJNHBnfnnqfqswcctDTmPCRmmTRtgCdmD', 'rjGrLrbhGRZVGQhphbbmDgDZMDMwdwDcCMgcDM', 'zvbLvVpFvjzVhbQjGjHlnflJFlWRqBWWBJBS']
+88: Group badge = R, prio = 44
+89: Group racksacks: ['NfCMfGNdGqVDhWBvncLllhBgcmgL', 'bJbRbHHtRtJtZTpSRtsLDLzvcvBmgnnnJlsm', 'SbbbTRpbQHSbbwHZZTHqfCNMfqFWGNGVQMFGDC']
+89: Group badge = D, prio = 30
+90: Group racksacks: ['MdzwdMpVwVNMHQMJNcHM', 'mDtcPDqWnDqgnGJvLHTJHJ', 'mmjhhRBRBcdZrcdRCz']
+90: Group badge = c, prio = 3
+91: Group racksacks: ['lvldsNpNGCGgCvCGggDLMbMmrdwnjjZdLLwrjM', 'HWHtPHSHPBnrmZjBbwwC', 'tHqWRtfttNlDClvNqs']
+91: Group badge = C, prio = 29
+92: Group racksacks: ['BTRNQTQTTBFRTglDwzztDgCwLF', 'jZsMjqgdrrzzSbsDSwsw', 'jWZrMgMjGdvrWWvrWMfMfZTBHTHQBHBQNpQRfRHNpnRT']
+92: Group badge = g, prio = 7
+93: Group racksacks: ['GRgFCPhnBBhPwZPnwdbWMJMlcJTLLlTlRT', 'VQsvVvvVNzqsscTVSLbWTStTJW', 'spfDNpvsnPCfhBbh']
+93: Group badge = b, prio = 2
+94: Group racksacks: ['GhWSgWphprhQqqndQd', 'MvZRjjLcCzwcLnHfdTdgfFHQ', 'wCczcCgRMwRRNCtjMCtCvlBmVDGslmPpmWWNVGSpWV']
+94: Group badge = g, prio = 7
+95: Group racksacks: ['PZqgTbTZvFgZbZnFvPlBsVqsGBlGVzGsqVls', 'MMhSmHHfrfrSrjMNfcjrSRBlBVzGVpVGgGVCGslGNd', 'rMhQQmDSQMjMtZvPTTnJvtQg']
+95: Group badge = g, prio = 7
+96: Group racksacks: ['TNGWlqVpmPssnNssWLtRfCLbjCCwPgLjfg', 'ZSHvHczFBBcHhJHFvhHcSFgrCgLbfgfbwrLTtbjwLwJr', 'BMzSQzcQznlNQTQsnl']
+96: Group badge = T, prio = 46
+97: Group racksacks: ['FVWDZDZHpDdtZlqZqZqljfNmsNFPjbbPbPRbFFjm', 'MJSGMghngrccvSrSzMrsQbbRmjmQmjtNtbfB', 'CMnvczGChCCwcgtpDDlLLLwVHdlHTZ']
+97: Group badge = t, prio = 20
+98: Group racksacks: ['fTTzbQzhDwwbCnZnpbgnHncM', 'mGtBRBFmsRpVGMzpnnGL', 'lFNqtdsssrRFBltSFRFlSrvfDSWWvwfhhPJPjWfQzPvf']
+98: Group badge = z, prio = 26
+99: Group racksacks: ['GWWWQlpSZzrQnjQdRHVjdjTRvddddB', 'ztthMtCmffcChJhChfCJdLddLBBgvqdvBBVBcgdq', 'smbsmbmChCJmJffPmhNthDtZwnFQZQGpSrGWGQGZpQZzWP']
+99: Group badge = z, prio = 26
+100: Group racksacks: ['ZDzsjjFLFqsQzFsZqDzBHGtBHpmgdNGmGBtLBG', 'hbbMMTcWhbwnJPlwWrnPbbVGVNndgpVVHmdNHVBmmmtf', 'bCTPTclcgRZQZCgs']
+100: Group badge = g, prio = 7
+Sum of all group priorities: 2497
+
+Process finished with exit code 0

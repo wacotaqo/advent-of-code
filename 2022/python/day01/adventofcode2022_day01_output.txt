@@ -1,0 +1,3 @@
+method 1: The most calories carried = 71924
+method 2: The most calories carried = 71924
+Sum of calories held by the 3 elves with the most calories ([68589, 69893, 71924]) = 210406

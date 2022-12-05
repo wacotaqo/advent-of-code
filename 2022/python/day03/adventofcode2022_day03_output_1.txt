@@ -1,0 +1,604 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/local/python/adventofcode2022/day03/day03_code_part1.py
+1: Row(tdltdtmhlRNCBcwmHr) item m in tdltdtmhl is also in RNCBcwmHr
+1: Duplicate item m has priority 13
+2: Row(WDzDPnvvGnsWLWpGJJHRzCCRZNBRrRwMNwHH) item z in WDzDPnvvGnsWLWpGJJ is also in HRzCCRZNBRrRwMNwHH
+2: Duplicate item z has priority 26
+3: Row(DsDsQnJDnWsJnJvrQDPJddgShFQhjljqhggbdbbt) item Q in DsDsQnJDnWsJnJvrQDPJ is also in ddgShFQhjljqhggbdbbt
+3: Duplicate item Q has priority 43
+4: Row(LqvbLLTdvlfdqTLtbvDSRHPhHmRSnndHnHRM) item d in LqvbLLTdvlfdqTLtbv is also in DSRHPhHmRSnndHnHRM
+4: Duplicate item d has priority 4
+5: Row(jswsGgzwsNgNWNwGJzVrgSHnhHHDmShmmGShnMDPRn) item G in jswsGgzwsNgNWNwGJzVrg is also in SHnhHHDmShmmGShnMDPRn
+5: Duplicate item G has priority 33
+6: Row(JMNWzVwMpjpLpTfTLLTf) item p in JMNWzVwMpj is also in pLpTfTLLTf
+6: Duplicate item p has priority 16
+7: Row(HnQBjMjPQmRMmJCmBPGSFTSVWcNNGQQGGGTV) item Q in HnQBjMjPQmRMmJCmBP is also in GSFTSVWcNNGQQGGGTV
+7: Duplicate item Q has priority 43
+8: Row(dgstqdtsbwrzddvrvdwqzhrWSFllDSWGDWFGDNsDDWSTHT) item s in dgstqdtsbwrzddvrvdwqzhr is also in WSFllDSWGDWFGDNsDDWSTHT
+8: Duplicate item s has priority 19
+9: Row(gpqZwwzHZhwzMJBmfZnnJLCL) item Z in gpqZwwzHZhwz is also in MJBmfZnnJLCL
+9: Duplicate item Z has priority 52
+10: Row(PJHbTPCmLdTtLtRtBvzBrWffft) item t in PJHbTPCmLdTtL is also in tRtBvzBrWffft
+10: Duplicate item t has priority 20
+11: Row(hnpTqhMncpFDppDqqNVFVvWzvNWNvfBfzs) item F in hnpTqhMncpFDppDqq is also in NVFVvWzvNWNvfBfzs
+11: Duplicate item F has priority 32
+12: Row(GwZccTpgnDSDDZQdCZbbClbCmm) item Z in GwZccTpgnDSDD is also in ZQdCZbbClbCmm
+12: Duplicate item Z has priority 52
+13: Row(bnZnRZZZRlpGBbfRJjBbMfhCHwfsHShschMsHCww) item f in bnZnRZZZRlpGBbfRJjBb is also in MfhCHwfsHShschMsHCww
+13: Duplicate item f has priority 6
+14: Row(LqVtqVmtLQvVqqLTFFvLDMhDMpMhwMSLDhsDCH) item L in LqVtqVmtLQvVqqLTFFv is also in LDMhDMpMhwMSLDhsDCH
+14: Duplicate item L has priority 38
+15: Row(mFQWtNggVQQgmdgpJGpnnZJjbWGBRZ) item W in mFQWtNggVQQgmdg is also in pJGpnnZJjbWGBRZ
+15: Duplicate item W has priority 49
+16: Row(GsdGrGqvLZqWvWWdrPLdfvsvSJDDcQQhcTbFbTcCJLSJShcJ) item L in GsdGrGqvLZqWvWWdrPLdfvsv is also in SJDDcQQhcTbFbTcCJLSJShcJ
+16: Duplicate item L has priority 38
+17: Row(wmBlnjwjgHSSDQjfDDfF) item j in wmBlnjwjgH is also in SSDQjfDDfF
+17: Duplicate item j has priority 10
+18: Row(wggpmwmwNnMlHRpttRHmlPfWzdGvvvzrZWVvMrPvvZ) item M in wggpmwmwNnMlHRpttRHml is also in PfWzdGvvvzrZWVvMrPvvZ
+18: Duplicate item M has priority 39
+19: Row(jvlvTvTvTvcqTdZrdnGlVfNgspslpfGGnM) item l in jvlvTvTvTvcqTdZrd is also in nGlVfNgspslpfGGnM
+19: Duplicate item l has priority 12
+20: Row(BWQhQzQwmhwWHbWCSRMRgjpjVDDRgDgVffgV) item R in BWQhQzQwmhwWHbWCSR is also in MRgjpjVDDRgDgVffgV
+20: Duplicate item R has priority 44
+21: Row(zLHQSBWmLcjdPjLLLZ) item L in zLHQSBWmL is also in cjdPjLLLZ
+21: Duplicate item L has priority 38
+22: Row(BjjLnRzBnRmTSTBhpBmCjnLqNPGGVNZgNgLGddZVNVdf) item L in BjjLnRzBnRmTSTBhpBmCjn is also in LqNPGGVNZgNgLGddZVNVdf
+22: Duplicate item L has priority 38
+23: Row(wDDJJQJlJtHrlwFFPNGGfZbbbglgfPSf) item l in wDDJJQJlJtHrlwFF is also in PNGGfZbbbglgfPSf
+23: Duplicate item l has priority 12
+24: Row(tFQssvcDJtJcFcvwHtBmnSCvRmzzhpSCWvmC) item v in tFQssvcDJtJcFcvwHt is also in BmnSCvRmzzhpSCWvmC
+24: Duplicate item v has priority 22
+25: Row(GvPVvVHPgzPMcFvDHssdpCpsnpHnsj) item H in GvPVvVHPgzPMcFv is also in DHssdpCpsnpHnsj
+25: Duplicate item H has priority 34
+26: Row(gmhmSRZBJTTTmSBZhhrqSBLRCnsBjjnbjBdbdbbdnbjwwBsj) item B in gmhmSRZBJTTTmSBZhhrqSBLR is also in CnsBjjnbjBdbdbbdnbjwwBsj
+26: Duplicate item B has priority 28
+27: Row(WlrgrRgJSgZSJJJTZRtvVzvGtfzcVFcMzlGM) item l in WlrgrRgJSgZSJJJTZR is also in tvVzvGtfzcVFcMzlGM
+27: Duplicate item l has priority 12
+28: Row(QSZwwsBZZwjsndFsMPHLzTLLLz) item s in QSZwwsBZZwjsn is also in dFsMPHLzTLLLz
+28: Duplicate item s has priority 19
+29: Row(tpJfgHghmvqpNWrrTMrMMRzPrMPJ) item J in tpJfgHghmvqpNW is also in rrTMrMMRzPrMPJ
+29: Duplicate item J has priority 36
+30: Row(ghgghmlvmgNWgmWwBQcbGGSclGHjjb) item l in ghgghmlvmgNWgmW is also in wBQcbGGSclGHjjb
+30: Duplicate item l has priority 12
+31: Row(lhlnWGGFWZhDfgFfWDfrhgrRwcccqcZQBQMwcqJMTMRMqJ) item Z in lhlnWGGFWZhDfgFfWDfrhgr is also in RwcccqcZQBQMwcqJMTMRMqJ
+31: Duplicate item Z has priority 52
+32: Row(jVdpSLPVSjtNdjdPtptzLNPPzcBzwCQrCcTBTRqwwqMCJTcC) item z in jVdpSLPVSjtNdjdPtptzLNPP is also in zcBzwCQrCcTBTRqwwqMCJTcC
+32: Duplicate item z has priority 26
+33: Row(PNHdpPLHtHtjdLghnHWvrvnFlFnf) item H in PNHdpPLHtHtjdL is also in ghnHWvrvnFlFnf
+33: Duplicate item H has priority 34
+34: Row(qttvqPdCtLrqRgfpgpMgSfSWvM) item v in qttvqPdCtLrqR is also in gfpgpMgSfSWvM
+34: Duplicate item v has priority 22
+35: Row(TJccnTDjjDlDhSpfHdhpTpZf) item T in TJccnTDjjDlD is also in hSpfHdhpTpZf
+35: Duplicate item T has priority 46
+36: Row(wldwmJdwmsstCsLzBsBCGP) item s in wldwmJdwmss is also in tCsLzBsBCGP
+36: Duplicate item s has priority 19
+37: Row(ddpCGpGpnndnpWqdVVpDGfDGFzSsFSZzBJShJsVtTstssrsr) item V in ddpCGpGpnndnpWqdVVpDGfDG is also in FzSsFSZzBJShJsVtTstssrsr
+37: Duplicate item V has priority 48
+38: Row(jbvPLwFjztJBtvJz) item v in jbvPLwFj is also in ztJBtvJz
+38: Duplicate item v has priority 22
+39: Row(wjggcgPFLlLwPFNwHmNPQqDRQfCRGCGqnpcRqQnn) item c in wjggcgPFLlLwPFNwHmNP is also in QqDRQfCRGCGqnpcRqQnn
+39: Duplicate item c has priority 3
+40: Row(PmmGhLLcgZbPQnqH) item P in PmmGhLLc is also in gZbPQnqH
+40: Duplicate item P has priority 42
+41: Row(DlVsvvrvvvrsDJLRDvvCHbpBqpnbQnggbWZbggVW) item V in DlVsvvrvvvrsDJLRDvvC is also in HbpBqpnbQnggbWZbggVW
+41: Duplicate item V has priority 48
+42: Row(vJRTSSRJClCCDwTJRfSfCsGzMLmGmzmjGcfmdFNNNtfh) item f in vJRTSSRJClCCDwTJRfSfCs is also in GzMLmGmzmjGcfmdFNNNtfh
+42: Duplicate item f has priority 6
+43: Row(vcmmMvfctfjLjvvRbLdHSnQSgQFnghSgQQSSjT) item j in vcmmMvfctfjLjvvRbLd is also in HSnQSgQFnghSgQQSSjT
+43: Duplicate item j has priority 10
+44: Row(WzVbszVNHnTsQFgZ) item s in WzVbszVN is also in HnTsQFgZ
+44: Duplicate item s has priority 19
+45: Row(pVlGlzrbDNrDrPpJNNJpVdBDvLdqvvvqqdBqcfvLdq) item D in pVlGlzrbDNrDrPpJNNJpV is also in dBDvLdqvvvqqdBqcfvLdq
+45: Duplicate item D has priority 30
+46: Row(gfzgzPDVZQDDSqBdtFfdFdvqBB) item f in gfzgzPDVZQDDS is also in qBdtFfdFdvqBB
+46: Duplicate item f has priority 6
+47: Row(MrwmTcJJsMwNmJdvFqdFGGtvvsGt) item s in MrwmTcJJsMwNmJ is also in dvFqdFGGtvvsGt
+47: Duplicate item s has priority 19
+48: Row(HMmTTwcJqcrTHrjjczhZQgzghgQHhnhhHh) item H in HMmTTwcJqcrTHrjjc is also in zhZQgzghgQHhnhhHh
+48: Duplicate item H has priority 34
+49: Row(BffBVgjPwPPPJwBBVJfDDsgrdZdcZqlcSnSncRNzHzZljNqq) item j in BffBVgjPwPPPJwBBVJfDDsgr is also in dZdcZqlcSnSncRNzHzZljNqq
+49: Duplicate item j has priority 10
+50: Row(CmWFbCmFvMtLLQCTbbbLtRqdSZHcdnqqNqNTRlnqNH) item T in CmWFbCmFvMtLLQCTbbbLt is also in RqdSZHcdnqqNqNTRlnqNH
+50: Duplicate item T has priority 46
+51: Row(MpthtSMvFbvWPVDrsDgpPggD) item p in MpthtSMvFbvW is also in PVDrsDgpPggD
+51: Duplicate item p has priority 16
+52: Row(VVRntNwmlvhGccPNfS) item N in VVRntNwml is also in vhGccPNfS
+52: Duplicate item N has priority 40
+53: Row(QZcgZppdrZQTzrBgCbrbdQrBvjLssPjSssMsfSLhTPPGvLTP) item T in QZcgZppdrZQTzrBgCbrbdQrB is also in vjLssPjSssMsfSLhTPPGvLTP
+53: Duplicate item T has priority 46
+54: Row(ZZcpJZHpgCgpppdrJRtVJFqVFVDRWJmtVq) item J in ZZcpJZHpgCgpppdrJ is also in RtVJFqVFVDRWJmtVq
+54: Duplicate item J has priority 36
+55: Row(dpdhtpjHtnpFRHdjRnwspMQmqpqqmVqmTVJQMmff) item p in dpdhtpjHtnpFRHdjRnws is also in pMQmqpqqmVqmTVJQMmff
+55: Duplicate item p has priority 16
+56: Row(gSCcBCBCcgwDBLSvcLQQVTMmfmMJDqfTrrVV) item D in gSCcBCBCcgwDBLSvcL is also in QQVTMmfmMJDqfTrrVV
+56: Duplicate item D has priority 30
+57: Row(gSwPzLBbNCbFnHHjhthh) item b in gSwPzLBbNC is also in bFnHHjhthh
+57: Duplicate item b has priority 2
+58: Row(dLNrRmqLqRgCNNrCJrSqqSQgjDWnGpGjDjspnlslGHnnjsQj) item Q in dLNrRmqLqRgCNNrCJrSqqSQg is also in jDWnGpGjDjspnlslGHnnjsQj
+58: Duplicate item Q has priority 43
+59: Row(vVTzZFVttVBMFbFfffVVmVtHWpDspjHWWWbGjjjDsjWllW) item b in vVTzZFVttVBMFbFfffVVmVt is also in HWpDspjHWWWbGjjjDsjWllW
+59: Duplicate item b has priority 2
+60: Row(hwFFwztTzvZmBzVfqhSSNPRPPCRPRJCr) item h in hwFFwztTzvZmBzVf is also in qhSSNPRPPCRPRJCr
+60: Duplicate item h has priority 8
+61: Row(BjfcmzCCTtNBNjcTDWwzPzDMMQPDPMws) item z in BjfcmzCCTtNBNjcT is also in DWwzPzDMMQPDPMws
+61: Duplicate item z has priority 26
+62: Row(lGpJFHnlSlnZbGnQQSBLwSPPLMsDQh) item S in lGpJFHnlSlnZbGn is also in QQSBLwSPPLMsDQh
+62: Duplicate item S has priority 45
+63: Row(JFHHpbnZbGbZgvTmqfNgqCcvjB) item g in JFHHpbnZbGbZg is also in vTmqfNgqCcvjB
+63: Duplicate item g has priority 7
+64: Row(ShhpqjhhVZmHhSJSSnLzdNRNTjLwNTNTzv) item j in ShhpqjhhVZmHhSJSS is also in nLzdNRNTjLwNTNTzv
+64: Duplicate item j has priority 10
+65: Row(QffRWRrMGwLfgNcNgc) item f in QffRWRrMG is also in wLfgNcNgc
+65: Duplicate item f has priority 6
+66: Row(GQrQDPRBlGlsGrWtrtPDPbWpqhZqSqJJpHZSVhVhhmmBZF) item B in GQrQDPRBlGlsGrWtrtPDPbW is also in pqhZqSqJJpHZSVhVhhmmBZF
+66: Duplicate item B has priority 28
+67: Row(ZlVVDTtTrzFDrFfB) item D in ZlVVDTtT is also in rzFDrFfB
+67: Duplicate item D has priority 30
+68: Row(NNGbJNNNNmpWBNbNWmjMfdjmFfPdqFMrMj) item m in NNGbJNNNNmpWBNbNW is also in mjMfdjmFfPdqFMrMj
+68: Duplicate item m has priority 13
+69: Row(NQvRNvSRHSQBgRGQJJQQHTtcVLlVcTwVTllnRsttZs) item R in NQvRNvSRHSQBgRGQJJQQH is also in TtcVLlVcTwVTllnRsttZs
+69: Duplicate item R has priority 44
+70: Row(fjsDhJsVDcVJVljFDqLqFlnnCFbzbCCCZCzCtCZrnCCM) item F in fjsDhJsVDcVJVljFDqLqFl is also in nnCFbzbCCCZCzCtCZrnCCM
+70: Duplicate item F has priority 32
+71: Row(HwQNrHWNPGPHMZCvMCbzzvHZ) item H in HwQNrHWNPGPH is also in MZCvMCbzzvHZ
+71: Duplicate item H has priority 34
+72: Row(dBWwWPPGrGwBlcjDlcjcjldL) item d in dBWwWPPGrGwB is also in lcjDlcjcjldL
+72: Duplicate item d has priority 4
+73: Row(NCLMHJZqCHHHMFlNBZtTZRvtStZdcRbc) item Z in NCLMHJZqCHHHMFlN is also in BZtTZRvtStZdcRbc
+73: Duplicate item Z has priority 52
+74: Row(wDrnpbswVgsrsWmGpDpfpBQtRSTmdvBjTjtBScctRm) item m in wDrnpbswVgsrsWmGpDpfp is also in BQtRSTmdvBjTjtBScctRm
+74: Duplicate item m has priority 13
+75: Row(gwzgbGDgpgFJMzlzPJCC) item z in gwzgbGDgpg is also in FJMzlzPJCC
+75: Duplicate item z has priority 26
+76: Row(SpnfPVqFnGfPGggqfGbjZZrtWrlRlbHpZjRZ) item p in SpnfPVqFnGfPGggqfG is also in bjZZrtWrlRlbHpZjRZ
+76: Duplicate item p has priority 16
+77: Row(mmJmdJBsBJsDwhJBQhTZtzdRltrrRlrtHjjl) item d in mmJmdJBsBJsDwhJBQh is also in TZtzdRltrrRlrtHjjl
+77: Duplicate item d has priority 4
+78: Row(NBscQhmsmmQLLwLmhhwmcSSGfnfSFCSMCPfHCMqG) item c in NBscQhmsmmQLLwLmhhwm is also in cSSGfnfSFCSMCPfHCMqG
+78: Duplicate item c has priority 3
+79: Row(hvVnPwZwVzQrhrVhPPPrpQVDBgMMlSTLZsgdDTSTdsssLd) item Z in hvVnPwZwVzQrhrVhPPPrpQV is also in DBgMMlSTLZsgdDTSTdsssLd
+79: Duplicate item Z has priority 52
+80: Row(RvFCqCGfbFCRbRmSBMMsLBgdFDSgdL) item F in RvFCqCGfbFCRbRm is also in SBMMsLBgdFDSgdL
+80: Duplicate item F has priority 32
+81: Row(cRGjRWbWjvtPvrQcnr) item c in cRGjRWbWj is also in vtPvrQcnr
+81: Duplicate item c has priority 3
+82: Row(LzLNzhpcRRcTmNDzRhTPDjMvMnVlMgjngSMrMzrQQr) item z in LzLNzhpcRRcTmNDzRhTPD is also in jMvMnVlMgjngSMrMzrQQr
+82: Duplicate item z has priority 26
+83: Row(tfbWfWcWddFcGFwfswFFFCrjjvlVbrQjSglSQMjgvlgl) item b in tfbWfWcWddFcGFwfswFFFC is also in rjjvlVbrQjSglSQMjgvlgl
+83: Duplicate item b has priority 2
+84: Row(FHWGCHCCGcwfswqHdHqwwmPqRJDpZZNRJPRPPTTJNR) item q in FHWGCHCCGcwfswqHdHqww is also in mPqRJDpZZNRJPRPPTTJNR
+84: Duplicate item q has priority 17
+85: Row(gLHLLhTjZVMwMRSZZS) item Z in gLHLLhTjZ is also in VMwMRSZZS
+85: Duplicate item Z has priority 52
+86: Row(GdqdtlPvnQPPnsRw) item P in GdqdtlPv is also in nQPPnsRw
+86: Duplicate item P has priority 42
+87: Row(tNNGvdtbdmJmHRTRJrFr) item m in tNNGvdtbdm is also in JmHRTRJrFr
+87: Duplicate item m has priority 13
+88: Row(QjjdjGDvdjwpZsssvsPZFZll) item v in QjjdjGDvdjwp is also in ZsssvsPZFZll
+88: Duplicate item v has priority 22
+89: Row(mTWWMWzbPHmZwHHw) item m in mTWWMWzb is also in PHmZwHHw
+89: Duplicate item m has priority 13
+90: Row(JwTbtBztMVLDSpjVtc) item t in JwTbtBztM is also in VLDSpjVtc
+90: Duplicate item t has priority 20
+91: Row(SZSBWtBSwnTDFSDD) item S in SZSBWtBS is also in wnTDFSDD
+91: Duplicate item S has priority 45
+92: Row(CsrJWmmPrPQmpzsPmssssvnTFhvTnPhnFDFfDFnwqF) item P in CsrJWmmPrPQmpzsPmssss is also in vnTFhvTnPhnFDFfDFnwqF
+92: Duplicate item P has priority 42
+93: Row(CCCCzprgrJJCgmVcpJmWLQZddHlGbMbdZMbtZNNcHHBt) item c in CCCCzprgrJJCgmVcpJmWLQ is also in ZddHlGbMbdZMbtZNNcHHBt
+93: Duplicate item c has priority 3
+94: Row(fgqqrZLqZqFzFFWzZzgPPbnMNNNvQnpQnQbNbpcHNP) item P in fgqqrZLqZqFzFFWzZzgPP is also in bnMNNNvQnpQnQbNbpcHNP
+94: Duplicate item P has priority 42
+95: Row(SdwdmwCClCCwldhRSmsvpbncjQbNNQMtjQnMvS) item S in SdwdmwCClCCwldhRSms is also in vpbncjQbNNQMtjQnMvS
+95: Duplicate item S has priority 45
+96: Row(mDlwhMRlCwDCTVwVJRdGgfzLLzzGzGFWqGqfGD) item D in mDlwhMRlCwDCTVwVJRd is also in GgfzLLzzGzGFWqGqfGD
+96: Duplicate item D has priority 30
+97: Row(CnVvCqvnRqHVqnWcMFnLmLnMMm) item n in CnVvCqvnRqHVq is also in nWcMFnLmLnMMm
+97: Duplicate item n has priority 14
+98: Row(ZrdzbzbrdwtQdSfdcmmFMBWFNFWLwNNp) item w in ZrdzbzbrdwtQdSfd is also in cmmFMBWFNFWLwNNp
+98: Duplicate item w has priority 23
+99: Row(QFrQtJDdSZdDVHlVCPssJRll) item J in QFrQtJDdSZdD is also in VHlVCPssJRll
+99: Duplicate item J has priority 36
+100: Row(qMpGGmVNHMGVjRJJGfRgQtjQ) item G in qMpGGmVNHMGV is also in jRJJGfRgQtjQ
+100: Duplicate item G has priority 33
+101: Row(flsTZCwDwWcZZPCrPZZWgLLjdJJQSJTQFSgQJJRt) item T in flsTZCwDwWcZZPCrPZZW is also in gLLjdJJQSJTQFSgQJJRt
+101: Duplicate item T has priority 46
+102: Row(ZcChshwZCDvlCZCsPHMHzqNzBmMfmBBMfh) item h in ZcChshwZCDvlCZCsP is also in HMHzqNzBmMfmBBMfh
+102: Duplicate item h has priority 8
+103: Row(wCtZtzCnPldZSdZp) item Z in wCtZtzCn is also in PldZSdZp
+103: Duplicate item Z has priority 52
+104: Row(VMspbMHspbshbPBLFsdcsLBdLs) item s in VMspbMHspbshb is also in PBLFsdcsLBdLs
+104: Duplicate item s has priority 19
+105: Row(pRrQHpNbQbrqRqJfnwfwzR) item R in pRrQHpNbQbr is also in qRqJfnwfwzR
+105: Duplicate item R has priority 44
+106: Row(DPPcDlPwNdNRJsccpgvwBBvqGGQtqrCjwr) item w in DPPcDlPwNdNRJsccp is also in gvwBBvqGGQtqrCjwr
+106: Duplicate item w has priority 23
+107: Row(fMSVrMWmLZqHQgLggCHH) item L in fMSVrMWmLZ is also in qHQgLggCHH
+107: Duplicate item L has priority 38
+108: Row(mZZWVTbTWWfnMWrbmznfZfsPNcdsdpRcNJplbJNcNRNl) item b in mZZWVTbTWWfnMWrbmznfZf is also in sPNcdsdpRcNJplbJNcNRNl
+108: Duplicate item b has priority 2
+109: Row(ztlNSLhplhBHwwBBMBtv) item t in ztlNSLhplh is also in BHwwBBMBtv
+109: Duplicate item t has priority 20
+110: Row(DnVVfcGbVnGRZGgvPMpHBpCmJMDP) item D in DnVVfcGbVnGRZG is also in gvPMpHBpCmJMDP
+110: Duplicate item D has priority 30
+111: Row(GnZdZZnbdpVcQjQQFjjqrlNWlrsNrFNLLsWqSF) item F in GnZdZZnbdpVcQjQQFjj is also in qrlNWlrsNrFNLLsWqSF
+111: Duplicate item F has priority 32
+112: Row(bJQgDRfjDbJbRMTgSSPzPHCNhzQHHszz) item Q in bJQgDRfjDbJbRMTg is also in SSPzPHCNhzQHHszz
+112: Duplicate item Q has priority 43
+113: Row(wmnwFmDcwFGvpvwGnSWPNPWzPHhhcWSCNz) item c in wmnwFmDcwFGvpvwGn is also in SWPNPWzPHhhcWSCNz
+113: Duplicate item c has priority 3
+114: Row(GpDtmvrdGvvBmZrLTjZRTqTjblbMfL) item Z in GpDtmvrdGvvBmZr is also in LTjZRTqTjblbMfL
+114: Duplicate item Z has priority 52
+115: Row(gBhZmtHhhhwTJqwDFqGGqPWqDb) item w in gBhZmtHhhhwTJ is also in qwDFqGGqPWqDb
+115: Duplicate item w has priority 23
+116: Row(rRLRVTrjCrCVdFjMbvGPPGDPvW) item j in rRLRVTrjCrCVd is also in FjMbvGPPGDPvW
+116: Duplicate item j has priority 10
+117: Row(LSsVdrRNRCCffCSllQNBTNgNlmhHBJ) item N in LSsVdrRNRCCffCS is also in llQNBTNgNlmhHBJ
+117: Duplicate item N has priority 40
+118: Row(lCzCCDMDlzzlZtttWDnDCZPbVGLhSmSLGbSgGPgVZm) item Z in lCzCCDMDlzzlZtttWDnDC is also in ZPbVGLhSmSLGbSgGPgVZm
+118: Duplicate item Z has priority 52
+119: Row(sBcNsqTQwRQRrBgbgSbPTLVSnLmV) item T in sBcNsqTQwRQRrB is also in gbgSbPTLVSnLmV
+119: Duplicate item T has priority 46
+120: Row(wcqrjQsBBjdCzjdnCv) item j in wcqrjQsBB is also in jdCzjdnCv
+120: Duplicate item j has priority 10
+121: Row(ZgHVtMQVVgvQjjtzdzfdFHppfmzwpz) item H in ZgHVtMQVVgvQjjt is also in zdzfdFHppfmzwpz
+121: Duplicate item H has priority 34
+122: Row(CsBrBLLJSrsRCvnGvfRdvF) item C in CsBrBLLJSrs is also in RCvnGvfRdvF
+122: Duplicate item C has priority 29
+123: Row(DbBJTJDLrJDqqqrrhJsJqVWthWlZZlZjMPZltvtMjZ) item h in DbBJTJDLrJDqqqrrhJsJq is also in VWthWlZZlZjMPZltvtMjZ
+123: Duplicate item h has priority 8
+124: Row(bsHlrwlnwwQJsqmJnqsPSLzTLpPGPSgPPPWmLT) item m in bsHlrwlnwwQJsqmJnqs is also in PSLzTLpPGPSgPPPWmLT
+124: Duplicate item m has priority 13
+125: Row(fdvBtpMDfpCCfBcCcCBtDfFSgTMTGSTRPLgPWGzGgVgLVz) item M in fdvBtpMDfpCCfBcCcCBtDfF is also in SgTMTGSTRPLgPWGzGgVgLVz
+125: Duplicate item M has priority 39
+126: Row(NDcjcDZjBCdvvjdvhlbJnprjnnbhwrqn) item j in NDcjcDZjBCdvvjdv is also in hlbJnprjnnbhwrqn
+126: Duplicate item j has priority 10
+127: Row(zRpLMMqjgMggqLDqDRVGNGdhGtvGGnvGnrznGB) item z in zRpLMMqjgMggqLDqDRV is also in GNGdhGtvGGnvGnrznGB
+127: Duplicate item z has priority 26
+128: Row(VScbcZPJZWZlZbbHSJQJGtrGvtmdBBGmdGBrdn) item J in VScbcZPJZWZlZbbHSJQ is also in JGtrGvtmdBBGmdGBrdn
+128: Duplicate item J has priority 36
+129: Row(cbPsZcPCcWfCZPcPQslljpDqwfqVgRLMTRjwVqLM) item f in cbPsZcPCcWfCZPcPQsll is also in jpDqwfqVgRLMTRjwVqLM
+129: Duplicate item f has priority 6
+130: Row(QtRWhjtsbttQtnbbQvsrRBfDNdMGBLZLVVNVGNLGWd) item W in QtRWhjtsbttQtnbbQvsrR is also in BfDNdMGBLZLVVNVGNLGWd
+130: Duplicate item W has priority 49
+131: Row(JwllwllJmCwzPFSJzwwTBZLDLdBBBPLZZBVTTL) item P in JwllwllJmCwzPFSJzww is also in TBZLDLdBBBPLZZBVTTL
+131: Duplicate item P has priority 42
+132: Row(ZwFSSmpwzScFSmggHQjbQvjvscQbrtnjbs) item c in ZwFSSmpwzScFSmggH is also in QjbQvjvscQbrtnjbs
+132: Duplicate item c has priority 3
+133: Row(WMLWnSHSMnHjPVMVMVVJGM) item M in WMLWnSHSMnH is also in jPVMVMVVJGM
+133: Duplicate item M has priority 39
+134: Row(zQzRcmttdftrtrdZZRzDtPZppphsVbjGbQbJTTsCbsjppG) item Q in zQzRcmttdftrtrdZZRzDtPZ is also in ppphsVbjGbQbJTTsCbsjppG
+134: Duplicate item Q has priority 43
+135: Row(dmrDtqfzrmZtqDvdfmZmtdqzLNlgnwgWLNvwFWgWWPNFSFNN) item v in dmrDtqfzrmZtqDvdfmZmtdqz is also in LNlgnwgWLNvwFWgWWPNFSFNN
+135: Duplicate item v has priority 22
+136: Row(hvSrMwqljjBHvqhHsHshqnrZcCCpfCZZCCZZCcCfCZ) item r in hvSrMwqljjBHvqhHsHshq is also in nrZcCCpfCZZCCZZCcCfCZ
+136: Duplicate item r has priority 18
+137: Row(QDVTRFWlmDnpLnnPTPCZ) item T in QDVTRFWlmD is also in npLnnPTPCZ
+137: Duplicate item T has priority 46
+138: Row(DVQVtmQRWRRGFVRWVvlwdShBvvSqvtjMdd) item t in DVQVtmQRWRRGFVRWV is also in vlwdShBvvSqvtjMdd
+138: Duplicate item t has priority 20
+139: Row(pnMQbbnDQMNMDQsnTplNTDvqPGHZGcvqmCqvmqZqmlqP) item l in pnMQbbnDQMNMDQsnTplNTD is also in vqPGHZGcvqmCqvmqZqmlqP
+139: Duplicate item l has priority 12
+140: Row(dwJdBBwdJJwLJBLSRJczWmHPzqWzzHGmvPRHGG) item R in dwJdBBwdJJwLJBLSRJc is also in zWmHPzqWzzHGmvPRHGG
+140: Duplicate item R has priority 44
+141: Row(LrdFgSSLBsDMFFcbQb) item F in LrdFgSSLB is also in sDMFFcbQb
+141: Duplicate item F has priority 32
+142: Row(NSnwvSPPVNnPTLVpRvVvRnqhhQQzHhLbzlqcqHzmHHqh) item L in NSnwvSPPVNnPTLVpRvVvRn is also in qhhQQzHhLbzlqcqHzmHHqh
+142: Duplicate item L has priority 38
+143: Row(DFMMfBffgZJtFsJgwdDHGHHzzmqhhHQzDQGhcH) item D in DFMMfBffgZJtFsJgwdD is also in HGHHzzmqhhHQzDQGhcH
+143: Duplicate item D has priority 30
+144: Row(dMrZMMgFfFtZJZfBWMfVPNwPpNwPVSNVjjVWpN) item W in dMrZMMgFfFtZJZfBWMf is also in VPNwPpNwPVSNVjjVWpN
+144: Duplicate item W has priority 49
+145: Row(dNlLSvLSdNlhphlhlWfVFFbZHqjjHHvqFZQHCQ) item v in dNlLSvLSdNlhphlhlWf is also in VFFbZHqjjHHvqFZQHCQ
+145: Duplicate item v has priority 22
+146: Row(BcrTcJfRMRmrcbqcQgcHVCVF) item c in BcrTcJfRMRmr is also in cbqcQgcHVCVF
+146: Duplicate item c has priority 3
+147: Row(fBzTJJRmfPPmnppdNwhllwlz) item z in fBzTJJRmfPPm is also in nppdNwhllwlz
+147: Duplicate item z has priority 26
+148: Row(GqfSSmPSFwSCmFBwfQfQBfGnggLrhTrJBDDnrddsJDdLTL) item B in GqfSSmPSFwSCmFBwfQfQBfG is also in nggLrhTrJBDDnrddsJDdLTL
+148: Duplicate item B has priority 28
+149: Row(cHHvVtptbzbrTQJTggnTQv) item v in cHHvVtptbzb is also in rTQJTggnTQv
+149: Duplicate item v has priority 22
+150: Row(QRVbbQWbpZbVQVGfRmwfFwmjflPP) item R in QRVbbQWbpZbVQV is also in GfRmwfFwmjflPP
+150: Duplicate item R has priority 44
+151: Row(zzBQJmzQPPlddpJWlzzfdpfjvLvgmvFggMFGDVvLGHVFvvtM) item m in zzBQJmzQPPlddpJWlzzfdpfj is also in vLvgmvFggMFGDVvLGHVFvvtM
+151: Duplicate item m has priority 13
+152: Row(CCSTrCncrhcCcwhRnCqCttFDvMFvtWtVHvFhvLVv) item h in CCSTrCncrhcCcwhRnCqC is also in ttFDvMFvtWtVHvFhvLVv
+152: Duplicate item h has priority 8
+153: Row(wCTNCSRnbnpWzlBpJspN) item N in wCTNCSRnbn is also in pWzlBpJspN
+153: Duplicate item N has priority 40
+154: Row(PTzTPlrrfrbzmftTTrrjPMsNNFZQgQHVgMtNVFMgFF) item t in PTzTPlrrfrbzmftTTrrjP is also in MsNNFZQgQHVgMtNVFMgFF
+154: Duplicate item t has priority 20
+155: Row(DpGBcpvdZhccdGJhqDBphZhdVRQVQQVsqFwMRwFgFNHMHwQQ) item q in DpGBcpvdZhccdGJhqDBphZhd is also in VRQVQQVsqFwMRwFgFNHMHwQQ
+155: Duplicate item q has priority 17
+156: Row(SGcLGpdGnBhDJppSDZlPTTmLrmbTLTmrZL) item L in SGcLGpdGnBhDJppSD is also in ZlPTTmLrmbTLTmrZL
+156: Duplicate item L has priority 38
+157: Row(PzmhTqSzdDGcDhzdJDPBmJnrdVppNVVtgttMVrNnMMnV) item d in PzmhTqSzdDGcDhzdJDPBmJ is also in nrdVppNVVtgttMVrNnMMnV
+157: Duplicate item d has priority 4
+158: Row(blbQbWLvlWffCjlGCWwsnLpnpMggnpspnsrg) item L in blbQbWLvlWffCjlGCW is also in wsnLpnpMggnpspnsrg
+158: Duplicate item L has priority 38
+159: Row(fQRbCZRfFZvZRQHRvHjmGmTFPcBmDhBGTzmGqS) item F in fQRbCZRfFZvZRQHRvHj is also in mGmTFPcBmDhBGTzmGqS
+159: Duplicate item F has priority 32
+160: Row(JJVJfgJfVDdfDDcpTBgdwQMQZQRZQZwmlmWwQGcm) item c in JJVJfgJfVDdfDDcpTBgd is also in wQMQZQRZQZwmlmWwQGcm
+160: Duplicate item c has priority 3
+161: Row(ttzzjjzSqPzqtqzFrPvzwNwMlMRNnnwnllSmmmQG) item S in ttzzjjzSqPzqtqzFrPvz is also in wNwMlMRNnnwnllSmmmQG
+161: Duplicate item S has priority 45
+162: Row(FCvvChhsRVhhJBdB) item h in FCvvChhs is also in RVhhJBdB
+162: Duplicate item h has priority 8
+163: Row(rbQZdRzBFTBzZZcclntHnlfJlrNgngfS) item r in rbQZdRzBFTBzZZcc is also in lntHnlfJlrNgngfS
+163: Duplicate item r has priority 18
+164: Row(PPqGjpPGqpmDmDwqPDVnlNpnJfnnnglJCHlNfC) item p in PPqGjpPGqpmDmDwqPDV is also in nlNpnJfnnnglJCHlNfC
+164: Duplicate item p has priority 16
+165: Row(MMhhjMwwPvZNZTvLTZdL) item v in MMhhjMwwPv is also in ZNZTvLTZdL
+165: Duplicate item v has priority 22
+166: Row(ZZGgVgwfQNVNLfZsPqRsVTDspTpsqs) item V in ZZGgVgwfQNVNLfZ is also in sPqRsVTDspTpsqs
+166: Duplicate item V has priority 48
+167: Row(jdjdSbmMdMBSvMgBcWpsRpTWDHWTvRPs) item v in jdjdSbmMdMBSvMgB is also in cWpsRpTWDHWTvRPs
+167: Duplicate item v has priority 22
+168: Row(httmBMhbBBjCdzShfGzJlnQLlgGGZwww) item z in httmBMhbBBjCdzSh is also in fGzJlnQLlgGGZwww
+168: Duplicate item z has priority 26
+169: Row(gLSLMCbVSGRPdTwtjtVfdt) item V in gLSLMCbVSGR is also in PdTwtjtVfdt
+169: Duplicate item V has priority 48
+170: Row(TpzJpFFqmzpscslBtddjlwjjDhhldhvP) item l in TpzJpFFqmzpscslB is also in tddjlwjjDhhldhvP
+170: Duplicate item l has priority 12
+171: Row(WpsTmJpHssqnHMGLnGSgbH) item H in WpsTmJpHssq is also in nHMGLnGSgbH
+171: Duplicate item H has priority 34
+172: Row(RRBCpJJplCchWJJHCHCvjdpMzFzrNvVgFrrMzz) item p in RRBCpJJplCchWJJHCHC is also in vjdpMzFzrNvVgFrrMzz
+172: Duplicate item p has priority 16
+173: Row(btLLPGSQctnZnPwwSjgZjjjNNrvMvVrrjV) item Z in btLLPGSQctnZnPwwS is also in jgZjjjNNrvMvVrrjV
+173: Duplicate item Z has priority 52
+174: Row(tmLPGmnbnsLLwqQPSwqGbwDfHlHWBWlCsffshDCBfWcJ) item s in tmLPGmnbnsLLwqQPSwqGbw is also in DfHlHWBWlCsffshDCBfWcJ
+174: Duplicate item s has priority 19
+175: Row(GhDFZFGZzzbCdZbZVlfv) item Z in GhDFZFGZzz is also in bCdZbZVlfv
+175: Duplicate item Z has priority 52
+176: Row(bPNWSbSJSWSJPBBLLqClCltlwlNmllwvCQfC) item N in bPNWSbSJSWSJPBBLLq is also in ClCltlwlNmllwvCQfC
+176: Duplicate item N has priority 40
+177: Row(PgPLqgqpWcWJJcnqJccccGrjbHhDRGMDGTDbpRhbFF) item p in PgPLqgqpWcWJJcnqJcccc is also in GrjbHhDRGMDGTDbpRhbFF
+177: Duplicate item p has priority 16
+178: Row(VJRffrVJvDzcRcFFbpSlQLHlvtlstbbt) item v in VJRffrVJvDzcRcFF is also in bpSlQLHlvtlstbbt
+178: Duplicate item v has priority 22
+179: Row(NmNqPhPqPZhsQLQwSRpH) item h in NmNqPhPqPZ is also in hsQLQwSRpH
+179: Duplicate item h has priority 8
+180: Row(dWRnRdBmMBWgjCgVGjFcCDzf) item g in dWRnRdBmMBWg is also in jCgVGjFcCDzf
+180: Duplicate item g has priority 7
+181: Row(nhhQFDmVmDGhmFpgCgBpcpHqncCt) item n in nhhQFDmVmDGhmF is also in pgCgBpcpHqncCt
+181: Duplicate item n has priority 14
+182: Row(fLLZbljhjjscCggBCLCL) item L in fLLZbljhjj is also in scCggBCLCL
+182: Duplicate item L has priority 38
+183: Row(PhMRhNWddWNjfRdPRfWNfVmvQFVQzVMJJDJGrmQGrQ) item M in PhMRhNWddWNjfRdPRfWNf is also in VmvQFVQzVMJJDJGrmQGrQ
+183: Duplicate item M has priority 39
+184: Row(PNQtsHvZtsQgQLPsPtHZbfzRffRzMMqRqpzbfqng) item g in PNQtsHvZtsQgQLPsPtHZ is also in bfzRffRzMMqRqpzbfqng
+184: Duplicate item g has priority 7
+185: Row(jDwCmhrDlhBhBldrzJMmfFFbSfFnqpFb) item m in jDwCmhrDlhBhBldr is also in zJMmfFFbSfFnqpFb
+185: Duplicate item m has priority 13
+186: Row(jdljDrDrTBBnGVNcGcQLQLQPQL) item G in jdljDrDrTBBnG is also in VNcGcQLQLQPQL
+186: Duplicate item G has priority 33
+187: Row(MjzrjZvWQRHtjQdS) item j in MjzrjZvW is also in QRHtjQdS
+187: Duplicate item j has priority 10
+188: Row(JFJlDJbcbvtRQmQbQQdf) item b in JFJlDJbcbv is also in tRQmQbQQdf
+188: Duplicate item b has priority 2
+189: Row(JqNDBVNpqCBqDBCBVDcNVBqNMWgGZTPZgCrPzzvghPwrwZgG) item C in JqNDBVNpqCBqDBCBVDcNVBqN is also in MWgGZTPZgCrPzzvghPwrwZgG
+189: Duplicate item C has priority 29
+190: Row(gzggttLNDFztFCNWzrLttmFddSjsdJsgZVSsJjwjgbgZVG) item g in gzggttLNDFztFCNWzrLttmF is also in ddSjsdJsgZVSsJjwjgbgZVG
+190: Duplicate item g has priority 7
+191: Row(pPPcqpnqHMpcRbhhMMpThvnwZSjZvdwZvwdZSBvGZSGVZZ) item v in pPPcqpnqHMpcRbhhMMpThvn is also in wZSjZvdwZvwdZSBvGZSGVZZ
+191: Duplicate item v has priority 22
+192: Row(ThcPlHbbPHRnlRTHnMhpfltrNLWzCWWCztzffQLLDmDN) item f in ThcPlHbbPHRnlRTHnMhpfl is also in trNLWzCWWCztzffQLLDmDN
+192: Duplicate item f has priority 6
+193: Row(SlNJRpCGTmdFFDcbqJZFFJ) item J in SlNJRpCGTmd is also in FFDcbqJZFFJ
+193: Duplicate item J has priority 36
+194: Row(wwnWPHgsLPlVVfssLcZcjjzrDqcFzcgchZ) item g in wwnWPHgsLPlVVfssL is also in cZcjjzrDqcFzcgchZ
+194: Duplicate item g has priority 7
+195: Row(WVvQHQPfLwSGSvCRlNSd) item v in WVvQHQPfLw is also in SGSvCRlNSd
+195: Duplicate item v has priority 22
+196: Row(wWnWcpWDcwHcRdJQTdmNsT) item c in wWnWcpWDcwH is also in cRdJQTdmNsT
+196: Duplicate item c has priority 3
+197: Row(hprqBSvZNjFdFjsq) item q in hprqBSvZ is also in NjFdFjsq
+197: Duplicate item q has priority 17
+198: Row(fSfpvhLBfltMCLzWzC) item L in fSfpvhLBf is also in ltMCLzWzC
+198: Duplicate item L has priority 38
+199: Row(fdPfPwPmdmLZfNWjWszQNjjN) item f in fdPfPwPmdmLZ is also in fNWjWszQNjjN
+199: Duplicate item f has priority 6
+200: Row(MBRSBBRBChMRQWhlmVWNsmzm) item h in MBRSBBRBChMR is also in QWhlmVWNsmzm
+200: Duplicate item h has priority 8
+201: Row(FvRcSrcRrtvrRrvrrrmcwGwLnTHHqGtwZwHdGPHP) item t in FvRcSrcRrtvrRrvrrrmc is also in wGwLnTHHqGtwZwHdGPHP
+201: Duplicate item t has priority 20
+202: Row(tFPlJcDJdvLZvFlcvlHtQRthbgQjrhsgQgNr) item t in tFPlJcDJdvLZvFlcvl is also in HtQRthbgQjrhsgQgNr
+202: Duplicate item t has priority 20
+203: Row(qCnpGMnTTVwCCMnqwWfpChQHRbrgQjsQmmfrrHgHrH) item f in qCnpGMnTTVwCCMnqwWfpC is also in hQHRbrgQjsQmmfrrHgHrH
+203: Duplicate item f has priority 6
+204: Row(GMnTSBnVTnBGbLlDDvFBLDbF) item B in GMnTSBnVTnBG is also in bLlDDvFBLDbF
+204: Duplicate item B has priority 28
+205: Row(rJhPGdLSWnnrdqLhPPWGjcZZffjcgNdgNgRcNfwf) item d in rJhPGdLSWnnrdqLhPPWG is also in jcZZffjcgNdgNgRcNfwf
+205: Duplicate item d has priority 4
+206: Row(mHsDTQlsQBvWspTHzpmCTpcZgwZjZfZNRFwRjRRNMHjZ) item H in mHsDTQlsQBvWspTHzpmCTp is also in cZgwZjZfZNRFwRjRRNMHjZ
+206: Duplicate item H has priority 34
+207: Row(vCzDDQsDDvbllWTllCDCCTSLbqSPVqSnJLGSqrPLtVnP) item b in vCzDDQsDDvbllWTllCDCCT is also in SLbqSPVqSnJLGSqrPLtVnP
+207: Duplicate item b has priority 2
+208: Row(sSRdHHHSRhjShVHWVFJdQPNFpGCrQCCfflqlPvfN) item F in sSRdHHHSRhjShVHWVFJd is also in QPNFpGCrQCCfflqlPvfN
+208: Duplicate item F has priority 32
+209: Row(gLztmctMwnBtTzMppBCCrGfQlQQqBN) item B in gLztmctMwnBtTzM is also in ppBCCrGfQlQQqBN
+209: Duplicate item B has priority 28
+210: Row(bbbncfzLmmmnnZLgHZWjhsjVJjHRVSdR) item Z in bbbncfzLmmmnnZLg is also in HZWjhsjVJjHRVSdR
+210: Duplicate item Z has priority 52
+211: Row(bRgwCHfgfCCttRbdRLHzzGDnDnLBhmBGzvmFZD) item L in bRgwCHfgfCCttRbdRLH is also in zzGDnDnLBhmBGzvmFZD
+211: Duplicate item L has priority 38
+212: Row(rssprQlqlTQGNPcJGVsTBDmWzBnPnhWBvZZDBvDm) item P in rssprQlqlTQGNPcJGVsT is also in BDmWzBnPnhWBvZZDBvDm
+212: Duplicate item P has priority 42
+213: Row(MQQTJTNGNcqrNwMwwHRdRbdgbj) item M in MQQTJTNGNcqrN is also in wMwwHRdRbdgbj
+213: Duplicate item M has priority 39
+214: Row(sBnnsDLDBCsLTngnZLcdmppCdmpRJwJJQdMRMP) item C in sBnnsDLDBCsLTngnZLc is also in dmppCdmpRJwJJQdMRMP
+214: Duplicate item C has priority 29
+215: Row(NlrTblbNNbwRPpjjbPdJ) item b in NlrTblbNNb is also in wRPpjjbPdJ
+215: Duplicate item b has priority 2
+216: Row(GlztrhvfGqltqzWrcZgFZVSWWSTSncnL) item W in GlztrhvfGqltqzWr is also in cZgFZVSWWSTSncnL
+216: Duplicate item W has priority 49
+217: Row(FLJqLFRjzFqzJddlLfNNCjPrGSHCPHNVNVSH) item j in FLJqLFRjzFqzJddlLf is also in NNCjPrGSHCPHNVNVSH
+217: Duplicate item j has priority 10
+218: Row(TWTpngssgcPgNGPc) item g in TWTpngss is also in gcPgNGPc
+218: Duplicate item g has priority 7
+219: Row(pGMDZpnZBMDsTTTnTsQWWZTRlbvdfZlLflZzJfdqvdRbqf) item Z in pGMDZpnZBMDsTTTnTsQWWZT is also in RlbvdfZlLflZzJfdqvdRbqf
+219: Duplicate item Z has priority 52
+220: Row(ClsJpCgsppMbFFFbHp) item p in ClsJpCgsp is also in pMbFFFbHp
+220: Duplicate item p has priority 16
+221: Row(PvQRPqQPvRdwLNZLZqqwGPPPNTbjMcFcfHjHcMNfBNHrcDDM) item N in PvQRPqQPvRdwLNZLZqqwGPPP is also in NTbjMcFcfHjHcMNfBNHrcDDM
+221: Duplicate item N has priority 40
+222: Row(GLRnzqzdRqwdZnLLPqqZdQGsVtsnlWCVVWsgtWSSVVhFWt) item n in GLRnzqzdRqwdZnLLPqqZdQG is also in sVtsnlWCVVWsgtWSSVVhFWt
+222: Duplicate item n has priority 14
+223: Row(LNLSJjQDLlzRGwTTzQfT) item Q in LNLSJjQDLl is also in zRGwTTzQfT
+223: Duplicate item Q has priority 43
+224: Row(WbZqchqMZqZWbmdZbhTrvPmGvwfHRHGTHRwH) item m in WbZqchqMZqZWbmdZbh is also in TrvPmGvwfHRHGTHRwH
+224: Duplicate item m has priority 13
+225: Row(dcfChsWWZgbfWdhCbgDNFBBDjFNBjjVNpD) item g in dcfChsWWZgbfWdhCb is also in gDNFBBDjFNBjjVNpD
+225: Duplicate item g has priority 7
+226: Row(HjCLsHJHCjnNVHdCnHtJdtQQgQDhFGFDLcwFDBFMMDBT) item L in HjCLsHJHCjnNVHdCnHtJdt is also in QQgQDhFGFDLcwFDBFMMDBT
+226: Duplicate item L has priority 38
+227: Row(vWrSWSbSrRqmzlWlQgRQQTcRMgMTMFwT) item R in vWrSWSbSrRqmzlWl is also in QgRQQTcRMgMTMFwT
+227: Duplicate item R has priority 44
+228: Row(bzrpWWzbqrpnZsJwZVpC) item p in bzrpWWzbqr is also in pnZsJwZVpC
+228: Duplicate item p has priority 16
+229: Row(FhlfrNdTrtFdtrrrfcZBMdpZcHHHZMcccv) item d in FhlfrNdTrtFdtrrrf is also in cZBMdpZcHHHZMcccv
+229: Duplicate item d has priority 4
+230: Row(PmbjVDjwQbbjjVpDDvpzBZSSMsvG) item D in PmbjVDjwQbbjjV is also in pDDvpzBZSSMsvG
+230: Duplicate item D has priority 30
+231: Row(jmbVjPVWqVmgJgjmmPPQjmqlCMlftnftnNlTTLLfNfrJtN) item J in jmbVjPVWqVmgJgjmmPPQjmq is also in lCMlftnftnNlTTLLfNfrJtN
+231: Duplicate item J has priority 36
+232: Row(PwMWzqwWbFwznqNQQhffQjJfnhfJ) item n in PwMWzqwWbFwznq is also in NQQhffQjJfnhfJ
+232: Duplicate item n has priority 14
+233: Row(mmdpgmttDrpgpdmZdHmgNsQVZvJNMQvVJffsZVQf) item Z in mmdpgmttDrpgpdmZdHmg is also in NsQVZvJNMQvVJffsZVQf
+233: Duplicate item Z has priority 52
+234: Row(pdcBrMgDgcgrrHPcFSFzzqzFFbPS) item c in pdcBrMgDgcgrrH is also in PcFSFzzqzFFbPS
+234: Duplicate item c has priority 3
+235: Row(QRJJtSfJtQtjQRnSnNssTNdgsgdwddRWcm) item R in QRJJtSfJtQtjQRnSn is also in NssTNdgsgdwddRWcm
+235: Duplicate item R has priority 44
+236: Row(qHMDhPBqbqZVzbddTcVwSmNWNVcc) item V in qHMDhPBqbqZVzb is also in ddTcVwSmNWNVcc
+236: Duplicate item V has priority 48
+237: Row(BFCZbqPbHBPMhCljvQSvGCCpnj) item C in BFCZbqPbHBPMh is also in CljvQSvGCCpnj
+237: Duplicate item C has priority 29
+238: Row(HSzHNHlNHmBSHSBFrFFgBHVVqbQLTTcLtqDsDTBTDcDp) item B in HSzHNHlNHmBSHSBFrFFgBH is also in VVqbQLTTcLtqDsDTBTDcDp
+238: Duplicate item B has priority 28
+239: Row(CWQZGCWfMZGqbTbtpLsbWp) item W in CWQZGCWfMZG is also in qbTbtpLsbWp
+239: Duplicate item W has priority 49
+240: Row(GwjhPCRZPQPPCPwmzSNzzzmwzlzSgH) item w in GwjhPCRZPQPPCPw is also in mzSNzzzmwzlzSgH
+240: Duplicate item w has priority 23
+241: Row(GgTvJbpJGvPVHZZZLW) item v in GgTvJbpJG is also in vPVHZZZLW
+241: Duplicate item v has priority 22
+242: Row(cwWdnwmWnfwZDBHHNzZBVf) item f in cwWdnwmWnfw is also in ZDBHHNzZBVf
+242: Duplicate item f has priority 6
+243: Row(nhjjmshdwmSjsnmwrrQrtbtbgTTgrWth) item h in nhjjmshdwmSjsnmw is also in rrQrtbtbgTTgrWth
+243: Duplicate item h has priority 8
+244: Row(lFBTtcnlcFlppVpttcFZVhTTDDLCHDSDCjDCMSLZDWdDDSjD) item Z in lFBTtcnlcFlppVpttcFZVhTT is also in DDLCHDSDCjDCMSLZDWdDDSjD
+244: Duplicate item Z has priority 52
+245: Row(mrfsgMfRRwwPffJfbdDdgWGLGLSDjSSWdC) item g in mrfsgMfRRwwPffJfb is also in dDdgWGLGLSDjSSWdC
+245: Duplicate item g has priority 7
+246: Row(MmfNPwPzMzlhlFlplV) item z in MmfNPwPzM is also in zlhlFlplV
+246: Duplicate item z has priority 26
+247: Row(pRVgVsRzdDVJJJRttZTnnLrGsrGssG) item s in pRVgVsRzdDVJJJR is also in ttZTnnLrGsrGssG
+247: Duplicate item s has priority 19
+248: Row(BjMvMBWmjWNWSWrLGZPTHLSLTrZr) item S in BjMvMBWmjWNWSW is also in rLGZPTHLSLTrZr
+248: Duplicate item S has priority 45
+249: Row(LLMWQjfvmljLBRVJfbChfVgJRz) item f in LLMWQjfvmljLB is also in RVJfbChfVgJRz
+249: Duplicate item f has priority 6
+250: Row(RPDsdnVrVnVzScStjpFSjV) item V in RPDsdnVrVnV is also in zScStjpFSjV
+250: Duplicate item V has priority 48
+251: Row(BTLBhMMBpSMsMjZz) item M in BTLBhMMB is also in pSMsMjZz
+251: Duplicate item M has priority 39
+252: Row(hwbBgTsbBbGrGHvGrvDnPH) item G in hwbBgTsbBbG is also in rGHvGrvDnPH
+252: Duplicate item G has priority 33
+253: Row(nzwgtSFRqhDphDwB) item w in nzwgtSFR is also in qhDphDwB
+253: Duplicate item w has priority 23
+254: Row(CmWCrrmrVPGCDTbpvvvhsZDG) item G in CmWCrrmrVPGC is also in DTbpvvvhsZDG
+254: Duplicate item G has priority 33
+255: Row(VdNrlWHpmQzSMgJFdRFz) item d in VdNrlWHpmQ is also in zSMgJFdRFz
+255: Duplicate item d has priority 4
+256: Row(jrhZtczchvvFCTmCDlDMrMDT) item r in jrhZtczchvvF is also in CTmCDlDMrMDT
+256: Duplicate item r has priority 18
+257: Row(bHbLnbbwLnWQpLQgQVpQCTDqdmwqmDqCdDCSlmdd) item w in bHbLnbbwLnWQpLQgQVpQ is also in CTDqdmwqmDqCdDCSlmdd
+257: Duplicate item w has priority 23
+258: Row(sgVgglblptsfFthtvR) item s in sgVgglblp is also in tsfFthtvR
+258: Duplicate item s has priority 19
+259: Row(LctzWvrzTWsvWBfvBzdJQSdQhQQfpDJJmmDD) item f in LctzWvrzTWsvWBfvBz is also in dJQSdQhQQfpDJJmmDD
+259: Duplicate item f has priority 6
+260: Row(lMRwjlwlLnZwLHLggQDRGphdFDJQdSdJJQ) item R in lMRwjlwlLnZwLHLgg is also in QDRGphdFDJQdSdJJQ
+260: Duplicate item R has priority 44
+261: Row(CjPZCVCjgPwgWqWLqzzcWsVq) item V in CjPZCVCjgPwg is also in WqWLqzzcWsVq
+261: Duplicate item V has priority 48
+262: Row(JNWHsPNsJNHBnfnnqfqswcctDTmPCRmmTRtgCdmD) item P in JNWHsPNsJNHBnfnnqfqs is also in wcctDTmPCRmmTRtgCdmD
+262: Duplicate item P has priority 42
+263: Row(rjGrLrbhGRZVGQhphbbmDgDZMDMwdwDcCMgcDM) item Z in rjGrLrbhGRZVGQhphbb is also in mDgDZMDMwdwDcCMgcDM
+263: Duplicate item Z has priority 52
+264: Row(zvbLvVpFvjzVhbQjGjHlnflJFlWRqBWWBJBS) item F in zvbLvVpFvjzVhbQjGj is also in HlnflJFlWRqBWWBJBS
+264: Duplicate item F has priority 32
+265: Row(NfCMfGNdGqVDhWBvncLllhBgcmgL) item h in NfCMfGNdGqVDhW is also in BvncLllhBgcmgL
+265: Duplicate item h has priority 8
+266: Row(bJbRbHHtRtJtZTpSRtsLDLzvcvBmgnnnJlsm) item J in bJbRbHHtRtJtZTpSRt is also in sLDLzvcvBmgnnnJlsm
+266: Duplicate item J has priority 36
+267: Row(SbbbTRpbQHSbbwHZZTHqfCNMfqFWGNGVQMFGDC) item Q in SbbbTRpbQHSbbwHZZTH is also in qfCNMfqFWGNGVQMFGDC
+267: Duplicate item Q has priority 43
+268: Row(MdzwdMpVwVNMHQMJNcHM) item M in MdzwdMpVwV is also in NMHQMJNcHM
+268: Duplicate item M has priority 39
+269: Row(mDtcPDqWnDqgnGJvLHTJHJ) item n in mDtcPDqWnDq is also in gnGJvLHTJHJ
+269: Duplicate item n has priority 14
+270: Row(mmjhhRBRBcdZrcdRCz) item R in mmjhhRBRB is also in cdZrcdRCz
+270: Duplicate item R has priority 44
+271: Row(lvldsNpNGCGgCvCGggDLMbMmrdwnjjZdLLwrjM) item d in lvldsNpNGCGgCvCGggD is also in LMbMmrdwnjjZdLLwrjM
+271: Duplicate item d has priority 4
+272: Row(HWHtPHSHPBnrmZjBbwwC) item B in HWHtPHSHPB is also in nrmZjBbwwC
+272: Duplicate item B has priority 28
+273: Row(tHqWRtfttNlDClvNqs) item q in tHqWRtftt is also in NlDClvNqs
+273: Duplicate item q has priority 17
+274: Row(BTRNQTQTTBFRTglDwzztDgCwLF) item F in BTRNQTQTTBFRT is also in glDwzztDgCwLF
+274: Duplicate item F has priority 32
+275: Row(jZsMjqgdrrzzSbsDSwsw) item s in jZsMjqgdrr is also in zzSbsDSwsw
+275: Duplicate item s has priority 19
+276: Row(jWZrMgMjGdvrWWvrWMfMfZTBHTHQBHBQNpQRfRHNpnRT) item f in jWZrMgMjGdvrWWvrWMfMfZ is also in TBHTHQBHBQNpQRfRHNpnRT
+276: Duplicate item f has priority 6
+277: Row(GRgFCPhnBBhPwZPnwdbWMJMlcJTLLlTlRT) item R in GRgFCPhnBBhPwZPnw is also in dbWMJMlcJTLLlTlRT
+277: Duplicate item R has priority 44
+278: Row(VQsvVvvVNzqsscTVSLbWTStTJW) item V in VQsvVvvVNzqss is also in cTVSLbWTStTJW
+278: Duplicate item V has priority 48
+279: Row(spfDNpvsnPCfhBbh) item f in spfDNpvs is also in nPCfhBbh
+279: Duplicate item f has priority 6
+280: Row(GhWSgWphprhQqqndQd) item h in GhWSgWphp is also in rhQqqndQd
+280: Duplicate item h has priority 8
+281: Row(MvZRjjLcCzwcLnHfdTdgfFHQ) item L in MvZRjjLcCzwc is also in LnHfdTdgfFHQ
+281: Duplicate item L has priority 38
+282: Row(wCczcCgRMwRRNCtjMCtCvlBmVDGslmPpmWWNVGSpWV) item N in wCczcCgRMwRRNCtjMCtCv is also in lBmVDGslmPpmWWNVGSpWV
+282: Duplicate item N has priority 40
+283: Row(PZqgTbTZvFgZbZnFvPlBsVqsGBlGVzGsqVls) item q in PZqgTbTZvFgZbZnFvP is also in lBsVqsGBlGVzGsqVls
+283: Duplicate item q has priority 17
+284: Row(MMhSmHHfrfrSrjMNfcjrSRBlBVzGVpVGgGVCGslGNd) item N in MMhSmHHfrfrSrjMNfcjrS is also in RBlBVzGVpVGgGVCGslGNd
+284: Duplicate item N has priority 40
+285: Row(rMhQQmDSQMjMtZvPTTnJvtQg) item Q in rMhQQmDSQMjM is also in tZvPTTnJvtQg
+285: Duplicate item Q has priority 43
+286: Row(TNGWlqVpmPssnNssWLtRfCLbjCCwPgLjfg) item P in TNGWlqVpmPssnNssW is also in LtRfCLbjCCwPgLjfg
+286: Duplicate item P has priority 42
+287: Row(ZSHvHczFBBcHhJHFvhHcSFgrCgLbfgfbwrLTtbjwLwJr) item J in ZSHvHczFBBcHhJHFvhHcSF is also in grCgLbfgfbwrLTtbjwLwJr
+287: Duplicate item J has priority 36
+288: Row(BMzSQzcQznlNQTQsnl) item Q in BMzSQzcQz is also in nlNQTQsnl
+288: Duplicate item Q has priority 43
+289: Row(FVWDZDZHpDdtZlqZqZqljfNmsNFPjbbPbPRbFFjm) item F in FVWDZDZHpDdtZlqZqZql is also in jfNmsNFPjbbPbPRbFFjm
+289: Duplicate item F has priority 32
+290: Row(MJSGMghngrccvSrSzMrsQbbRmjmQmjtNtbfB) item r in MJSGMghngrccvSrSzM is also in rsQbbRmjmQmjtNtbfB
+290: Duplicate item r has priority 18
+291: Row(CMnvczGChCCwcgtpDDlLLLwVHdlHTZ) item w in CMnvczGChCCwcgt is also in pDDlLLLwVHdlHTZ
+291: Duplicate item w has priority 23
+292: Row(fTTzbQzhDwwbCnZnpbgnHncM) item b in fTTzbQzhDwwb is also in CnZnpbgnHncM
+292: Duplicate item b has priority 2
+293: Row(mGtBRBFmsRpVGMzpnnGL) item G in mGtBRBFmsR is also in pVGMzpnnGL
+293: Duplicate item G has priority 33
+294: Row(lFNqtdsssrRFBltSFRFlSrvfDSWWvwfhhPJPjWfQzPvf) item S in lFNqtdsssrRFBltSFRFlSr is also in vfDSWWvwfhhPJPjWfQzPvf
+294: Duplicate item S has priority 45
+295: Row(GWWWQlpSZzrQnjQdRHVjdjTRvddddB) item j in GWWWQlpSZzrQnjQ is also in dRHVjdjTRvddddB
+295: Duplicate item j has priority 10
+296: Row(ztthMtCmffcChJhChfCJdLddLBBgvqdvBBVBcgdq) item c in ztthMtCmffcChJhChfCJ is also in dLddLBBgvqdvBBVBcgdq
+296: Duplicate item c has priority 3
+297: Row(smbsmbmChCJmJffPmhNthDtZwnFQZQGpSrGWGQGZpQZzWP) item P in smbsmbmChCJmJffPmhNthDt is also in ZwnFQZQGpSrGWGQGZpQZzWP
+297: Duplicate item P has priority 42
+298: Row(ZDzsjjFLFqsQzFsZqDzBHGtBHpmgdNGmGBtLBG) item L in ZDzsjjFLFqsQzFsZqDz is also in BHGtBHpmgdNGmGBtLBG
+298: Duplicate item L has priority 38
+299: Row(hbbMMTcWhbwnJPlwWrnPbbVGVNndgpVVHmdNHVBmmmtf) item n in hbbMMTcWhbwnJPlwWrnPbb is also in VGVNndgpVVHmdNHVBmmmtf
+299: Duplicate item n has priority 14
+300: Row(bCTPTclcgRZQZCgs) item C in bCTPTclc is also in gRZQZCgs
+300: Duplicate item C has priority 29
+After 300 rucksacks and 300 duplicates, total priorities is 7872
+
+Process finished with exit code 0
