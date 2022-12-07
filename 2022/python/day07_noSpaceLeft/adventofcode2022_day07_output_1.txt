@@ -1,0 +1,1556 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/github/wacotaqo/advent-of-code/2022/python/day07_noSpaceLeft/aoc22_day07_code_part1.py
+           <rootdir>: Parsing '$ cd /'.
+           <rootdir>: Parsing '$ ls'.
+           <rootdir>: Parsing 'dir bcfwbq'.
+           <rootdir>: Parsing '14779 cmss'.
+           <rootdir>: Parsing 'dir ctctt'.
+           <rootdir>: Parsing '101350 gpbswq.njr'.
+           <rootdir>: Parsing '270744 mglrchsr'.
+           <rootdir>: Parsing '260405 qtvftbl'.
+           <rootdir>: Parsing 'dir rbsrpg'.
+           <rootdir>: Parsing 'dir rzgnbgv'.
+           <rootdir>: Parsing 'dir svsgnbs'.
+           <rootdir>: Parsing 'dir wqctlzz'.
+           <rootdir>: Parsing '71582 wrqbm'.
+           <rootdir>: Parsing '$ cd bcfwbq'.
+    <rootdir>/bcfwbq: Parsing '$ ls'.
+    <rootdir>/bcfwbq: Parsing 'dir bsbpc'.
+    <rootdir>/bcfwbq: Parsing 'dir gpbswq'.
+    <rootdir>/bcfwbq: Parsing '172204 lpn.qjd'.
+    <rootdir>/bcfwbq: Parsing '269121 lts.zjd'.
+    <rootdir>/bcfwbq: Parsing 'dir pfps'.
+    <rootdir>/bcfwbq: Parsing 'dir phvgmv'.
+    <rootdir>/bcfwbq: Parsing 'dir pjcrwh'.
+    <rootdir>/bcfwbq: Parsing 'dir pvf'.
+    <rootdir>/bcfwbq: Parsing 'dir rthpbmhr'.
+    <rootdir>/bcfwbq: Parsing 'dir sjnvdz'.
+    <rootdir>/bcfwbq: Parsing '$ cd bsbpc'.
+<rootdir>/bcfwbq/bsbpc: Parsing '$ ls'.
+<rootdir>/bcfwbq/bsbpc: Parsing '191305 hlqptq.nrj'.
+<rootdir>/bcfwbq/bsbpc: Parsing '15627 lts.zjd'.
+<rootdir>/bcfwbq/bsbpc: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/gpbswq: Parsing 'dir jcw'.
+<rootdir>/bcfwbq/gpbswq: Parsing 'dir jnh'.
+<rootdir>/bcfwbq/gpbswq: Parsing '53143 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq: Parsing 'dir qrrjgdbd'.
+<rootdir>/bcfwbq/gpbswq: Parsing 'dir tnsjg'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/gpbswq/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/ctctt: Parsing 'dir hhmm'.
+<rootdir>/bcfwbq/gpbswq/ctctt: Parsing '$ cd hhmm'.
+<rootdir>/bcfwbq/gpbswq/ctctt/hhmm: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/ctctt/hhmm: Parsing '89761 brfjczv.lmr'.
+<rootdir>/bcfwbq/gpbswq/ctctt/hhmm: Parsing '226384 gwqfwwp.ctl'.
+<rootdir>/bcfwbq/gpbswq/ctctt/hhmm: Parsing '174778 pgsdmfj'.
+<rootdir>/bcfwbq/gpbswq/ctctt/hhmm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd jcw'.
+<rootdir>/bcfwbq/gpbswq/jcw: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jcw: Parsing '149585 gpbswq.lbv'.
+<rootdir>/bcfwbq/gpbswq/jcw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd jnh'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '10840 ctctt'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing 'dir fzplg'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing 'dir jvpc'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing 'dir mcz'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '48063 nczc'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '8024 rthpbmhr.qwq'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '65222 vqgbgm'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ cd fzplg'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg: Parsing '34828 lpn.vcl'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '216427 bvtl'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '242012 gpbswq.qlg'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing 'dir gsmltmw'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '11388 lpn.trp'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing 'dir lrr'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing 'dir vwqlvj'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '$ cd gsmltmw'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/gsmltmw: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/gsmltmw: Parsing '66467 pldhhjch'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/gsmltmw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '$ cd lrr'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '16831 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing 'dir tdpmdfgd'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '177469 wct.njp'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/ctctt: Parsing '145394 phd.tvj'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn/svsgnbs: Parsing '148504 ctctt.vjd'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/svsgnbs: Parsing '245750 ggbhsgz.snc'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ cd tdpmdfgd'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing 'dir cghfclv'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing 'dir mcfzvlvw'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing 'dir mdgvcgbc'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing '$ cd cghfclv'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/cghfclv: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/cghfclv: Parsing '49162 shwslwsf.lww'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/cghfclv: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing '$ cd mcfzvlvw'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw: Parsing 'dir bsbswh'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw: Parsing '$ cd bsbswh'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh: Parsing 'dir hqsdsp'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh: Parsing '$ cd hqsdsp'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh/hqsdsp: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh/hqsdsp: Parsing '70065 pldhhjch'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh/hqsdsp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw/bsbswh: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mcfzvlvw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing '$ cd mdgvcgbc'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mdgvcgbc: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mdgvcgbc: Parsing '235514 dhfms.nwl'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd/mdgvcgbc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr/tdpmdfgd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/lrr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '$ cd vwqlvj'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/vwqlvj: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/vwqlvj: Parsing '269473 jwv.dqh'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/vwqlvj: Parsing '90324 mglrchsr'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/vwqlvj: Parsing '194977 rwgsvszh.jbf'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs/vwqlvj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/fzplg: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ cd jvpc'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing 'dir rdgqr'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing 'dir sspn'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing '$ cd rdgqr'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr: Parsing 'dir qcjccsth'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr: Parsing '$ cd qcjccsth'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth: Parsing 'dir rqwvslc'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth: Parsing '$ cd rqwvslc'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth/rqwvslc: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth/rqwvslc: Parsing '275985 pgqph.lcn'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth/rqwvslc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr/qcjccsth: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/rdgqr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing '$ cd sspn'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/sspn: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/sspn: Parsing '200316 gpbswq'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/sspn: Parsing '162820 pldhhjch'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc/sspn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/jvpc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/lpn: Parsing '277995 hlqptq.nrj'.
+<rootdir>/bcfwbq/gpbswq/jnh/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ cd mcz'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing 'dir fjtj'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '157693 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing 'dir jqbpcd'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '206235 lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '54229 mglrchsr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '238506 rthpbmhr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing 'dir snr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing 'dir ztlrtgjl'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ cd fjtj'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '240610 fbwzn'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '207688 hlqptq.nrj'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '150032 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '48060 mcrgn'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '265551 zqrnt.srf'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/fjtj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ cd jqbpcd'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '256141 ctctt.nbp'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '78480 hmddcjdd.bmc'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '31403 lpn'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '120619 mvdfjzdr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing 'dir nqgvl'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/gpbswq: Parsing '125791 ctctt'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '$ cd nqgvl'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/nqgvl: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/nqgvl: Parsing '174465 jrbfcvf.rqr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/nqgvl: Parsing '144210 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/nqgvl: Parsing '258976 rthpbmhr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd/nqgvl: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/jqbpcd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ cd snr'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/snr: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/snr: Parsing '185943 rthpbmhr.jhb'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/snr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ cd ztlrtgjl'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/ztlrtgjl: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/ztlrtgjl: Parsing '232309 ntlzfsz.vjd'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/ztlrtgjl: Parsing '254942 zhrds.nbp'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz/ztlrtgjl: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh/mcz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/jnh: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd qrrjgdbd'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd/gpbswq: Parsing '170768 rthpbmhr.qwf'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/qrrjgdbd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd tnsjg'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '242206 bjmgvmp.hht'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '245356 frtdp'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing 'dir jrflhz'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '128115 lpn'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '120081 rfhs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing 'dir sfplvt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing 'dir tts'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '114165 zfl.ccr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '$ cd jrflhz'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing 'dir nnlzjwts'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing 'dir sctf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/gpbswq: Parsing '121401 mglrchsr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing '$ cd nnlzjwts'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing 'dir gljnss'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing '165011 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing '69364 svsgnbs.bqm'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing '$ cd gljnss'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts/gljnss: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts/gljnss: Parsing '181850 cfjbd.fmj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts/gljnss: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/nnlzjwts: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing '$ cd sctf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '109435 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '146343 lpn.mbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '255948 svsgnbs.hbf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '231472 vdrfwqwv.pzf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '263352 zgzj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz/sctf: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/jrflhz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '$ cd sfplvt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt: Parsing '51580 hlqptq.nrj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt: Parsing 'dir mldph'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt: Parsing '$ cd mldph'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt/mldph: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt/mldph: Parsing '163815 hsnw'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt/mldph: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/sfplvt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '$ cd tts'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '211239 rpm'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing 'dir rthpbmhr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing 'dir wpnnrzb'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing '137333 hshpfwl'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing '183146 srd'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt/ctctt: Parsing '89470 hlqptq.nrj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/rthpbmhr: Parsing '139569 fhjlbrmp.phd'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/rthpbmhr: Parsing '223589 jvrs.bpj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/rthpbmhr: Parsing '198566 rthpbmhr.qdr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/rthpbmhr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '$ cd wpnnrzb'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '158058 fjtcc'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing 'dir jqqhgjv'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing 'dir qvbvvb'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '16429 wds.hpj'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '166551 gcjt.wld'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '233189 gpbswq.mls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '193694 rthpbmhr.rvz'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt/svsgnbs: Parsing '248185 fpssfvd.zft'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt/svsgnbs: Parsing '215781 rwtg.gch'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '$ cd jqqhgjv'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '14842 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing 'dir mqp'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '258342 pldhhjch'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '103492 sddj.sbq'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '248024 svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq: Parsing 'dir sqchbqc'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq: Parsing '176209 vdq.jbz'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq: Parsing '$ cd sqchbqc'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc: Parsing 'dir cphf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc: Parsing '$ cd cphf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc/cphf: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc/cphf: Parsing '253613 snzbgfs.rjf'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc/cphf: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq/sqchbqc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '$ cd mqp'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/mqp: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/mqp: Parsing '10090 mfw'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv/mqp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/jqqhgjv: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '$ cd qvbvvb'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing 'dir mzw'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing '$ cd mzw'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/mzw: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/mzw: Parsing '98994 mmv.hcl'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/mzw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/svsgnbs: Parsing '108748 lts.zjd'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/svsgnbs: Parsing '10351 mglrchsr'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb/qvbvvb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts/wpnnrzb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg/tts: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq/tnsjg: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/gpbswq: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd pfps'.
+<rootdir>/bcfwbq/pfps: Parsing '$ ls'.
+<rootdir>/bcfwbq/pfps: Parsing 'dir cpp'.
+<rootdir>/bcfwbq/pfps: Parsing '110535 mglrchsr'.
+<rootdir>/bcfwbq/pfps: Parsing '120669 qvh.fbm'.
+<rootdir>/bcfwbq/pfps: Parsing '$ cd cpp'.
+<rootdir>/bcfwbq/pfps/cpp: Parsing '$ ls'.
+<rootdir>/bcfwbq/pfps/cpp: Parsing 'dir htnmrjpq'.
+<rootdir>/bcfwbq/pfps/cpp: Parsing '$ cd htnmrjpq'.
+<rootdir>/bcfwbq/pfps/cpp/htnmrjpq: Parsing '$ ls'.
+<rootdir>/bcfwbq/pfps/cpp/htnmrjpq: Parsing '120225 bdjmsbg.wfz'.
+<rootdir>/bcfwbq/pfps/cpp/htnmrjpq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/pfps/cpp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/pfps: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd phvgmv'.
+<rootdir>/bcfwbq/phvgmv: Parsing '$ ls'.
+<rootdir>/bcfwbq/phvgmv: Parsing '113550 pldhhjch'.
+<rootdir>/bcfwbq/phvgmv: Parsing '31171 zcfm'.
+<rootdir>/bcfwbq/phvgmv: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd pjcrwh'.
+<rootdir>/bcfwbq/pjcrwh: Parsing '$ ls'.
+<rootdir>/bcfwbq/pjcrwh: Parsing '265625 snbjdmg.jtn'.
+<rootdir>/bcfwbq/pjcrwh: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd pvf'.
+<rootdir>/bcfwbq/pvf: Parsing '$ ls'.
+<rootdir>/bcfwbq/pvf: Parsing '91010 ctctt'.
+<rootdir>/bcfwbq/pvf: Parsing 'dir hdz'.
+<rootdir>/bcfwbq/pvf: Parsing 'dir qtwfpmvz'.
+<rootdir>/bcfwbq/pvf: Parsing '$ cd hdz'.
+<rootdir>/bcfwbq/pvf/hdz: Parsing '$ ls'.
+<rootdir>/bcfwbq/pvf/hdz: Parsing '103787 rlnrs'.
+<rootdir>/bcfwbq/pvf/hdz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/pvf: Parsing '$ cd qtwfpmvz'.
+<rootdir>/bcfwbq/pvf/qtwfpmvz: Parsing '$ ls'.
+<rootdir>/bcfwbq/pvf/qtwfpmvz: Parsing '244905 lts.zjd'.
+<rootdir>/bcfwbq/pvf/qtwfpmvz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/pvf: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing 'dir phq'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing 'dir wzwfz'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing 'dir zpwfj'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ cd phq'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '91709 bzfnqh'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing 'dir ccwqrjn'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '$ cd ccwqrjn'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing '8953 fffqzmqp'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing 'dir ftnb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing '$ cd ftnb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/ftnb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/ftnb: Parsing '226615 rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/ftnb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing 'dir bhnnm'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing 'dir tjrqtmd'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing '$ cd bhnnm'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm: Parsing 'dir prfqw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm: Parsing '$ cd prfqw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw: Parsing 'dir hzsjlq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw: Parsing '$ cd hzsjlq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw/hzsjlq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw/hzsjlq: Parsing '99285 cfpwbvp'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw/hzsjlq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm/prfqw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/bhnnm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing '$ cd tjrqtmd'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/tjrqtmd: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/tjrqtmd: Parsing '237461 cqr.wfj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/tjrqtmd: Parsing '149955 zchnb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs/tjrqtmd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/ccwqrjn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing 'dir bqqtnfb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '261108 gpbswq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '135193 hnrflng'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '264503 jrp.bls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '224864 mghhgrj.tgp'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing 'dir pljbtbn'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing 'dir rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '244222 svsgnbs.rzp'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ cd bqqtnfb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb: Parsing 'dir jnzfr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb: Parsing '$ cd jnzfr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr: Parsing 'dir bdrqmr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr: Parsing '168907 pldhhjch'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr: Parsing '$ cd bdrqmr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr/bdrqmr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr/bdrqmr: Parsing '151767 vfw.jjc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr/bdrqmr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb/jnzfr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/bqqtnfb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt: Parsing 'dir zdsshmr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt: Parsing '$ cd zdsshmr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt/zdsshmr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt/zdsshmr: Parsing '77208 hlqptq.nrj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt/zdsshmr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ cd pljbtbn'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/pljbtbn: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/pljbtbn: Parsing '63719 hlqptq.nrj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/pljbtbn: Parsing '103719 jjctg.dhw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/pljbtbn: Parsing '547 tljz.wnv'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/pljbtbn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr: Parsing 'dir sjbfhcpc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr: Parsing '$ cd sjbfhcpc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr/sjbfhcpc: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr/sjbfhcpc: Parsing '184946 sgpgszw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr/sjbfhcpc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq/rthpbmhr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing 'dir flzsvb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing 'dir pbw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '23408 qprlnvwv.jmz'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing 'dir wjhplc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '11507 cnf'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '87778 rthpbmhr.wzv'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing 'dir slmbb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing 'dir sqc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '75556 wsbzwn.mpf'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/gpbswq: Parsing '173498 dsg'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/gpbswq: Parsing '202811 msvs.szd'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/gpbswq: Parsing '208419 pldhhjch'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '$ cd slmbb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing 'dir jcth'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing 'dir njldhbln'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing '$ cd jcth'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/jcth: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/jcth: Parsing '6106 hlqptq.nrj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/jcth: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing '$ cd njldhbln'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/njldhbln: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/njldhbln: Parsing '241153 mvnvzqfc.rtn'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb/njldhbln: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/slmbb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '$ cd sqc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc: Parsing 'dir zhrc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc: Parsing '$ cd zhrc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc: Parsing 'dir qswqqzb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc: Parsing '$ cd qswqqzb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc/qswqqzb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc/qswqqzb: Parsing '264937 btqmqn.hqv'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc/qswqqzb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc/zhrc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt/sqc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ cd flzsvb'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/flzsvb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/flzsvb: Parsing '58735 hlqptq.nrj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/flzsvb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ cd pbw'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '80787 bgfmdg'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '234807 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '44816 pldhhjch'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing 'dir qjjpmq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing 'dir rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '153500 ssmdz'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '$ cd qjjpmq'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/qjjpmq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/qjjpmq: Parsing '155209 ctghhsdh'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/qjjpmq: Parsing '182544 fprdp.ffs'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/qjjpmq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/rthpbmhr: Parsing '136673 lts.zjd'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw/rthpbmhr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/pbw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ cd wjhplc'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '246593 hhcgnfjb.nbl'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '29266 hlqptq.nrj'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '246096 lts.zjd'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '40242 rrfgvvhg'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs/wjhplc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/phq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '215743 fwm'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '236816 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '235185 sjdlr.rzj'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing 'dir ztsgb'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '$ cd ztsgb'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs/ztsgb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs/ztsgb: Parsing '265998 rthpbmhr.pdp'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs/ztsgb: Parsing '275979 zqfcprz.wtd'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs/ztsgb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ cd wzwfz'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing 'dir bsqwtf'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing 'dir lpng'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ cd bsqwtf'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing 'dir rhjb'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing 'dir sgzvb'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing '$ cd rhjb'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/rhjb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/rhjb: Parsing '166599 rthpbmhr.msg'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/rhjb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing '$ cd sgzvb'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/sgzvb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/sgzvb: Parsing '185594 zmnb.bcq'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf/sgzvb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/bsqwtf: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/ctctt: Parsing '130367 svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/ctctt: Parsing '17459 tdsztr.fsn'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/ctctt: Parsing '242273 wfs'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ cd lpng'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/lpng: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/lpng: Parsing '145778 snmcwfg.hjz'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/lpng: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing 'dir nqrlzg'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing 'dir qczmdfm'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '54814 wtmjh.jdv'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/ctctt: Parsing '244171 pldhhjch'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '$ cd nqrlzg'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg: Parsing 'dir qjhlj'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg: Parsing '$ cd qjhlj'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj: Parsing 'dir gncct'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj: Parsing '$ cd gncct'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj/gncct: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj/gncct: Parsing '141943 wsdgmdd.ctz'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj/gncct: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg/qjhlj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/nqrlzg: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '$ cd qczmdfm'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/qczmdfm: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/qczmdfm: Parsing '4482 lpn.fmp'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs/qczmdfm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/wzwfz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ cd zpwfj'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj: Parsing '226995 lts.zjd'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj: Parsing 'dir sflcgdm'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj: Parsing '$ cd sflcgdm'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '199168 bjrjrrm.bfw'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing 'dir fpcq'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '24906 gdzfmhz.jhp'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '7267 hdpzvh.ngg'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing 'dir jjsgqb'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '137796 psws.hvp'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '$ cd fpcq'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/fpcq: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/fpcq: Parsing '195792 nghcc.wps'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/fpcq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '$ cd jjsgqb'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '18774 ctctt'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '106399 jvbgfhs'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '208035 rthpbmhr'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing 'dir zptz'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '$ cd zptz'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb/zptz: Parsing '$ ls'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb/zptz: Parsing '278792 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb/zptz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm/jjsgqb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj/sflcgdm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr/zpwfj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/rthpbmhr: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd sjnvdz'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz: Parsing 'dir fchgggp'.
+<rootdir>/bcfwbq/sjnvdz: Parsing 'dir gldg'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '40164 gnh.gmv'.
+<rootdir>/bcfwbq/sjnvdz: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/sjnvdz: Parsing 'dir njtgjt'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '81415 qqfm.grb'.
+<rootdir>/bcfwbq/sjnvdz: Parsing 'dir vvcbjct'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd fchgggp'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing 'dir fjcclj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '145291 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '7288 mglrchsr'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing 'dir pmhdzvfn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing 'dir qtpdfwh'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing 'dir vjwtvb'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd fjcclj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/fjcclj: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/fjcclj: Parsing '28333 gpbswq.vtg'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/fjcclj: Parsing '258676 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/fjcclj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/lpn: Parsing '197797 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd pmhdzvfn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '21538 gpbswq.pwq'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '5451 hqjg'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing 'dir llhp'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '220717 lzqmh.stl'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '123800 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing 'dir pmv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing 'dir rzs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing 'dir tztv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '160018 zfvgjtzr.qth'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ cd llhp'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing 'dir lsft'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing 'dir pfjmphs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing '$ cd lsft'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '78424 gpbswq.ddb'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '101497 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '137686 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '122325 mglrchsr'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/lsft: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing '$ cd pfjmphs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/pfjmphs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/pfjmphs: Parsing '185141 mbw.gnd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp/pfjmphs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/llhp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ cd pmv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/pmv: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/pmv: Parsing '139255 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/pmv: Parsing '272882 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/pmv: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ cd rzs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '89153 gpbswq.vcv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '81882 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '39252 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing 'dir tmcm'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/gpbswq: Parsing '205674 ctctt.gqd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '$ cd tmcm'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '156591 gmjvzj.wzl'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '199254 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing 'dir vzhbsdd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing 'dir zfs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '$ cd vzhbsdd'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/vzhbsdd: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/vzhbsdd: Parsing '70059 gsgzqgn.fhf'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/vzhbsdd: Parsing '43456 hrttvrqc'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/vzhbsdd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '$ cd zfs'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/zfs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/zfs: Parsing '223726 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm/zfs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs/tmcm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/rzs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ cd tztv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv: Parsing '200126 lpn.bns'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv: Parsing 'dir wfjwmbj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv: Parsing '$ cd wfjwmbj'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv/wfjwmbj: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv/wfjwmbj: Parsing '120344 gdqgml.gdn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv/wfjwmbj: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn/tztv: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/pmhdzvfn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd qtpdfwh'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh: Parsing 'dir qszjt'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh: Parsing '$ cd qszjt'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh/qszjt: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh/qszjt: Parsing '7207 rthpbmhr.rpv'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh/qszjt: Parsing '20452 ztdnfmgp.dsb'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh/qszjt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/qtpdfwh: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd vjwtvb'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb: Parsing 'dir scswlmn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb: Parsing '$ cd scswlmn'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb/scswlmn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb/scswlmn: Parsing '207195 svsgnbs.jqq'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb/scswlmn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp/vjwtvb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/fchgggp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd gldg'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '119560 ctctt.wbc'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '203041 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing 'dir hrp'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '274270 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '25081 mhsfdhjr.ndw'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '$ cd hrp'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing 'dir wvrzhdb'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq: Parsing 'dir vtgc'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq: Parsing '$ cd vtgc'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq/vtgc: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq/vtgc: Parsing '231107 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq/vtgc: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing '$ cd wvrzhdb'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/wvrzhdb: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/wvrzhdb: Parsing '83303 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn/wvrzhdb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg/hrp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing 'dir fhfqlv'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing '13446 frn.hzg'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing '126475 wmjjjl.cjr'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing '$ cd fhfqlv'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs/fhfqlv: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs/fhfqlv: Parsing '243574 hjn.jzb'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs/fhfqlv: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/gldg: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/sjnvdz/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn: Parsing 'dir mqglznd'.
+<rootdir>/bcfwbq/sjnvdz/lpn: Parsing '$ cd mqglznd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '177654 gpbswq.zhv'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '128217 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '66750 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '136018 hvphz'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing 'dir pswvwtf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '113363 rthpbmhr.gwz'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing 'dir twddrn'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '244278 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing 'dir pfrjwbvl'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing 'dir qlrfw'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '222491 rthpbmhr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '$ cd pfrjwbvl'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '46802 cfl.ljt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing 'dir dfqzmd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '110525 gshdhsfm'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing 'dir jcbw'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing 'dir lpn'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '237385 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '15812 prcwhhq.jjh'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing 'dir rthpbmhr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '260693 zmgq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/ctctt: Parsing '6529 hctcg.dpw'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/ctctt: Parsing '188655 lpn.qjf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/ctctt: Parsing '202221 wjnb'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd dfqzmd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/dfqzmd: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/dfqzmd: Parsing '197980 ctctt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/dfqzmd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd jcbw'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '1281 gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '15778 jfgjlcd.mqh'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '38803 mdtcrb.dbj'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing 'dir qtjbpbs'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '$ cd qtjbpbs'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw/qtjbpbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw/qtjbpbs: Parsing '59348 mglrchsr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw/qtjbpbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/jcbw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd lpn'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing 'dir ctctt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing 'dir hsjjp'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing '260465 mglrchsr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing '$ cd ctctt'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt: Parsing 'dir wvbrsb'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt: Parsing '$ cd wvbrsb'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt/wvbrsb: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt/wvbrsb: Parsing '135584 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt/wvbrsb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/ctctt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing '$ cd hsjjp'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '249448 ddfqnwgf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '164051 dsnhsbp.wvv'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing 'dir fmzgm'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '113907 gqfgrfqw.wtc'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '$ cd fmzgm'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/fmzgm: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/fmzgm: Parsing '150025 ngnqjcj.tbf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/fmzgm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing '33139 dmgqhf.nzd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing 'dir gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing 'dir rwd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing '$ cd gpbswq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/gpbswq: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/gpbswq: Parsing '148820 lnqqds.rpg'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing '$ cd rwd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/rwd: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/rwd: Parsing '133433 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq/rwd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn/hsjjp: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '262342 fdnr.svq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing 'dir nbpsdm'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '161791 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '6835 qvclr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '228110 whf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '$ cd nbpsdm'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing 'dir rthpbmhr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing 'dir svsgnbs'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing '$ cd rthpbmhr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/rthpbmhr: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/rthpbmhr: Parsing '267109 chb'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/rthpbmhr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing '$ cd svsgnbs'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/svsgnbs: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/svsgnbs: Parsing '150446 rlv.vcc'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr/nbpsdm: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl/rthpbmhr: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/pfrjwbvl: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '$ cd qlrfw'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw: Parsing 'dir sgcpwst'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw: Parsing '$ cd sgcpwst'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst: Parsing 'dir fss'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst: Parsing '$ cd fss'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst/fss: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst/fss: Parsing '244165 gpbswq.qtz'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst/fss: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw/sgcpwst: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq/qlrfw: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/gpbswq: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '$ cd pswvwtf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '162099 jhdrnv.zrd'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '54856 mglrchsr'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing 'dir psdz'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '169053 qhq'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '$ cd psdz'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz: Parsing 'dir lbcf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz: Parsing '$ cd lbcf'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz/lbcf: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz/lbcf: Parsing '218770 ctctt.chv'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz/lbcf: Parsing '95266 pldhhjch'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz/lbcf: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf/psdz: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/pswvwtf: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '$ cd twddrn'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/twddrn: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/twddrn: Parsing '120791 hlqptq.nrj'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/twddrn: Parsing '212213 vffj'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd/twddrn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn/mqglznd: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/lpn: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd njtgjt'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt: Parsing 'dir mzwdb'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt: Parsing '$ cd mzwdb'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt/mzwdb: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt/mzwdb: Parsing '108520 lts.zjd'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt/mzwdb: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz/njtgjt: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd vvcbjct'.
+<rootdir>/bcfwbq/sjnvdz/vvcbjct: Parsing '$ ls'.
+<rootdir>/bcfwbq/sjnvdz/vvcbjct: Parsing '155890 ctctt.fbw'.
+<rootdir>/bcfwbq/sjnvdz/vvcbjct: Parsing '$ cd ..'.
+<rootdir>/bcfwbq/sjnvdz: Parsing '$ cd ..'.
+    <rootdir>/bcfwbq: Parsing '$ cd ..'.
+           <rootdir>: Parsing '$ cd ctctt'.
+     <rootdir>/ctctt: Parsing '$ ls'.
+     <rootdir>/ctctt: Parsing '5656 mpftwp.nds'.
+     <rootdir>/ctctt: Parsing '8998 pldhhjch'.
+     <rootdir>/ctctt: Parsing '185601 snrng.qsv'.
+     <rootdir>/ctctt: Parsing '$ cd ..'.
+           <rootdir>: Parsing '$ cd rbsrpg'.
+    <rootdir>/rbsrpg: Parsing '$ ls'.
+    <rootdir>/rbsrpg: Parsing '113129 cpwmjw.rbj'.
+    <rootdir>/rbsrpg: Parsing 'dir jdhmlzr'.
+    <rootdir>/rbsrpg: Parsing '114254 sqj.fzp'.
+    <rootdir>/rbsrpg: Parsing '120708 svsgnbs.hpn'.
+    <rootdir>/rbsrpg: Parsing '$ cd jdhmlzr'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '$ ls'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing 'dir cdnmflmm'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '248055 hlqptq.nrj'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '247942 pldhhjch'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing 'dir qrwsnzdv'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '80053 svsgnbs'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '219309 zhqgvd.bhw'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '$ cd cdnmflmm'.
+<rootdir>/rbsrpg/jdhmlzr/cdnmflmm: Parsing '$ ls'.
+<rootdir>/rbsrpg/jdhmlzr/cdnmflmm: Parsing '83138 lpn.wtg'.
+<rootdir>/rbsrpg/jdhmlzr/cdnmflmm: Parsing '$ cd ..'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '$ cd qrwsnzdv'.
+<rootdir>/rbsrpg/jdhmlzr/qrwsnzdv: Parsing '$ ls'.
+<rootdir>/rbsrpg/jdhmlzr/qrwsnzdv: Parsing '197145 zspfb.sbd'.
+<rootdir>/rbsrpg/jdhmlzr/qrwsnzdv: Parsing '$ cd ..'.
+<rootdir>/rbsrpg/jdhmlzr: Parsing '$ cd ..'.
+    <rootdir>/rbsrpg: Parsing '$ cd ..'.
+           <rootdir>: Parsing '$ cd rzgnbgv'.
+   <rootdir>/rzgnbgv: Parsing '$ ls'.
+   <rootdir>/rzgnbgv: Parsing '208692 clz'.
+   <rootdir>/rzgnbgv: Parsing 'dir tmcqcpfc'.
+   <rootdir>/rzgnbgv: Parsing 'dir twlnjr'.
+   <rootdir>/rzgnbgv: Parsing '$ cd tmcqcpfc'.
+<rootdir>/rzgnbgv/tmcqcpfc: Parsing '$ ls'.
+<rootdir>/rzgnbgv/tmcqcpfc: Parsing 'dir jtnf'.
+<rootdir>/rzgnbgv/tmcqcpfc: Parsing '$ cd jtnf'.
+<rootdir>/rzgnbgv/tmcqcpfc/jtnf: Parsing '$ ls'.
+<rootdir>/rzgnbgv/tmcqcpfc/jtnf: Parsing '242978 fhvtvdff.swr'.
+<rootdir>/rzgnbgv/tmcqcpfc/jtnf: Parsing '21748 lwcplzmw'.
+<rootdir>/rzgnbgv/tmcqcpfc/jtnf: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/tmcqcpfc: Parsing '$ cd ..'.
+   <rootdir>/rzgnbgv: Parsing '$ cd twlnjr'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr: Parsing 'dir ctctt'.
+<rootdir>/rzgnbgv/twlnjr: Parsing 'dir gpbswq'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '98435 rthpbmhr.pcr'.
+<rootdir>/rzgnbgv/twlnjr: Parsing 'dir snpm'.
+<rootdir>/rzgnbgv/twlnjr: Parsing 'dir svsgnbs'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '104969 zzd'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ cd ctctt'.
+<rootdir>/rzgnbgv/twlnjr/ctctt: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr/ctctt: Parsing '200382 pqswsnhp'.
+<rootdir>/rzgnbgv/twlnjr/ctctt: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ cd gpbswq'.
+<rootdir>/rzgnbgv/twlnjr/gpbswq: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr/gpbswq: Parsing '90380 qqrfbwn'.
+<rootdir>/rzgnbgv/twlnjr/gpbswq: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ cd snpm'.
+<rootdir>/rzgnbgv/twlnjr/snpm: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr/snpm: Parsing '57996 swfjlfh.qft'.
+<rootdir>/rzgnbgv/twlnjr/snpm: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ cd svsgnbs'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '86028 clcfrnr.jwl'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '199666 ctctt.ftr'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '200949 ctctt.mrh'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '23594 dhlmbh.gjt'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '278047 mbchg'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing 'dir pgfhp'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '$ cd pgfhp'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs/pgfhp: Parsing '$ ls'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs/pgfhp: Parsing '21555 rlblnvsd'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs/pgfhp: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/twlnjr/svsgnbs: Parsing '$ cd ..'.
+<rootdir>/rzgnbgv/twlnjr: Parsing '$ cd ..'.
+   <rootdir>/rzgnbgv: Parsing '$ cd ..'.
+           <rootdir>: Parsing '$ cd svsgnbs'.
+   <rootdir>/svsgnbs: Parsing '$ ls'.
+   <rootdir>/svsgnbs: Parsing '155183 jgjj.sgs'.
+   <rootdir>/svsgnbs: Parsing '28150 pldhhjch'.
+   <rootdir>/svsgnbs: Parsing '$ cd ..'.
+           <rootdir>: Parsing '$ cd wqctlzz'.
+   <rootdir>/wqctlzz: Parsing '$ ls'.
+   <rootdir>/wqctlzz: Parsing '23662 mglrchsr'.
+   <rootdir>/wqctlzz: Parsing '60923 pldhhjch'.
+Directory snapshot:
+- / (dir) (size: 41518953, children: 11)
+  - bcfwbq (dir) (size: 37072768, children: 10)
+    - bsbpc (dir) (size: 206932, children: 2)
+      - hlqptq.nrj (file, size=191305)
+      - lts.zjd (file, size=15627)
+    - gpbswq (dir) (size: 13867150, children: 6)
+      - ctctt (dir) (size: 490923, children: 1)
+        - hhmm (dir) (size: 490923, children: 3)
+          - brfjczv.lmr (file, size=89761)
+          - gwqfwwp.ctl (file, size=226384)
+          - pgsdmfj (file, size=174778)
+      - jcw (dir) (size: 149585, children: 1)
+        - gpbswq.lbv (file, size=149585)
+      - jnh (dir) (size: 6695733, children: 8)
+        - ctctt (file, size=10840)
+        - fzplg (dir) (size: 2214585, children: 2)
+          - lpn.vcl (file, size=34828)
+          - svsgnbs (dir) (size: 2179757, children: 6)
+            - bvtl (file, size=216427)
+            - gpbswq.qlg (file, size=242012)
+            - gsmltmw (dir) (size: 66467, children: 1)
+              - pldhhjch (file, size=66467)
+            - lpn.trp (file, size=11388)
+            - lrr (dir) (size: 1088689, children: 6)
+              - ctctt (dir) (size: 145394, children: 1)
+                - phd.tvj (file, size=145394)
+              - lpn (dir) (size: 148504, children: 1)
+                - svsgnbs (dir) (size: 148504, children: 1)
+                  - ctctt.vjd (file, size=148504)
+              - lts.zjd (file, size=16831)
+              - svsgnbs (dir) (size: 245750, children: 1)
+                - ggbhsgz.snc (file, size=245750)
+              - tdpmdfgd (dir) (size: 354741, children: 3)
+                - cghfclv (dir) (size: 49162, children: 1)
+                  - shwslwsf.lww (file, size=49162)
+                - mcfzvlvw (dir) (size: 70065, children: 1)
+                  - bsbswh (dir) (size: 70065, children: 1)
+                    - hqsdsp (dir) (size: 70065, children: 1)
+                      - pldhhjch (file, size=70065)
+                - mdgvcgbc (dir) (size: 235514, children: 1)
+                  - dhfms.nwl (file, size=235514)
+              - wct.njp (file, size=177469)
+            - vwqlvj (dir) (size: 554774, children: 3)
+              - jwv.dqh (file, size=269473)
+              - mglrchsr (file, size=90324)
+              - rwgsvszh.jbf (file, size=194977)
+        - jvpc (dir) (size: 639121, children: 2)
+          - rdgqr (dir) (size: 275985, children: 1)
+            - qcjccsth (dir) (size: 275985, children: 1)
+              - rqwvslc (dir) (size: 275985, children: 1)
+                - pgqph.lcn (file, size=275985)
+          - sspn (dir) (size: 363136, children: 2)
+            - gpbswq (file, size=200316)
+            - pldhhjch (file, size=162820)
+        - lpn (dir) (size: 277995, children: 1)
+          - hlqptq.nrj (file, size=277995)
+        - mcz (dir) (size: 3431883, children: 8)
+          - fjtj (dir) (size: 911941, children: 5)
+            - fbwzn (file, size=240610)
+            - hlqptq.nrj (file, size=207688)
+            - lts.zjd (file, size=150032)
+            - mcrgn (file, size=48060)
+            - zqrnt.srf (file, size=265551)
+          - gqfgrfqw.wtc (file, size=157693)
+          - jqbpcd (dir) (size: 1190085, children: 6)
+            - ctctt.nbp (file, size=256141)
+            - gpbswq (dir) (size: 125791, children: 1)
+              - ctctt (file, size=125791)
+            - hmddcjdd.bmc (file, size=78480)
+            - lpn (file, size=31403)
+            - mvdfjzdr (file, size=120619)
+            - nqgvl (dir) (size: 577651, children: 3)
+              - jrbfcvf.rqr (file, size=174465)
+              - lts.zjd (file, size=144210)
+              - rthpbmhr (file, size=258976)
+          - lpn (file, size=206235)
+          - mglrchsr (file, size=54229)
+          - rthpbmhr (file, size=238506)
+          - snr (dir) (size: 185943, children: 1)
+            - rthpbmhr.jhb (file, size=185943)
+          - ztlrtgjl (dir) (size: 487251, children: 2)
+            - ntlzfsz.vjd (file, size=232309)
+            - zhrds.nbp (file, size=254942)
+        - nczc (file, size=48063)
+        - rthpbmhr.qwq (file, size=8024)
+        - vqgbgm (file, size=65222)
+      - lts.zjd (file, size=53143)
+      - qrrjgdbd (dir) (size: 170768, children: 1)
+        - gpbswq (dir) (size: 170768, children: 1)
+          - rthpbmhr.qwf (file, size=170768)
+      - tnsjg (dir) (size: 6306998, children: 8)
+        - bjmgvmp.hht (file, size=242206)
+        - frtdp (file, size=245356)
+        - jrflhz (dir) (size: 1544176, children: 3)
+          - gpbswq (dir) (size: 121401, children: 1)
+            - mglrchsr (file, size=121401)
+          - nnlzjwts (dir) (size: 416225, children: 3)
+            - gljnss (dir) (size: 181850, children: 1)
+              - cfjbd.fmj (file, size=181850)
+            - lts.zjd (file, size=165011)
+            - svsgnbs.bqm (file, size=69364)
+          - sctf (dir) (size: 1006550, children: 5)
+            - gqfgrfqw.wtc (file, size=109435)
+            - lpn.mbs (file, size=146343)
+            - svsgnbs.hbf (file, size=255948)
+            - vdrfwqwv.pzf (file, size=231472)
+            - zgzj (file, size=263352)
+        - lpn (file, size=128115)
+        - rfhs (file, size=120081)
+        - sfplvt (dir) (size: 215395, children: 2)
+          - hlqptq.nrj (file, size=51580)
+          - mldph (dir) (size: 163815, children: 1)
+            - hsnw (file, size=163815)
+        - tts (dir) (size: 3697504, children: 4)
+          - ctctt (dir) (size: 409949, children: 3)
+            - ctctt (dir) (size: 89470, children: 1)
+              - hlqptq.nrj (file, size=89470)
+            - hshpfwl (file, size=137333)
+            - srd (file, size=183146)
+          - rpm (file, size=211239)
+          - rthpbmhr (dir) (size: 561724, children: 3)
+            - fhjlbrmp.phd (file, size=139569)
+            - jvrs.bpj (file, size=223589)
+            - rthpbmhr.qdr (file, size=198566)
+          - wpnnrzb (dir) (size: 2514592, children: 5)
+            - ctctt (dir) (size: 1057400, children: 4)
+              - gcjt.wld (file, size=166551)
+              - gpbswq.mls (file, size=233189)
+              - rthpbmhr.rvz (file, size=193694)
+              - svsgnbs (dir) (size: 463966, children: 2)
+                - fpssfvd.zft (file, size=248185)
+                - rwtg.gch (file, size=215781)
+            - fjtcc (file, size=158058)
+            - jqqhgjv (dir) (size: 1064612, children: 6)
+              - gpbswq (dir) (size: 429822, children: 2)
+                - sqchbqc (dir) (size: 253613, children: 1)
+                  - cphf (dir) (size: 253613, children: 1)
+                    - snzbgfs.rjf (file, size=253613)
+                - vdq.jbz (file, size=176209)
+              - lts.zjd (file, size=14842)
+              - mqp (dir) (size: 10090, children: 1)
+                - mfw (file, size=10090)
+              - pldhhjch (file, size=258342)
+              - sddj.sbq (file, size=103492)
+              - svsgnbs (file, size=248024)
+            - qvbvvb (dir) (size: 218093, children: 2)
+              - mzw (dir) (size: 98994, children: 1)
+                - mmv.hcl (file, size=98994)
+              - svsgnbs (dir) (size: 119099, children: 2)
+                - lts.zjd (file, size=108748)
+                - mglrchsr (file, size=10351)
+            - wds.hpj (file, size=16429)
+        - zfl.ccr (file, size=114165)
+    - lpn.qjd (file, size=172204)
+    - lts.zjd (file, size=269121)
+    - pfps (dir) (size: 351429, children: 3)
+      - cpp (dir) (size: 120225, children: 1)
+        - htnmrjpq (dir) (size: 120225, children: 1)
+          - bdjmsbg.wfz (file, size=120225)
+      - mglrchsr (file, size=110535)
+      - qvh.fbm (file, size=120669)
+    - phvgmv (dir) (size: 144721, children: 2)
+      - pldhhjch (file, size=113550)
+      - zcfm (file, size=31171)
+    - pjcrwh (dir) (size: 265625, children: 1)
+      - snbjdmg.jtn (file, size=265625)
+    - pvf (dir) (size: 439702, children: 3)
+      - ctctt (file, size=91010)
+      - hdz (dir) (size: 103787, children: 1)
+        - rlnrs (file, size=103787)
+      - qtwfpmvz (dir) (size: 244905, children: 1)
+        - lts.zjd (file, size=244905)
+    - rthpbmhr (dir) (size: 9566247, children: 4)
+      - phq (dir) (size: 5599122, children: 4)
+        - bzfnqh (file, size=91709)
+        - ccwqrjn (dir) (size: 722269, children: 3)
+          - fffqzmqp (file, size=8953)
+          - ftnb (dir) (size: 226615, children: 1)
+            - rthpbmhr (file, size=226615)
+          - svsgnbs (dir) (size: 486701, children: 2)
+            - bhnnm (dir) (size: 99285, children: 1)
+              - prfqw (dir) (size: 99285, children: 1)
+                - hzsjlq (dir) (size: 99285, children: 1)
+                  - cfpwbvp (file, size=99285)
+            - tjrqtmd (dir) (size: 387416, children: 2)
+              - cqr.wfj (file, size=237461)
+              - zchnb (file, size=149955)
+        - gpbswq (dir) (size: 1880703, children: 9)
+          - bqqtnfb (dir) (size: 320674, children: 1)
+            - jnzfr (dir) (size: 320674, children: 2)
+              - bdrqmr (dir) (size: 151767, children: 1)
+                - vfw.jjc (file, size=151767)
+              - pldhhjch (file, size=168907)
+          - ctctt (dir) (size: 77208, children: 1)
+            - zdsshmr (dir) (size: 77208, children: 1)
+              - hlqptq.nrj (file, size=77208)
+          - gpbswq (file, size=261108)
+          - hnrflng (file, size=135193)
+          - jrp.bls (file, size=264503)
+          - mghhgrj.tgp (file, size=224864)
+          - pljbtbn (dir) (size: 167985, children: 3)
+            - hlqptq.nrj (file, size=63719)
+            - jjctg.dhw (file, size=103719)
+            - tljz.wnv (file, size=547)
+          - rthpbmhr (dir) (size: 184946, children: 1)
+            - sjbfhcpc (dir) (size: 184946, children: 1)
+              - sgpgszw (file, size=184946)
+          - svsgnbs.rzp (file, size=244222)
+        - svsgnbs (dir) (size: 2904441, children: 5)
+          - ctctt (dir) (size: 1271765, children: 6)
+            - cnf (file, size=11507)
+            - gpbswq (dir) (size: 584728, children: 3)
+              - dsg (file, size=173498)
+              - msvs.szd (file, size=202811)
+              - pldhhjch (file, size=208419)
+            - rthpbmhr.wzv (file, size=87778)
+            - slmbb (dir) (size: 247259, children: 2)
+              - jcth (dir) (size: 6106, children: 1)
+                - hlqptq.nrj (file, size=6106)
+              - njldhbln (dir) (size: 241153, children: 1)
+                - mvnvzqfc.rtn (file, size=241153)
+            - sqc (dir) (size: 264937, children: 1)
+              - zhrc (dir) (size: 264937, children: 1)
+                - qswqqzb (dir) (size: 264937, children: 1)
+                  - btqmqn.hqv (file, size=264937)
+            - wsbzwn.mpf (file, size=75556)
+          - flzsvb (dir) (size: 58735, children: 1)
+            - hlqptq.nrj (file, size=58735)
+          - pbw (dir) (size: 988336, children: 6)
+            - bgfmdg (file, size=80787)
+            - gqfgrfqw.wtc (file, size=234807)
+            - pldhhjch (file, size=44816)
+            - qjjpmq (dir) (size: 337753, children: 2)
+              - ctghhsdh (file, size=155209)
+              - fprdp.ffs (file, size=182544)
+            - rthpbmhr (dir) (size: 136673, children: 1)
+              - lts.zjd (file, size=136673)
+            - ssmdz (file, size=153500)
+          - qprlnvwv.jmz (file, size=23408)
+          - wjhplc (dir) (size: 562197, children: 4)
+            - hhcgnfjb.nbl (file, size=246593)
+            - hlqptq.nrj (file, size=29266)
+            - lts.zjd (file, size=246096)
+            - rrfgvvhg (file, size=40242)
+      - svsgnbs (dir) (size: 1229721, children: 4)
+        - fwm (file, size=215743)
+        - gqfgrfqw.wtc (file, size=236816)
+        - sjdlr.rzj (file, size=235185)
+        - ztsgb (dir) (size: 541977, children: 2)
+          - rthpbmhr.pdp (file, size=265998)
+          - zqfcprz.wtd (file, size=275979)
+      - wzwfz (dir) (size: 1333480, children: 4)
+        - bsqwtf (dir) (size: 352193, children: 2)
+          - rhjb (dir) (size: 166599, children: 1)
+            - rthpbmhr.msg (file, size=166599)
+          - sgzvb (dir) (size: 185594, children: 1)
+            - zmnb.bcq (file, size=185594)
+        - ctctt (dir) (size: 390099, children: 3)
+          - svsgnbs (file, size=130367)
+          - tdsztr.fsn (file, size=17459)
+          - wfs (file, size=242273)
+        - lpng (dir) (size: 145778, children: 1)
+          - snmcwfg.hjz (file, size=145778)
+        - svsgnbs (dir) (size: 445410, children: 4)
+          - ctctt (dir) (size: 244171, children: 1)
+            - pldhhjch (file, size=244171)
+          - nqrlzg (dir) (size: 141943, children: 1)
+            - qjhlj (dir) (size: 141943, children: 1)
+              - gncct (dir) (size: 141943, children: 1)
+                - wsdgmdd.ctz (file, size=141943)
+          - qczmdfm (dir) (size: 4482, children: 1)
+            - lpn.fmp (file, size=4482)
+          - wtmjh.jdv (file, size=54814)
+      - zpwfj (dir) (size: 1403924, children: 2)
+        - lts.zjd (file, size=226995)
+        - sflcgdm (dir) (size: 1176929, children: 6)
+          - bjrjrrm.bfw (file, size=199168)
+          - fpcq (dir) (size: 195792, children: 1)
+            - nghcc.wps (file, size=195792)
+          - gdzfmhz.jhp (file, size=24906)
+          - hdpzvh.ngg (file, size=7267)
+          - jjsgqb (dir) (size: 612000, children: 4)
+            - ctctt (file, size=18774)
+            - jvbgfhs (file, size=106399)
+            - rthpbmhr (file, size=208035)
+            - zptz (dir) (size: 278792, children: 1)
+              - gqfgrfqw.wtc (file, size=278792)
+          - psws.hvp (file, size=137796)
+    - sjnvdz (dir) (size: 11789637, children: 7)
+      - fchgggp (dir) (size: 3870490, children: 7)
+        - fjcclj (dir) (size: 287009, children: 2)
+          - gpbswq.vtg (file, size=28333)
+          - lts.zjd (file, size=258676)
+        - lpn (dir) (size: 197797, children: 1)
+          - pldhhjch (file, size=197797)
+        - lts.zjd (file, size=145291)
+        - mglrchsr (file, size=7288)
+        - pmhdzvfn (dir) (size: 2998251, children: 9)
+          - gpbswq.pwq (file, size=21538)
+          - hqjg (file, size=5451)
+          - llhp (dir) (size: 625073, children: 2)
+            - lsft (dir) (size: 439932, children: 4)
+              - gpbswq.ddb (file, size=78424)
+              - gqfgrfqw.wtc (file, size=101497)
+              - hlqptq.nrj (file, size=137686)
+              - mglrchsr (file, size=122325)
+            - pfjmphs (dir) (size: 185141, children: 1)
+              - mbw.gnd (file, size=185141)
+          - lzqmh.stl (file, size=220717)
+          - pldhhjch (file, size=123800)
+          - pmv (dir) (size: 412137, children: 2)
+            - gqfgrfqw.wtc (file, size=139255)
+            - hlqptq.nrj (file, size=272882)
+          - rzs (dir) (size: 1109047, children: 5)
+            - gpbswq (dir) (size: 205674, children: 1)
+              - ctctt.gqd (file, size=205674)
+            - gpbswq.vcv (file, size=89153)
+            - gqfgrfqw.wtc (file, size=81882)
+            - hlqptq.nrj (file, size=39252)
+            - tmcm (dir) (size: 693086, children: 4)
+              - gmjvzj.wzl (file, size=156591)
+              - lts.zjd (file, size=199254)
+              - vzhbsdd (dir) (size: 113515, children: 2)
+                - gsgzqgn.fhf (file, size=70059)
+                - hrttvrqc (file, size=43456)
+              - zfs (dir) (size: 223726, children: 1)
+                - hlqptq.nrj (file, size=223726)
+          - tztv (dir) (size: 320470, children: 2)
+            - lpn.bns (file, size=200126)
+            - wfjwmbj (dir) (size: 120344, children: 1)
+              - gdqgml.gdn (file, size=120344)
+          - zfvgjtzr.qth (file, size=160018)
+        - qtpdfwh (dir) (size: 27659, children: 1)
+          - qszjt (dir) (size: 27659, children: 2)
+            - rthpbmhr.rpv (file, size=7207)
+            - ztdnfmgp.dsb (file, size=20452)
+        - vjwtvb (dir) (size: 207195, children: 1)
+          - scswlmn (dir) (size: 207195, children: 1)
+            - svsgnbs.jqq (file, size=207195)
+      - gldg (dir) (size: 1319857, children: 6)
+        - ctctt.wbc (file, size=119560)
+        - gqfgrfqw.wtc (file, size=203041)
+        - hrp (dir) (size: 314410, children: 1)
+          - lpn (dir) (size: 314410, children: 2)
+            - gpbswq (dir) (size: 231107, children: 1)
+              - vtgc (dir) (size: 231107, children: 1)
+                - hlqptq.nrj (file, size=231107)
+            - wvrzhdb (dir) (size: 83303, children: 1)
+              - lts.zjd (file, size=83303)
+        - lts.zjd (file, size=274270)
+        - mhsfdhjr.ndw (file, size=25081)
+        - svsgnbs (dir) (size: 383495, children: 3)
+          - fhfqlv (dir) (size: 243574, children: 1)
+            - hjn.jzb (file, size=243574)
+          - frn.hzg (file, size=13446)
+          - wmjjjl.cjr (file, size=126475)
+      - gnh.gmv (file, size=40164)
+      - lpn (dir) (size: 6213301, children: 1)
+        - mqglznd (dir) (size: 6213301, children: 8)
+          - gpbswq (dir) (size: 4558251, children: 4)
+            - lts.zjd (file, size=244278)
+            - pfrjwbvl (dir) (size: 3847317, children: 10)
+              - cfl.ljt (file, size=46802)
+              - ctctt (dir) (size: 397405, children: 3)
+                - hctcg.dpw (file, size=6529)
+                - lpn.qjf (file, size=188655)
+                - wjnb (file, size=202221)
+              - dfqzmd (dir) (size: 197980, children: 1)
+                - ctctt (file, size=197980)
+              - gshdhsfm (file, size=110525)
+              - jcbw (dir) (size: 115210, children: 4)
+                - gpbswq (file, size=1281)
+                - jfgjlcd.mqh (file, size=15778)
+                - mdtcrb.dbj (file, size=38803)
+                - qtjbpbs (dir) (size: 59348, children: 1)
+                  - mglrchsr (file, size=59348)
+              - lpn (dir) (size: 1388872, children: 3)
+                - ctctt (dir) (size: 135584, children: 1)
+                  - wvbrsb (dir) (size: 135584, children: 1)
+                    - lts.zjd (file, size=135584)
+                - hsjjp (dir) (size: 992823, children: 5)
+                  - ddfqnwgf (file, size=249448)
+                  - dsnhsbp.wvv (file, size=164051)
+                  - fmzgm (dir) (size: 150025, children: 1)
+                    - ngnqjcj.tbf (file, size=150025)
+                  - gpbswq (dir) (size: 315392, children: 3)
+                    - dmgqhf.nzd (file, size=33139)
+                    - gpbswq (dir) (size: 148820, children: 1)
+                      - lnqqds.rpg (file, size=148820)
+                    - rwd (dir) (size: 133433, children: 1)
+                      - pldhhjch (file, size=133433)
+                  - gqfgrfqw.wtc (file, size=113907)
+                - mglrchsr (file, size=260465)
+              - pldhhjch (file, size=237385)
+              - prcwhhq.jjh (file, size=15812)
+              - rthpbmhr (dir) (size: 1076633, children: 5)
+                - fdnr.svq (file, size=262342)
+                - nbpsdm (dir) (size: 417555, children: 2)
+                  - rthpbmhr (dir) (size: 267109, children: 1)
+                    - chb (file, size=267109)
+                  - svsgnbs (dir) (size: 150446, children: 1)
+                    - rlv.vcc (file, size=150446)
+                - pldhhjch (file, size=161791)
+                - qvclr (file, size=6835)
+                - whf (file, size=228110)
+              - zmgq (file, size=260693)
+            - qlrfw (dir) (size: 244165, children: 1)
+              - sgcpwst (dir) (size: 244165, children: 1)
+                - fss (dir) (size: 244165, children: 1)
+                  - gpbswq.qtz (file, size=244165)
+            - rthpbmhr (file, size=222491)
+          - gpbswq.zhv (file, size=177654)
+          - gqfgrfqw.wtc (file, size=128217)
+          - hlqptq.nrj (file, size=66750)
+          - hvphz (file, size=136018)
+          - pswvwtf (dir) (size: 700044, children: 4)
+            - jhdrnv.zrd (file, size=162099)
+            - mglrchsr (file, size=54856)
+            - psdz (dir) (size: 314036, children: 1)
+              - lbcf (dir) (size: 314036, children: 2)
+                - ctctt.chv (file, size=218770)
+                - pldhhjch (file, size=95266)
+            - qhq (file, size=169053)
+          - rthpbmhr.gwz (file, size=113363)
+          - twddrn (dir) (size: 333004, children: 2)
+            - hlqptq.nrj (file, size=120791)
+            - vffj (file, size=212213)
+      - njtgjt (dir) (size: 108520, children: 1)
+        - mzwdb (dir) (size: 108520, children: 1)
+          - lts.zjd (file, size=108520)
+      - qqfm.grb (file, size=81415)
+      - vvcbjct (dir) (size: 155890, children: 1)
+        - ctctt.fbw (file, size=155890)
+  - cmss (file, size=14779)
+  - ctctt (dir) (size: 200255, children: 3)
+    - mpftwp.nds (file, size=5656)
+    - pldhhjch (file, size=8998)
+    - snrng.qsv (file, size=185601)
+  - gpbswq.njr (file, size=101350)
+  - mglrchsr (file, size=270744)
+  - qtvftbl (file, size=260405)
+  - rbsrpg (dir) (size: 1423733, children: 4)
+    - cpwmjw.rbj (file, size=113129)
+    - jdhmlzr (dir) (size: 1075642, children: 6)
+      - cdnmflmm (dir) (size: 83138, children: 1)
+        - lpn.wtg (file, size=83138)
+      - hlqptq.nrj (file, size=248055)
+      - pldhhjch (file, size=247942)
+      - qrwsnzdv (dir) (size: 197145, children: 1)
+        - zspfb.sbd (file, size=197145)
+      - svsgnbs (file, size=80053)
+      - zhqgvd.bhw (file, size=219309)
+    - sqj.fzp (file, size=114254)
+    - svsgnbs.hpn (file, size=120708)
+  - rzgnbgv (dir) (size: 1835419, children: 3)
+    - clz (file, size=208692)
+    - tmcqcpfc (dir) (size: 264726, children: 1)
+      - jtnf (dir) (size: 264726, children: 2)
+        - fhvtvdff.swr (file, size=242978)
+        - lwcplzmw (file, size=21748)
+    - twlnjr (dir) (size: 1362001, children: 6)
+      - ctctt (dir) (size: 200382, children: 1)
+        - pqswsnhp (file, size=200382)
+      - gpbswq (dir) (size: 90380, children: 1)
+        - qqrfbwn (file, size=90380)
+      - rthpbmhr.pcr (file, size=98435)
+      - snpm (dir) (size: 57996, children: 1)
+        - swfjlfh.qft (file, size=57996)
+      - svsgnbs (dir) (size: 809839, children: 6)
+        - clcfrnr.jwl (file, size=86028)
+        - ctctt.ftr (file, size=199666)
+        - ctctt.mrh (file, size=200949)
+        - dhlmbh.gjt (file, size=23594)
+        - mbchg (file, size=278047)
+        - pgfhp (dir) (size: 21555, children: 1)
+          - rlblnvsd (file, size=21555)
+      - zzd (file, size=104969)
+  - svsgnbs (dir) (size: 183333, children: 2)
+    - jgjj.sgs (file, size=155183)
+    - pldhhjch (file, size=28150)
+  - wqctlzz (dir) (size: 84585, children: 2)
+    - mglrchsr (file, size=23662)
+    - pldhhjch (file, size=60923)
+  - wrqbm (file, size=71582)
+
+Total dir size: 41518953
+All dirs: [('bcfwbq', 37072768), ('bsbpc', 206932), ('gpbswq', 13867150), ('ctctt', 490923), ('hhmm', 490923), ('jcw', 149585), ('jnh', 6695733), ('fzplg', 2214585), ('svsgnbs', 2179757), ('gsmltmw', 66467), ('lrr', 1088689), ('ctctt', 145394), ('lpn', 148504), ('svsgnbs', 148504), ('svsgnbs', 245750), ('tdpmdfgd', 354741), ('cghfclv', 49162), ('mcfzvlvw', 70065), ('bsbswh', 70065), ('hqsdsp', 70065), ('mdgvcgbc', 235514), ('vwqlvj', 554774), ('jvpc', 639121), ('rdgqr', 275985), ('qcjccsth', 275985), ('rqwvslc', 275985), ('sspn', 363136), ('lpn', 277995), ('mcz', 3431883), ('fjtj', 911941), ('jqbpcd', 1190085), ('gpbswq', 125791), ('nqgvl', 577651), ('snr', 185943), ('ztlrtgjl', 487251), ('qrrjgdbd', 170768), ('gpbswq', 170768), ('tnsjg', 6306998), ('jrflhz', 1544176), ('gpbswq', 121401), ('nnlzjwts', 416225), ('gljnss', 181850), ('sctf', 1006550), ('sfplvt', 215395), ('mldph', 163815), ('tts', 3697504), ('ctctt', 409949), ('ctctt', 89470), ('rthpbmhr', 561724), ('wpnnrzb', 2514592), ('ctctt', 1057400), ('svsgnbs', 463966), ('jqqhgjv', 1064612), ('gpbswq', 429822), ('sqchbqc', 253613), ('cphf', 253613), ('mqp', 10090), ('qvbvvb', 218093), ('mzw', 98994), ('svsgnbs', 119099), ('pfps', 351429), ('cpp', 120225), ('htnmrjpq', 120225), ('phvgmv', 144721), ('pjcrwh', 265625), ('pvf', 439702), ('hdz', 103787), ('qtwfpmvz', 244905), ('rthpbmhr', 9566247), ('phq', 5599122), ('ccwqrjn', 722269), ('ftnb', 226615), ('svsgnbs', 486701), ('bhnnm', 99285), ('prfqw', 99285), ('hzsjlq', 99285), ('tjrqtmd', 387416), ('gpbswq', 1880703), ('bqqtnfb', 320674), ('jnzfr', 320674), ('bdrqmr', 151767), ('ctctt', 77208), ('zdsshmr', 77208), ('pljbtbn', 167985), ('rthpbmhr', 184946), ('sjbfhcpc', 184946), ('svsgnbs', 2904441), ('ctctt', 1271765), ('gpbswq', 584728), ('slmbb', 247259), ('jcth', 6106), ('njldhbln', 241153), ('sqc', 264937), ('zhrc', 264937), ('qswqqzb', 264937), ('flzsvb', 58735), ('pbw', 988336), ('qjjpmq', 337753), ('rthpbmhr', 136673), ('wjhplc', 562197), ('svsgnbs', 1229721), ('ztsgb', 541977), ('wzwfz', 1333480), ('bsqwtf', 352193), ('rhjb', 166599), ('sgzvb', 185594), ('ctctt', 390099), ('lpng', 145778), ('svsgnbs', 445410), ('ctctt', 244171), ('nqrlzg', 141943), ('qjhlj', 141943), ('gncct', 141943), ('qczmdfm', 4482), ('zpwfj', 1403924), ('sflcgdm', 1176929), ('fpcq', 195792), ('jjsgqb', 612000), ('zptz', 278792), ('sjnvdz', 11789637), ('fchgggp', 3870490), ('fjcclj', 287009), ('lpn', 197797), ('pmhdzvfn', 2998251), ('llhp', 625073), ('lsft', 439932), ('pfjmphs', 185141), ('pmv', 412137), ('rzs', 1109047), ('gpbswq', 205674), ('tmcm', 693086), ('vzhbsdd', 113515), ('zfs', 223726), ('tztv', 320470), ('wfjwmbj', 120344), ('qtpdfwh', 27659), ('qszjt', 27659), ('vjwtvb', 207195), ('scswlmn', 207195), ('gldg', 1319857), ('hrp', 314410), ('lpn', 314410), ('gpbswq', 231107), ('vtgc', 231107), ('wvrzhdb', 83303), ('svsgnbs', 383495), ('fhfqlv', 243574), ('lpn', 6213301), ('mqglznd', 6213301), ('gpbswq', 4558251), ('pfrjwbvl', 3847317), ('ctctt', 397405), ('dfqzmd', 197980), ('jcbw', 115210), ('qtjbpbs', 59348), ('lpn', 1388872), ('ctctt', 135584), ('wvbrsb', 135584), ('hsjjp', 992823), ('fmzgm', 150025), ('gpbswq', 315392), ('gpbswq', 148820), ('rwd', 133433), ('rthpbmhr', 1076633), ('nbpsdm', 417555), ('rthpbmhr', 267109), ('svsgnbs', 150446), ('qlrfw', 244165), ('sgcpwst', 244165), ('fss', 244165), ('pswvwtf', 700044), ('psdz', 314036), ('lbcf', 314036), ('twddrn', 333004), ('njtgjt', 108520), ('mzwdb', 108520), ('vvcbjct', 155890), ('ctctt', 200255), ('rbsrpg', 1423733), ('jdhmlzr', 1075642), ('cdnmflmm', 83138), ('qrwsnzdv', 197145), ('rzgnbgv', 1835419), ('tmcqcpfc', 264726), ('jtnf', 264726), ('twlnjr', 1362001), ('ctctt', 200382), ('gpbswq', 90380), ('snpm', 57996), ('svsgnbs', 809839), ('pgfhp', 21555), ('svsgnbs', 183333), ('wqctlzz', 84585)]
+All dirs (maxsize 100000): [('gsmltmw', 66467), ('cghfclv', 49162), ('mcfzvlvw', 70065), ('bsbswh', 70065), ('hqsdsp', 70065), ('ctctt', 89470), ('mqp', 10090), ('mzw', 98994), ('bhnnm', 99285), ('prfqw', 99285), ('hzsjlq', 99285), ('ctctt', 77208), ('zdsshmr', 77208), ('jcth', 6106), ('flzsvb', 58735), ('qczmdfm', 4482), ('qtpdfwh', 27659), ('qszjt', 27659), ('wvrzhdb', 83303), ('qtjbpbs', 59348), ('cdnmflmm', 83138), ('gpbswq', 90380), ('snpm', 57996), ('pgfhp', 21555), ('wqctlzz', 84585)]
+sum of these sizes: 1581595
+
+Process finished with exit code 0
