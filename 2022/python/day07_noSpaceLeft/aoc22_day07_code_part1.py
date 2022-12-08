@@ -3,9 +3,13 @@
 #
 import os
 import re
+import utils
 
 filename = "adventofcode2022_day07_input.txt"
-#filename = "adventofcode2022_day07_input_test.txt"
+filename = "adventofcode2022_day07_input_test.txt"
+
+if utils.detect_ide() == utils.IDE_VSCODE:
+    filename = 'python\\day07_noSpaceLeft\\%s' % filename
 
 class DirectoryItem:
     def __init__(self, name, parentItem=None):
@@ -112,19 +116,18 @@ for row in assignment_input:
     match_obj = re.match(pattern_command, row)
     if match_obj:
         (command, param1) = match_obj.groups()
-        match command:
-            case "cd": # Goto dir
-                dirname = param1
-                if dirname == '/':
-                    current_dir = root_dir
-                elif dirname == '..':
-                    current_dir.cdDotDot()
-                else:
-                    current_dir.cdDir(param1)
-            case "ls":
-                pass # Do nothing for list dir
-            case _:
-                print("Found unknown command/param: %s, %s" %(command, param1))
+        if command == "cd": # Goto dir
+            dirname = param1
+            if dirname == '/':
+                current_dir = root_dir
+            elif dirname == '..':
+                current_dir.cdDotDot()
+            else:
+                current_dir.cdDir(param1)
+        elif command == "ls":
+            pass # Do nothing for list dir
+        else:
+            print("Found unknown command/param: %s, %s" %(command, param1))
     # dir <firname>
     match_obj = re.match(pattern_dir, row)
     if match_obj:
