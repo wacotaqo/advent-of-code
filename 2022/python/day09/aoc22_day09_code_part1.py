@@ -3,8 +3,8 @@
 #
 import os
 
-filename = "adventofcode2022_dayxx_input.txt"
-filename = "adventofcode2022_dayxx_input_test.txt"
+filename = "adventofcode2022_day09_input.txt"
+filename = "adventofcode2022_day09_input_test.txt"
 
 DEBUG = 1
 def debug(msg):
