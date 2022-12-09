@@ -5,7 +5,7 @@ import os
 import functools
 
 filename = "adventofcode2022_day08_input.txt"
-#filename = "adventofcode2022_day08_input_test.txt"
+#filename = "adventofcode2022_day08_input_test1.txt"
 
 fh = open(os.path.join(os.getcwd(), filename), "r")
 assignment_input = fh.read().splitlines()
