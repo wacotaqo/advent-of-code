@@ -7,7 +7,7 @@ filename = "adventofcode2022_day09_input.txt"
 #filename = "adventofcode2022_day09_input_test1.txt"
 #filename = "adventofcode2022_day09_input_test2.txt"
 
-DEBUG = 1
+DEBUG = 0
 def debug(msg):
     if DEBUG:
         print(msg)
@@ -79,9 +79,53 @@ for step in head_steps:
 
 debug("")
 tail_locations = knot_locations[num_knots-1]
-debug("Tail knot visits num locations: %s" % len(tail_locations))
+print("Tail knot visits num locations: %s" % len(tail_locations))
 # remove duplicates to get unique locations
 tail_locations = [t for t in (set(tuple(i) for i in tail_locations))]
-debug("number of unique tail locations: %s" % len(tail_locations))
+print("number of unique tail locations: %s" % len(tail_locations))
 #print(tail_locations)
+
+# some fun - draw locations
+if DEBUG:
+    head_locations = knot_locations[0]
+    max_x = max([x for (x, y) in head_locations])
+    max_y = max([y for (x, y) in head_locations])
+    min_x = min([x for (x, y) in head_locations])
+    min_y = min([y for (x, y) in head_locations])
+    debug("head locations: max(%s, %s) min(%s, %s)" % (max_x, max_y, min_x, min_y))
+    # slide coordinates
+    max_x = max_x - min_x + 1
+    max_y = max_y - min_y + 1
+    offset_x = abs(min_x)
+    offset_y = abs(min_y)
+    debug("movement space: max(%s, %s) start(%s, %s)" % (max_x, max_y, offset_x, offset_y))
+
+    space = {}
+    for y in range(max_y):
+        for x in range(max_x):
+            if not (x,y) in space:
+                space[(x,y)] = '.'
+
+    # draw last position of all knots
+    reverse_knots = [i for i in knots]
+    reverse_knots.reverse()
+    for knot in reverse_knots:
+        (x, y) = knot_positions[knot]
+        space[(x+offset_x, y+offset_y)] = str(knot)
+        debug("Adding %s at (%s, %s)" % (knot, x+offset_x, y+offset_y))
+
+    # draw board
+    space_str = ""
+    for y in range(max_y - 1, -1, -1):
+        for x in range(max_x):
+            output_char = space[(x,y)]
+            if output_char == '0':
+                output_char = 'H'
+            elif x == offset_x and y == offset_y:
+                output_char = 's'
+            space_str += output_char
+        space_str += '\n'
+
+    debug(space_str)
+
 
