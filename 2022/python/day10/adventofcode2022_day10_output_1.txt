@@ -1,0 +1,253 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/github/wacotaqo/advent-of-code/2022/python/day10/aoc22_day10_code_part1.py
+Input read: ['noop', 'noop', 'noop', 'addx 6', 'noop', 'addx 30', 'addx -26', 'noop', 'addx 5', 'noop', 'noop', 'noop', 'noop', 'addx 5', 'addx -5', 'addx 6', 'addx 5', 'addx -1', 'addx 5', 'noop', 'noop', 'addx -14', 'addx -18', 'addx 39', 'addx -39', 'addx 25', 'addx -22', 'addx 2', 'addx 5', 'addx 2', 'addx 3', 'addx -2', 'addx 2', 'noop', 'addx 3', 'addx 2', 'addx 2', 'noop', 'addx 3', 'noop', 'addx 3', 'addx 2', 'addx 5', 'addx 4', 'addx -18', 'addx 17', 'addx -38', 'addx 5', 'addx 2', 'addx -5', 'addx 27', 'addx -19', 'noop', 'addx 3', 'addx 4', 'noop', 'noop', 'addx 5', 'addx -1', 'noop', 'noop', 'addx 4', 'addx 5', 'addx 2', 'addx -4', 'addx 5', 'noop', 'addx -11', 'addx 16', 'addx -36', 'noop', 'addx 5', 'noop', 'addx 28', 'addx -23', 'noop', 'noop', 'noop', 'addx 21', 'addx -18', 'noop', 'addx 3', 'addx 2', 'addx 2', 'addx 5', 'addx 1', 'noop', 'noop', 'addx 4', 'noop', 'noop', 'noop', 'noop', 'noop', 'addx 8', 'addx -40', 'noop', 'addx 7', 'noop', 'addx -2', 'addx 5', 'addx 2', 'addx 25', 'addx -31', 'addx 9', 'addx 5', 'addx 2', 'addx 2', 'addx 3', 'addx -2', 'noop', 'addx 3', 'addx 2', 'noop', 'addx 7', 'addx -2', 'addx 5', 'addx -40', 'addx 20', 'addx -12', 'noop', 'noop', 'noop', 'addx -5', 'addx 7', 'addx 7', 'noop', 'addx -1', 'addx 1', 'addx 5', 'addx 3', 'addx -2', 'addx 2', 'noop', 'addx 3', 'addx 2', 'noop', 'noop', 'noop', 'noop', 'addx 7', 'noop', 'noop', 'noop', 'noop']
+    1: Processing instruction(        noop) x(                        1)
+    2: Processing instruction(        noop) x(                        1)
+    3: Processing instruction(        noop) x(                        1)
+    4: Processing instruction(      addx 6) x(                        1)
+                                    addx 6  ==> Adding value(6) and extra 1 cycle
+    6: Processing instruction(        noop) x(                        7)
+    7: Processing instruction(     addx 30) x(                        7)
+                                   addx 30  ==> Adding value(30) and extra 1 cycle
+    9: Processing instruction(    addx -26) x(                       37)
+                                  addx -26  ==> Adding value(-26) and extra 1 cycle
+   11: Processing instruction(        noop) x(                       11)
+   12: Processing instruction(      addx 5) x(                       11)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   14: Processing instruction(        noop) x(                       16)
+   15: Processing instruction(        noop) x(                       16)
+   16: Processing instruction(        noop) x(                       16)
+   17: Processing instruction(        noop) x(                       16)
+   18: Processing instruction(      addx 5) x(                       16)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+       Reporting signal strength: 20 x 21 = 420
+   20: Processing instruction(     addx -5) x(                       21)
+                                   addx -5  ==> Adding value(-5) and extra 1 cycle
+   22: Processing instruction(      addx 6) x(                       16)
+                                    addx 6  ==> Adding value(6) and extra 1 cycle
+   24: Processing instruction(      addx 5) x(                       22)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   26: Processing instruction(     addx -1) x(                       27)
+                                   addx -1  ==> Adding value(-1) and extra 1 cycle
+   28: Processing instruction(      addx 5) x(                       26)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   30: Processing instruction(        noop) x(                       31)
+   31: Processing instruction(        noop) x(                       31)
+   32: Processing instruction(    addx -14) x(                       31)
+                                  addx -14  ==> Adding value(-14) and extra 1 cycle
+   34: Processing instruction(    addx -18) x(                       17)
+                                  addx -18  ==> Adding value(-18) and extra 1 cycle
+   36: Processing instruction(     addx 39) x(                       -1)
+                                   addx 39  ==> Adding value(39) and extra 1 cycle
+   38: Processing instruction(    addx -39) x(                       38)
+                                  addx -39  ==> Adding value(-39) and extra 1 cycle
+   40: Processing instruction(     addx 25) x(                       -1)
+                                   addx 25  ==> Adding value(25) and extra 1 cycle
+   42: Processing instruction(    addx -22) x(                       24)
+                                  addx -22  ==> Adding value(-22) and extra 1 cycle
+   44: Processing instruction(      addx 2) x(                        2)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   46: Processing instruction(      addx 5) x(                        4)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   48: Processing instruction(      addx 2) x(                        9)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   50: Processing instruction(      addx 3) x(                       11)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+   52: Processing instruction(     addx -2) x(                       14)
+                                   addx -2  ==> Adding value(-2) and extra 1 cycle
+   54: Processing instruction(      addx 2) x(                       12)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   56: Processing instruction(        noop) x(                       14)
+   57: Processing instruction(      addx 3) x(                       14)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+   59: Processing instruction(      addx 2) x(                       17)
+       Reporting signal strength: 60 x 17 = 1020
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   61: Processing instruction(      addx 2) x(                       19)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   63: Processing instruction(        noop) x(                       21)
+   64: Processing instruction(      addx 3) x(                       21)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+   66: Processing instruction(        noop) x(                       24)
+   67: Processing instruction(      addx 3) x(                       24)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+   69: Processing instruction(      addx 2) x(                       27)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   71: Processing instruction(      addx 5) x(                       29)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   73: Processing instruction(      addx 4) x(                       34)
+                                    addx 4  ==> Adding value(4) and extra 1 cycle
+   75: Processing instruction(    addx -18) x(                       38)
+                                  addx -18  ==> Adding value(-18) and extra 1 cycle
+   77: Processing instruction(     addx 17) x(                       20)
+                                   addx 17  ==> Adding value(17) and extra 1 cycle
+   79: Processing instruction(    addx -38) x(                       37)
+                                  addx -38  ==> Adding value(-38) and extra 1 cycle
+   81: Processing instruction(      addx 5) x(                       -1)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+   83: Processing instruction(      addx 2) x(                        4)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+   85: Processing instruction(     addx -5) x(                        6)
+                                   addx -5  ==> Adding value(-5) and extra 1 cycle
+   87: Processing instruction(     addx 27) x(                        1)
+                                   addx 27  ==> Adding value(27) and extra 1 cycle
+   89: Processing instruction(    addx -19) x(                       28)
+                                  addx -19  ==> Adding value(-19) and extra 1 cycle
+   91: Processing instruction(        noop) x(                        9)
+   92: Processing instruction(      addx 3) x(                        9)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+   94: Processing instruction(      addx 4) x(                       12)
+                                    addx 4  ==> Adding value(4) and extra 1 cycle
+   96: Processing instruction(        noop) x(                       16)
+   97: Processing instruction(        noop) x(                       16)
+   98: Processing instruction(      addx 5) x(                       16)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+       Reporting signal strength: 100 x 21 = 2100
+  100: Processing instruction(     addx -1) x(                       21)
+                                   addx -1  ==> Adding value(-1) and extra 1 cycle
+  102: Processing instruction(        noop) x(                       20)
+  103: Processing instruction(        noop) x(                       20)
+  104: Processing instruction(      addx 4) x(                       20)
+                                    addx 4  ==> Adding value(4) and extra 1 cycle
+  106: Processing instruction(      addx 5) x(                       24)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  108: Processing instruction(      addx 2) x(                       29)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  110: Processing instruction(     addx -4) x(                       31)
+                                   addx -4  ==> Adding value(-4) and extra 1 cycle
+  112: Processing instruction(      addx 5) x(                       27)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  114: Processing instruction(        noop) x(                       32)
+  115: Processing instruction(    addx -11) x(                       32)
+                                  addx -11  ==> Adding value(-11) and extra 1 cycle
+  117: Processing instruction(     addx 16) x(                       21)
+                                   addx 16  ==> Adding value(16) and extra 1 cycle
+  119: Processing instruction(    addx -36) x(                       37)
+                                  addx -36  ==> Adding value(-36) and extra 1 cycle
+  121: Processing instruction(        noop) x(                        1)
+  122: Processing instruction(      addx 5) x(                        1)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  124: Processing instruction(        noop) x(                        6)
+  125: Processing instruction(     addx 28) x(                        6)
+                                   addx 28  ==> Adding value(28) and extra 1 cycle
+  127: Processing instruction(    addx -23) x(                       34)
+                                  addx -23  ==> Adding value(-23) and extra 1 cycle
+  129: Processing instruction(        noop) x(                       11)
+  130: Processing instruction(        noop) x(                       11)
+  131: Processing instruction(        noop) x(                       11)
+  132: Processing instruction(     addx 21) x(                       11)
+                                   addx 21  ==> Adding value(21) and extra 1 cycle
+  134: Processing instruction(    addx -18) x(                       32)
+                                  addx -18  ==> Adding value(-18) and extra 1 cycle
+  136: Processing instruction(        noop) x(                       14)
+  137: Processing instruction(      addx 3) x(                       14)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+  139: Processing instruction(      addx 2) x(                       17)
+       Reporting signal strength: 140 x 17 = 2380
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  141: Processing instruction(      addx 2) x(                       19)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  143: Processing instruction(      addx 5) x(                       21)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  145: Processing instruction(      addx 1) x(                       26)
+                                    addx 1  ==> Adding value(1) and extra 1 cycle
+  147: Processing instruction(        noop) x(                       27)
+  148: Processing instruction(        noop) x(                       27)
+  149: Processing instruction(      addx 4) x(                       27)
+                                    addx 4  ==> Adding value(4) and extra 1 cycle
+  151: Processing instruction(        noop) x(                       31)
+  152: Processing instruction(        noop) x(                       31)
+  153: Processing instruction(        noop) x(                       31)
+  154: Processing instruction(        noop) x(                       31)
+  155: Processing instruction(        noop) x(                       31)
+  156: Processing instruction(      addx 8) x(                       31)
+                                    addx 8  ==> Adding value(8) and extra 1 cycle
+  158: Processing instruction(    addx -40) x(                       39)
+                                  addx -40  ==> Adding value(-40) and extra 1 cycle
+  160: Processing instruction(        noop) x(                       -1)
+  161: Processing instruction(      addx 7) x(                       -1)
+                                    addx 7  ==> Adding value(7) and extra 1 cycle
+  163: Processing instruction(        noop) x(                        6)
+  164: Processing instruction(     addx -2) x(                        6)
+                                   addx -2  ==> Adding value(-2) and extra 1 cycle
+  166: Processing instruction(      addx 5) x(                        4)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  168: Processing instruction(      addx 2) x(                        9)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  170: Processing instruction(     addx 25) x(                       11)
+                                   addx 25  ==> Adding value(25) and extra 1 cycle
+  172: Processing instruction(    addx -31) x(                       36)
+                                  addx -31  ==> Adding value(-31) and extra 1 cycle
+  174: Processing instruction(      addx 9) x(                        5)
+                                    addx 9  ==> Adding value(9) and extra 1 cycle
+  176: Processing instruction(      addx 5) x(                       14)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  178: Processing instruction(      addx 2) x(                       19)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+       Reporting signal strength: 180 x 21 = 3780
+  180: Processing instruction(      addx 2) x(                       21)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  182: Processing instruction(      addx 3) x(                       23)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+  184: Processing instruction(     addx -2) x(                       26)
+                                   addx -2  ==> Adding value(-2) and extra 1 cycle
+  186: Processing instruction(        noop) x(                       24)
+  187: Processing instruction(      addx 3) x(                       24)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+  189: Processing instruction(      addx 2) x(                       27)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  191: Processing instruction(        noop) x(                       29)
+  192: Processing instruction(      addx 7) x(                       29)
+                                    addx 7  ==> Adding value(7) and extra 1 cycle
+  194: Processing instruction(     addx -2) x(                       36)
+                                   addx -2  ==> Adding value(-2) and extra 1 cycle
+  196: Processing instruction(      addx 5) x(                       34)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+  198: Processing instruction(    addx -40) x(                       39)
+                                  addx -40  ==> Adding value(-40) and extra 1 cycle
+  200: Processing instruction(     addx 20) x(                       -1)
+                                   addx 20  ==> Adding value(20) and extra 1 cycle
+  202: Processing instruction(    addx -12) x(                       19)
+                                  addx -12  ==> Adding value(-12) and extra 1 cycle
+  204: Processing instruction(        noop) x(                        7)
+  205: Processing instruction(        noop) x(                        7)
+  206: Processing instruction(        noop) x(                        7)
+  207: Processing instruction(     addx -5) x(                        7)
+                                   addx -5  ==> Adding value(-5) and extra 1 cycle
+  209: Processing instruction(      addx 7) x(                        2)
+                                    addx 7  ==> Adding value(7) and extra 1 cycle
+  211: Processing instruction(      addx 7) x(                        9)
+                                    addx 7  ==> Adding value(7) and extra 1 cycle
+  213: Processing instruction(        noop) x(                       16)
+  214: Processing instruction(     addx -1) x(                       16)
+                                   addx -1  ==> Adding value(-1) and extra 1 cycle
+  216: Processing instruction(      addx 1) x(                       15)
+                                    addx 1  ==> Adding value(1) and extra 1 cycle
+  218: Processing instruction(      addx 5) x(                       16)
+                                    addx 5  ==> Adding value(5) and extra 1 cycle
+       Reporting signal strength: 220 x 21 = 4620
+  220: Processing instruction(      addx 3) x(                       21)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+  222: Processing instruction(     addx -2) x(                       24)
+                                   addx -2  ==> Adding value(-2) and extra 1 cycle
+  224: Processing instruction(      addx 2) x(                       22)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  226: Processing instruction(        noop) x(                       24)
+  227: Processing instruction(      addx 3) x(                       24)
+                                    addx 3  ==> Adding value(3) and extra 1 cycle
+  229: Processing instruction(      addx 2) x(                       27)
+                                    addx 2  ==> Adding value(2) and extra 1 cycle
+  231: Processing instruction(        noop) x(                       29)
+  232: Processing instruction(        noop) x(                       29)
+  233: Processing instruction(        noop) x(                       29)
+  234: Processing instruction(        noop) x(                       29)
+  235: Processing instruction(      addx 7) x(                       29)
+                                    addx 7  ==> Adding value(7) and extra 1 cycle
+  237: Processing instruction(        noop) x(                       36)
+  238: Processing instruction(        noop) x(                       36)
+  239: Processing instruction(        noop) x(                       36)
+  240: Processing instruction(        noop) x(                       36)
+
+Register X: 36
+Sum of 6 signal strengths: 14320
+
+Process finished with exit code 0

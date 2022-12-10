@@ -61,7 +61,6 @@
 
   ;; 5B. Implement part-2
   (defn part-2 [input]
-    ;;(reduce max (map #(apply + %) (remove nil? (partition-by nil? input))))
     (reduce + (take-last 3 (sort (map #(apply + %) (remove nil? (partition-by nil? input))))))
     )
   
