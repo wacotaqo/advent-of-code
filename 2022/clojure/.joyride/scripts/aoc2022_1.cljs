@@ -52,9 +52,8 @@
   ;;     You can try it out without editing this first, if you like.
   ;;     (That's why the numbering is a bit funny. 😀)
   (defn part-1 [input]
-    (first input) ; <- Probably the wrong answer
-    )
-
+    (reduce max (map #(apply + %) (remove nil? (partition-by nil? input))))
+)
   ;; 4A. Test your implementation of Part 1
   (part-1 test-input)
   (aoc/update-indicator! "1" (part-1 test-input))
@@ -62,7 +61,8 @@
 
   ;; 5B. Implement part-2
   (defn part-2 [input]
-    (last input) ; <- Good try, but wrong!
+    ;;(reduce max (map #(apply + %) (remove nil? (partition-by nil? input))))
+    (reduce + (take-last 3 (sort (map #(apply + %) (remove nil? (partition-by nil? input))))))
     )
   
   ;; 5A. Test your implementation of Part 1
