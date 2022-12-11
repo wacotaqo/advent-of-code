@@ -1,0 +1,12 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/github/wacotaqo/advent-of-code/2022/python/day11/aoc22_day11_code_part2.py
+0 inspects 63277
+1 inspects 1967
+2 inspects 21879
+3 inspects 127686
+4 inspects 76831
+5 inspects 133592
+6 inspects 70075
+7 inspects 132296
+17673687232
+
+Process finished with exit code 0
