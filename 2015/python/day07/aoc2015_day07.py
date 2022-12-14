@@ -12,48 +12,39 @@ lines = data.splitlines()
 variables = {}
 ops = deque(lines)
 
+def eval_value(v):
+    if v.isnumeric():
+        return int(v)
+    else:
+        return variables[v]
+        
+def eval_expression(parts):
+    if len(parts) == 1: # handle as assignment
+        part = parts[0]
+        return eval_value(part)
+    elif parts[0] == 'NOT': # do AND operation
+        return ~ eval_value(parts[1])
+    elif parts[1] == 'AND': # do AND operation
+        return eval_value(parts[0]) & eval_value(parts[2])
+    elif left_parts[1] == 'OR': # do OR operation
+        return eval_value(parts[0]) | eval_value(parts[2])
+    elif left_parts[1] == 'LSHIFT': # do Left Shift operation
+        return eval_value(parts[0]) << eval_value(parts[2])
+    elif left_parts[1] == 'RSHIFT': # do Right Shift operation
+        return eval_value(parts[0]) >> eval_value(parts[2])
+    else:
+        raise Exception("Unknown instructions: %s --> %s" %  (left, right))
+        
 iterations = 0
 while ops:
     line = ops.popleft()
     (left, right) = line.split(' -> ')
     #print("%s ,%s" % (left, right))
     left_parts = left.split(' ')
-    if len(left_parts) == 1: # variable assignment
-        try:
-            variables[right] = int(left)
-        except:
-            #print("Looking for assignee: %s" % left)
-            if left in variables:
-                variables[right] = variables[left]
-            else:
-                ops.append(line)
-    elif left_parts[0] == 'NOT': # do NOT operation
-        if left_parts[1] in variables:
-            variables[right] = ~variables[left_parts[1]]
-        else:
-            ops.append(line)
-    elif left_parts[1] == 'AND': # do AND operation
-        if left_parts[0] in variables and left_parts[2] in variables:
-            variables[right] = variables[left_parts[0]] & variables[left_parts[2]]
-        else:
-            ops.append(line)
-    elif left_parts[1] == 'OR': # do OR operation
-        if left_parts[0] in variables and left_parts[2] in variables:
-            variables[right] = variables[left_parts[0]] | variables[left_parts[2]]
-        else:
-            ops.append(line)
-    elif left_parts[1] == 'LSHIFT': # do OR operation
-        if left_parts[0] in variables:
-            variables[right] = variables[left_parts[0]] << int(left_parts[2])
-        else:
-            ops.append(line)
-    elif left_parts[1] == 'RSHIFT': # do OR operation
-        if left_parts[0] in variables:
-            variables[right] = variables[left_parts[0]] >> int(left_parts[2])
-        else:
-            ops.append(line)
-    else:
-        print("Unknown instructions: %s --> %s" %  (left, right))
+    try:
+        variables[right] = eval_expression(left_parts)
+    except KeyError:
+        ops.append(line)
 
     iterations += 1
     if iterations % 100 == 0:
