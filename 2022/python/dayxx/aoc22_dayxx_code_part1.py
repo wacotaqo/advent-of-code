@@ -15,7 +15,8 @@ def debug(msg):
         print(msg)
 
 fh = open(os.path.join(os.getcwd(), filename), "r")
-assignment_input = fh.read().splitlines()
+data = fh.read().strip()
 fh.close()
+lines = data.splitlines()
 
-print(assignment_input)
+print(lines)
