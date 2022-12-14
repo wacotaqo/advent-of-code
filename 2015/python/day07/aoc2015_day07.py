@@ -10,6 +10,7 @@ fh.close()
 lines = data.splitlines()
 
 variables = {}
+variables['b'] = 956
 ops = deque(lines)
 
 def eval_value(v):
@@ -47,10 +48,12 @@ while ops:
         ops.append(line)
 
     iterations += 1
-    if iterations % 100 == 0:
+    if iterations % 1000 == 0:
         print("Iteration %s: ops %s" % (iterations, len(ops)))
+        if iterations == 6000:
+            print('.')
 
-    if iterations > 10000:
+    if iterations > 100000:
         break
 
 vars = list(variables.keys())

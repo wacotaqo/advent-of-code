@@ -12,7 +12,7 @@ fm OR fn -> fo
 NOT ag -> ah
 v OR w -> x
 g AND i -> j
-an LSHIFT 15 -> aw
+an LSHIFT 15 -> ar
 1 AND cx -> cy
 jq AND jw -> jy
 iu RSHIFT 5 -> ix
