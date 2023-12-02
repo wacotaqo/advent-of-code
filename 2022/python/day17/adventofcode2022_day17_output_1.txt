@@ -1,0 +1,11 @@
+/usr/local/bin/python3.11 /Users/taquin/Dropbox/dev/github/wacotaqo/advent-of-code/2022/python/day17/aoc22_day17_code_part1.py
+Shapes used: 5
+Shape((0, 0)-(4, 1), [(0, 0), (1, 0), (2, 0), (3, 0)]
+Shape((0, 0)-(3, 3), [(1, 2), (0, 1), (1, 1), (2, 1), (1, 0)]
+Shape((0, 0)-(3, 3), [(2, 2), (2, 1), (0, 0), (1, 0), (2, 0)]
+Shape((0, 0)-(1, 4), [(0, 3), (0, 2), (0, 1), (0, 0)]
+Shape((0, 0)-(2, 2), [(0, 1), (1, 1), (0, 0), (1, 0)]
+
+Tower is 3202 rocks tall.
+
+Process finished with exit code 0
