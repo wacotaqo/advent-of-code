@@ -6,8 +6,8 @@ import re
 from collections import deque
 from functools import reduce
 
-filename = "adventofcode2021_dayxx_input.txt"
-filename = "adventofcode2021_dayxx_input_test.txt"
+filename = "adventofcode2021_day24_input.txt"
+filename = "adventofcode2021_day24_input_test.txt"
 
 DEBUG = 1
 def debug(msg):

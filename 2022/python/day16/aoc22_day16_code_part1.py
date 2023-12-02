@@ -7,7 +7,7 @@ from collections import deque
 from functools import reduce
 
 filename = "adventofcode2022_day16_input.txt"
-#filename = "adventofcode2022_day16_input_test.txt"
+filename = "adventofcode2022_day16_input_test.txt"
 
 DEBUG = 1
 def debug(msg):
@@ -19,67 +19,102 @@ data = fh.read().strip()
 fh.close()
 lines = data.splitlines()
 
-valves = {}
+valve_next = {}
+valve_flow = {}
 for line in lines:
     line = line.split()
-    #print(line)
     from_valve = line[1]
-    flow_rate = int(line[4].split('=')[1][:-1])
-    to_valves = [i.replace(',', '') for i in line[9:]]
-    valves[from_valve] = (flow_rate, to_valves)
+    valve_flow[from_valve] = int(line[4].split('=')[1][:-1])
+    valve_next[from_valve] = [i.replace(',', '') for i in line[9:]]
 
 def release_1_min(opened, released):
     for v in opened:
-        released += valves[v][0]
+        released += valve_flow[v]
     return released
 
-for v in valves:
-    print("%s = %s" % (v, valves[v]))
-print("Read %s valves" % len(valves))
+for v in valve_flow:
+    print("%s = %s, %s" % (v, valve_flow[v], valve_next[v]))
+print("Read %s valves" % len(valve_flow))
 mins = 30
 paths = deque([(0, 'AA', [], 30)])
-r = 0
 max_released = 0
-max_opened = 0
-while r < 1000000:
-    r += 1
+OPT_OPEN = 1
+OPT_WALK = 2
+OPT_NONE = 3
 
-    (released, valve, opened, minute) = paths.popleft()
-    (flow_rate, to_valves) = valves[valve]
-    if released > max_released:
-        max_released = released
-    if max_opened < len(opened):
-        max_opened = len(opened)
+def get_action_name(action):
+    return {OPT_OPEN: "Open", OPT_WALK: "Walk", OPT_NONE: "None"}[action]
 
-    if minute != mins:
-        print("New minute: %s %s %s %s, %s" % (minute, released, len(paths), opened, valve))
-        mins = minute
-
-    if minute < 0:
-        break # times up
-
-    #if max_released > 100:
-    #    if ((released < (max_released * 0.85)) or (len(opened) < (max_opened - 2))):
-            # if too far behind, skip these cases
-    #        continue
-
-    # case: open an unopened valve
-    if flow_rate > 0 and not(valve in opened):
-        new_release = release_1_min(opened, released)
-        new_scenario = (released, valve, opened + [valve], minute-1)
-        if not new_scenario in paths:
-            paths.append(new_scenario)
+def get_best_option(thisv, opened, timeleft, selectedv=None, go_depth=None):
+    if not go_depth:
+        go_depth = 5 # look a few steps ahead
     else:
-        # case: take one of the tunnels
-        for v in to_valves:
-            new_scenario = (release_1_min(opened, released), v, opened, minute-1)
-            if not new_scenario in paths:
-                paths.append(new_scenario)
+        go_depth -=1
+    if go_depth == 0 or timeleft < 1:
+        return (-1, None, OPT_NONE)
 
-#paths = list(paths)
-#paths.sort()
+    # Will try to find action with the best return in the time left
+    # existing opened can be ignored as the past cannot be changed
+    options = []
 
-paths = list(paths)
+    #print("get_best_option for: %s %s %s, %s, %s" % (thisv, opened, timeleft, selectedv, go_depth))
+    # Case: To open the current valve at a cost of 1 minute
+    if not thisv in opened and valve_flow[thisv] > 0 and timeleft > 1:
+        nextselectedv = selectedv if selectedv else thisv
+        if thisv != nextselectedv:
+            action = OPT_WALK
+        else:
+            action = OPT_OPEN
+        options.append((valve_flow[thisv] * (max(0, timeleft-1)), nextselectedv, action))
+
+    # Case: To follow the path to one of the next valves
+    for nextv in valve_next[thisv]:
+        nextselectedv = selectedv if selectedv else nextv
+        # Check return for opening the next valve
+        if not nextv in opened:
+            options.append((valve_flow[nextv] * (max(0, timeleft-2)), nextselectedv, OPT_WALK))
+
+        # Take 1 minute to go to another valve and get the best open for each of the next valves
+        (er, v, o) = get_best_option(nextv, opened, timeleft-1, nextselectedv, go_depth)
+        if o != OPT_NONE:
+            options.append((er, v, o))
+
+    if not options:
+        return (-1, None, OPT_NONE)
+
+    #print("Options: %s" % str(options))
+    options.sort()
+    # best option is now at the back of the list. This is what is should look like
+    (expected_release, valve, option) = options[-1]
+    #print("Best option: %s" % str(options[-1]))
+    return (expected_release, valve, option)
+
+print(paths)
+timestep = 31
+while paths:
+    (released, thisv, opened, timeleft) = paths.popleft()
+
+    if timeleft < 1:
+        print((released, thisv, opened, timeleft))
+        print(paths)
+        break
+
+    if timestep != timeleft:
+        timestep = timeleft
+        print("=============================")
+        print("minute: %s" % timestep)
+        print(paths)
+
+    print("Timeleft(%s) - At %s - opened %s - release %s " % (timeleft, thisv, opened, released))
+    (expected_release, valve, option) = get_best_option(thisv, opened, timeleft)
+    print("Found best option: action %s on valve %s for return %s" % (get_action_name(option), valve, expected_release))
+    if option == OPT_OPEN:
+        assert not (valve in opened)
+        paths.append((release_1_min(opened, released), valve, opened + [thisv], timeleft-1))
+    elif option == OPT_WALK:
+        paths.append((release_1_min(opened, released), valve, opened, timeleft-1))
+    else: # OPT_NONE
+        break
+
+print("Done")
 print(len(paths))
-print(paths[:20])
-print("Max released: %s" % max_released)

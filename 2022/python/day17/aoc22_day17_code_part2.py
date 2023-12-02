@@ -7,7 +7,7 @@ from collections import deque, defaultdict
 from functools import reduce
 
 filename = "adventofcode2022_day17_input.txt"
-#filename = "adventofcode2022_day17_input_test.txt"
+filename = "adventofcode2022_day17_input_test.txt"
 
 DEBUG = 1
 def debug(msg):
@@ -37,6 +37,9 @@ space_floor = list('+-------+')
 shape_start_x = 3
 AIRJET_MOVE_X = {'<': -1, '>': 1}
 
+combinations = 0
+
+
 def new_empty_row():
     return list('|.......|')
 
@@ -50,6 +53,9 @@ class Space:
         self.space[1] = new_empty_row()
         self.airjet = 0
         self.last_highest = 0
+        self.remember = {}
+        self.combinations_last_highest = 0
+        self.combinations_last_row = None
 
     def __str__(self):
         return "Space(%s)" % str(self.space.items())
@@ -75,12 +81,49 @@ class Space:
             fits +=  self.space[cy][cx] == '.'
         return fits == len(shape.pts)
 
-    def drop_shape(self, shape, start_x, start_y, airjets):
+    def drop_shape(self, rock, shape, start_x, start_y, airjets):
         at_rest = False
         x = start_x
         y = start_y
-        #print("Drop at (%s, %s) shape %s" % (x, y, shape))
 
+        if 0:
+            if rock % combinations == 0:
+                highest_y = self.get_highest_occupied_y()
+                self.combinations_last_row = ''.join(self.space[highest_y])
+                height_diff = highest_y - self.combinations_last_highest
+                if self.combinations_last_row in self.remember:
+                    print("Repeat ", self.combinations_last_row, rock, self.remember[self.combinations_last_row])
+                    print("highest %s rock %s" % (highest_y, rock))
+
+                # When we know what to do, we can do it here...
+
+                self.remember[self.combinations_last_row] = height_diff # Number of additional rocks for this combination
+                self.combinations_last_highest = highest_y
+                print(self.remember)
+
+        if 1:
+            if rock % combinations == 0:
+                move = self.airjet #AIRJET_MOVE_X[airjets[self.airjet]]
+                if self.combinations_last_row: # If we have been here before, start doing something...
+                    combo = (shape.id, move, self.combinations_last_row)
+                    if combo in self.remember:
+                        print("Repeat", combo, self.remember[combo])
+
+                highest_y = self.get_highest_occupied_y()
+                self.combinations_last_row = ''.join(self.space[highest_y])
+                height_diff = highest_y - self.combinations_last_highest
+                self.combinations_last_highest = highest_y
+                combo = (shape.id, move, self.combinations_last_row)
+                if not combo in self.remember:
+                    self.remember[combo] = {height_diff: 1}
+                elif not height_diff in self.remember[combo]:
+                    self.remember[combo][height_diff] = 1
+                else:
+                    self.remember[combo][height_diff] += 1
+
+
+
+        #print("Drop at (%s, %s) shape %s" % (x, y, shape))
         if not self.check_shape_fits(shape, start_x, start_y):
             #print("Shape cannot be dropped here!")
             return
@@ -118,8 +161,6 @@ class Space:
         #print("Space looks like this now: ")
         #self.print_space()
 
-
-
     def print_space(self, y=0):
         print("Space (rockheight: %s)" % self.get_highest_occupied_y())
         if y:
@@ -132,7 +173,8 @@ class Space:
             print("%7s  %s" % (y, ''.join(self.space[y])))
 
 class Shape:
-    def __init__(self, shape_str):
+    def __init__(self, shape_str, id):
+        self.id = id
         self.x = 0
         self.y = 0
         self.pts = []
@@ -157,26 +199,27 @@ class Shape:
         self.height = y+1
 
     def __str__(self):
-        return 'Shape((%s, %s)-(%s, %s), %s' % (self.x, self.y,self.length, self.height, self.pts)
+        return 'Shape(%s (%s, %s)-(%s, %s), %s' % (self.id, self.x, self.y,self.length, self.height, self.pts)
 
 
 fh = open(os.path.join(os.getcwd(), filename), "r")
 data = fh.read().strip()
 fh.close()
 
-shapes = [Shape(s.strip()) for s in shape_list.split('\n\n')]
+shapes = [Shape(s.strip(), i) for i, s in enumerate(shape_list.split('\n\n'))]
 num_shapes = len(shapes)
-space = Space()
 airjets = data
+combinations = len(airjets) * num_shapes
+space = Space()
 rock = 0
-rocks_to_drop = 2022 # 1000000000000
+rocks_to_drop = 200000000 # 1000000000000
 while rock < rocks_to_drop:
     #if rocks % 100000 == 0: print(rocks)
-    space.drop_shape(shapes[rock % num_shapes], shape_start_x, space.get_shape_starting_y(), airjets)
+    space.drop_shape(rock, shapes[rock % num_shapes], shape_start_x, space.get_shape_starting_y(), airjets)
     rock += 1
 
-    print("Rock\n====")
-    space.print_space(space.get_highest_occupied_y())
+    #print("Rock\n====")
+    #space.print_space(space.get_highest_occupied_y())
 
 print("Shapes used: %s" % len(shapes))
 for s in shapes:
