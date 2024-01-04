@@ -56,15 +56,17 @@ def make_item_map(input):
                 this_type = ''
             elif row_char.isnumeric():
                 this_type = 'n'
+            elif row_char == '-':
+                this_type = '-' # Minus, might be start of a negative number
             else:
                 this_type = 's'
 
-            if last_type == this_type and this_type != '':
+            if (last_type == this_type and this_type == 'n') or (last_type == '-' and this_type == 'n'):
                 item += row_char
-            elif last_type == '' and this_type in ('n', 's'):
+            elif last_type == '' and this_type in ('n', 's', '-'):
                 item = row_char
             else: 
-                # type has changed, save the last item if it excists
+                # type has changed, save the last item if it exists
                 if item:
                     item_x = x - len(item)
                     items.append((last_type, item, y, item_x)) # Add the item, the coordinates (row and the start colum)
@@ -97,7 +99,7 @@ def process_input(input):
                 for col in range(item_x-1, item_x+len(item)+1):
                     if row in item_map.keys():
                         if col in item_map[row].keys():
-                            if item_map[row][col][0] == 's': 
+                            if item_map[row][col][0] in ('s', '-'): 
                                 has_adj_symbol = True
                                 debug("  Found symbol: %s" % str(item_map[row][col]))
             if has_adj_symbol: 
@@ -105,8 +107,8 @@ def process_input(input):
 
     print("%s numbers have adjacent symbols" % len(nums))
     print(nums)
-    print("Sum of these numbers are %s" % sum(nums))
     #print(items)
+    print("Sum of these numbers are %s" % sum(nums))
 
     print("process_input_done")
     
